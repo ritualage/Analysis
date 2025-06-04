@@ -74,7 +74,14 @@ function SourceTabler($container){
                 var table = ArrTabler(arr);
                 $container.html(table);
                 //$(table).tablesorter();
-                table = new DataTable('#data-table table');
+                table = new DataTable('#data-table table', {
+                    columnDefs: [
+                        {
+                            targets: '_all',
+                            className: 'dt-head-left dt-body-left'
+                        }
+                    ]
+                });
             } else {
                 $container.text("This source isn't supported for tables yet.");
             }
