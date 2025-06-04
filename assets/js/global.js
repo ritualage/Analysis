@@ -112,20 +112,24 @@ function createLineChart(labels, datasets, $container){
 
 function parseJsonForLineChart(d){
     if(!d.observations || d.observations.length === 0){
+        console.log("Chart unsupported: JSON has no observations array or it is empty.");
         return null;
     }
     var row = d.observations[0];
     var keys = Object.keys(row);
     if(keys.length < 2){
+        console.log("Chart unsupported: observations need at least two fields for labels and values.");
         return null;
     }
     var firstKey = keys[0];
     var firstVal = row[firstKey];
     if(!isNaN(parseFloat(firstVal))){
+        console.log("Chart unsupported: first field '" + firstKey + "' must be non-numeric.");
         return null;
     }
     for(var i=1;i<keys.length;i++){
         if(isNaN(parseFloat(row[keys[i]]))){
+            console.log("Chart unsupported: field '" + keys[i] + "' is not numeric.");
             return null;
         }
     }
@@ -146,16 +150,19 @@ function parseJsonForLineChart(d){
 function parseCsvForLineChart(text){
     var lines = text.trim().split(/\r?\n/);
     if(lines.length < 2){
+        console.log("Chart unsupported: CSV must contain a header and at least one data row.");
         return null;
     }
     var headers = lines[0].split(',');
     var rows = lines.slice(1).map(function(l){ return l.split(','); });
     var firstRow = rows[0];
     if(!isNaN(parseFloat(firstRow[0]))){
+        console.log("Chart unsupported: first column must contain labels, not numbers.");
         return null;
     }
     for(var i=1;i<firstRow.length;i++){
         if(isNaN(parseFloat(firstRow[i]))){
+            console.log("Chart unsupported: column '" + headers[i] + "' has non-numeric data.");
             return null;
         }
     }
@@ -189,7 +196,8 @@ function ShowChart($container){
                 throw new Error('json unsupported');
             }
         })
-        .catch(function(){
+        .catch(function(err){
+            console.log('JSON chart load failed:', err.message);
             fetch('./latest.csv')
                 .then(function(r){
                     if(r.ok){
@@ -202,10 +210,12 @@ function ShowChart($container){
                     if(parsed){
                         createLineChart(parsed.labels, parsed.datasets, $container);
                     } else {
+                        console.log('Chart unsupported: CSV data could not be parsed into numeric series.');
                         $container.text("This source isn't supported for charts yet.");
                     }
                 })
-                .catch(function(){
+                .catch(function(err){
+                    console.log('CSV chart load failed:', err.message);
                     $container.text("This source isn't supported for charts yet.");
                 });
         });
