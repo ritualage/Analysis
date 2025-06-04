@@ -83,13 +83,3 @@ h4{
 img{
     max-width: 100%;
 }
-.headline img{
-    float:left;                 /* image sticks to the left of the heading */
-    height:3em;                 /* same optical height as the h1 text        */
-    margin-right:0.5rem;        /* breathing room between image and heading  */
-}  
-.headline::after{
-    content:"";                 /* clearfix so later content starts below    */
-    display:block;
-    clear:both;                 /* clears the float created above            */
-}
