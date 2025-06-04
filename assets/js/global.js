@@ -8,8 +8,15 @@ function ArrTabler(arr){
     // Create a row for the header
     var headerRow = document.createElement('tr');
     // Create and append th elements for each column
+    //The first one should have width=1
+    first = true;
     columns.forEach(function(column) {
         var th = document.createElement('th');
+        if(first){
+            //set attribute width to 1
+            th.setAttribute('width', '1');
+            first = false;
+        }
         th.textContent = column;
         headerRow.appendChild(th);
     });
