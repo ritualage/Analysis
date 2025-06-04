@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', function () {
     .then(r => r.json())
     .then(d => {
       if (d.observations) {
-        const arr = d.observations.map(o => ({ date: o.date, value: o.value }));
-        const table = ArrTabler(arr);
+        arr = d.observations.map(o => ({ date: o.date, value: o.value }));
+        table = ArrTabler(arr);
         container.appendChild(table);
         $(table).tablesorter();
       } else {
