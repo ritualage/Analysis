@@ -4,6 +4,10 @@ title: Home
 ---
 
 <h1><a href="https://analysis.castromedia.org">Analysis</a>.<a href="https://castromedia.org">CastroMedia.org</a></h1>
+
+**A platform for primary sociological research based on the latest data from reputable sources on local issues.**
+
+
 <img src="/assets/images/analysis.gif" class="photo">
 
 
