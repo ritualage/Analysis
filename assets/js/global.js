@@ -75,6 +75,7 @@ function SourceTabler($container){
                 $container.html(table);
                 //$(table).tablesorter();
                 table = new DataTable('#data-table table', {
+                    order: [[0, 'desc']],
                     columnDefs: [
                         {
                             targets: '_all',
