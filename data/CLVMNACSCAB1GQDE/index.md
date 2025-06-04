@@ -9,7 +9,7 @@ date: 2025-06-04
 <div id="data-table"></div>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
-  FREDTable($('#data-table'));
+  SourceTabler($('#data-table'));
 });
 </script>
 
