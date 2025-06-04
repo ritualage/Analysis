@@ -13,10 +13,10 @@ public site.
 #### 1. Repository structure at a glance
 
 * **`data/`** — holds every raw dataset.
-  * A single **`catalog.csv`** file lists where each dataset comes from, how often it should be refreshed, when it was last fetched, and which sub-folder it lives in.
+* A single **`catalog.csv`** file lists where each dataset comes from, what file format it uses, how often it should be refreshed, when it was last fetched, and which sub-folder it lives in.
   * Each dataset has its own folder (for example `data/xyz/`). Inside that folder:
-    * One file named with the exact download date (such as `2025-06-03.csv`) preserves a permanent, timestamped snapshot.
-    * A companion file called `latest.csv` is simply a copy (or symbolic link) to the most recent snapshot, so analyses can always point at a stable filename.
+    * One file named with the exact download date (such as `2025-06-03.json`) preserves a permanent, timestamped snapshot. The extension matches the catalog's declared file type.
+    * A companion file called `latest.json` (or the matching extension) is simply a copy (or symbolic link) to the most recent snapshot, so analyses can always point at a stable filename.
 * **`data/update.ipynb`** — the single Jupyter notebook that orchestrates everything: fetching new data, versioning it, and triggering re-analysis.
 * **`analysis/`** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
 
@@ -31,7 +31,7 @@ public site.
    * The notebook opens `catalog.csv`, looks at the "cadence" field for each source (expressed as a standard cron pattern or any other schedule convention you prefer), and decides which datasets are due for an update.
 3. **Downloading and versioning**
    * Every dataset that's out of date is downloaded and saved in its folder under today's date.
-   * The notebook also refreshes `latest.csv` so that analyses never need to guess which file is newest.
+   * The notebook also refreshes `latest.json` (or whatever extension is specified) so that analyses never need to guess which file is newest.
    * The "last-fetched" timestamp in `catalog.csv` is updated so the next run knows the job is done.
 4. **Opening a pull request for data changes**
    * Still within the notebook, a new Git branch is created, the modified files are committed, and a pull request (PR) titled something like "Data refresh – YYYY-MM-DD" is opened on the public repository.
