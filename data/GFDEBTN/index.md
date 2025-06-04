@@ -1,10 +1,10 @@
 ---
 layout: default
-title: fred - US Nominal GDP (quarterly)
+title: fred - US Federal Debt: Total US Public Debt
 date: 2025-06-04
 ---
 
-## fred - US Nominal GDP (quarterly)
+## fred - US Federal Debt: Total US Public Debt
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

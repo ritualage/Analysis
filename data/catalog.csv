@@ -1,9 +1,9 @@
 source,filetype,folder,url,api_key,cadence,last_fetched,description
-fred,json,GDPC1,https://api.stlouisfed.org/fred/series/observations?series_id=GDPC1&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,"Real GDP (chain‑indexed, quarterly)"
-fred,json,A939RX0Q048SBEA,https://api.stlouisfed.org/fred/series/observations?series_id=A939RX0Q048SBEA&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Nominal GDP (quarterly)
+fred,json,GDPC1,https://api.stlouisfed.org/fred/series/observations?series_id=GDPC1&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Real GDP (quarterly)
+fred,json,A939RX0Q048SBEA,https://api.stlouisfed.org/fred/series/observations?series_id=A939RX0Q048SBEA&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Nominal GDP (quarterly)
 fred,json,M2REAL,https://api.stlouisfed.org/fred/series/observations?series_id=M2REAL&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Real M2 Money Stock (monthly)
-fred,json,UNRATE,https://api.stlouisfed.org/fred/series/observations?series_id=UNRATE&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Civilian Unemployment Rate (monthly)
-fred,json,CLVMNACSCAB1GQDE,https://api.stlouisfed.org/fred/series/observations?series_id=CLVMNACSCAB1GQDE&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,"German Real GDP (chain‑linked, quarterly)"
-fred,json,GFDEBTN,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEBTN&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Federal Debt: Total Public Debt
-fred,json,GFDEGDQ188S,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEGDQ188S&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Federal Debt: Total Public Debt as Percent of Gross Domestic Product
-fred,json,TDSP,https://api.stlouisfed.org/fred/series/observations?series_id=TDSP&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,Household Debt Service Payments as a Percent of Disposable Personal Income
+fred,json,UNRATE,https://api.stlouisfed.org/fred/series/observations?series_id=UNRATE&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Civilian Unemployment Rate (monthly)
+fred,json,CLVMNACSCAB1GQDE,https://api.stlouisfed.org/fred/series/observations?series_id=CLVMNACSCAB1GQDE&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,German Real GDP (quarterly)
+fred,json,GFDEBTN,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEBTN&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Federal Debt: Total US Public Debt
+fred,json,GFDEGDQ188S,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEGDQ188S&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Federal Debt: Total Public Debt as Percent of Gross Domestic Product
+fred,json,TDSP,https://api.stlouisfed.org/fred/series/observations?series_id=TDSP&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Household Debt Service Payments as a Percent of Disposable Personal Income

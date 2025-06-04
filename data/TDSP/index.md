@@ -1,10 +1,10 @@
 ---
 layout: default
-title: fred - US Nominal GDP (quarterly)
+title: fred - US Household Debt Service Payments as a Percent of Disposable Personal Income
 date: 2025-06-04
 ---
 
-## fred - US Nominal GDP (quarterly)
+## fred - US Household Debt Service Payments as a Percent of Disposable Personal Income
 
 <div id="data-chart"></div>
 <div id="data-table"></div>
