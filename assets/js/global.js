@@ -110,41 +110,67 @@ function createLineChart(labels, datasets, $container){
     });
 }
 
-function parseJsonForLineChart(d){
-    if(!d.observations || d.observations.length === 0){
-        console.log("Chart unsupported: JSON has no observations array or it is empty.");
+function isNumeric(val){
+    if(typeof val === 'number'){
+        return !isNaN(val);
+    }
+    if(typeof val !== 'string'){
+        return false;
+    }
+    return /^-?\d+(\.\d+)?$/.test(val.trim());
+}
+
+function parseTable(arr){
+    if(!Array.isArray(arr) || arr.length === 0){
         return null;
     }
-    var row = d.observations[0];
+    var row = arr[0];
     var keys = Object.keys(row);
     if(keys.length < 2){
         console.log("Chart unsupported: observations need at least two fields for labels and values.");
         return null;
     }
     var firstKey = keys[0];
-    var firstVal = row[firstKey];
-    if(!isNaN(parseFloat(firstVal))){
+    if(isNumeric(row[firstKey])){
         console.log("Chart unsupported: first field '" + firstKey + "' must be non-numeric.");
         return null;
     }
     for(var i=1;i<keys.length;i++){
-        if(isNaN(parseFloat(row[keys[i]]))){
+        if(!isNumeric(row[keys[i]])){
             console.log("Chart unsupported: field '" + keys[i] + "' is not numeric.");
             return null;
         }
     }
-    var labels = d.observations.map(function(o){ return o[firstKey]; });
+    var labels = arr.map(function(o){ return o[firstKey]; });
     var datasets = [];
     var colors = ['steelblue', 'red', 'green', 'orange', 'purple', 'brown'];
     keys.slice(1).forEach(function(k, idx){
         datasets.push({
             label: k,
-            data: d.observations.map(function(o){ return parseFloat(o[k]); }),
+            data: arr.map(function(o){ return parseFloat(o[k]); }),
             borderColor: colors[idx % colors.length],
             fill: false
         });
     });
     return {labels: labels, datasets: datasets};
+}
+
+function parseJsonForLineChart(d){
+    var tables = [];
+    if(Array.isArray(d)){
+        tables.push(d);
+    }
+    if(d && Array.isArray(d.observations)){
+        tables.push(d.observations);
+    }
+    for(var i=0;i<tables.length;i++){
+        var parsed = parseTable(tables[i]);
+        if(parsed){
+            return parsed;
+        }
+    }
+    console.log("Chart unsupported: JSON has no observations array or it is empty.");
+    return null;
 }
 
 function parseCsvForLineChart(text){
