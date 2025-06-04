@@ -85,7 +85,7 @@ img{
 }
 .headline img{
     float:left;                 /* image sticks to the left of the heading */
-    height:1em;                 /* same optical height as the h1 text        */
+    height:3em;                 /* same optical height as the h1 text        */
     margin-right:0.5rem;        /* breathing room between image and heading  */
 }  
 .headline::after{
