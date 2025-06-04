@@ -65,8 +65,8 @@ function FREDTable($container){
             if (d.observations){
                 var arr = d.observations.map(o => ({ date: o.date, value: o.value }));
                 var table = ArrTabler(arr);
-                $container.append(table);
-                $(table).tablesorter();
+                $container.html(table);
+                //$(table).tablesorter();
             } else {
                 $container.text("This source isn't supported for tables yet.");
             }
