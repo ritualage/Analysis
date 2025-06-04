@@ -161,7 +161,11 @@ function parseJsonForLineChart(d){
         tables.push(d);
     }
     if(d && Array.isArray(d.observations)){
-        tables.push(d.observations);
+        if(d.observations.length && d.observations[0].date !== undefined && d.observations[0].value !== undefined){
+            tables.push(d.observations.map(function(o){ return { date: o.date, value: o.value }; }));
+        } else {
+            tables.push(d.observations);
+        }
     }
     for(var i=0;i<tables.length;i++){
         var parsed = parseTable(tables[i]);
