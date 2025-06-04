@@ -3,10 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1><a href="https://analysis.castromedia.org">Analysis</a>.<a href="https://castromedia.org">CastroMedia.org</a></h1>
-
-**A platform for primary sociological research based on the latest data from reputable sources on local issues.**
-
+<p><i>A platform for primary sociological research based on the latest data from reputable sources on local issues.</i></p>
 
 <img src="/assets/images/analysis.gif" class="photo">
 
