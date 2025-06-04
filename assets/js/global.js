@@ -210,7 +210,58 @@ function parseCsvForLineChart(text){
     return {labels: labels, datasets: datasets};
 }
 
+function isDateLabel(label){
+    return /^\d{4}-\d{2}-\d{2}$/.test(label);
+}
+
+function filterDataByStartDate(data, start){
+    if(!start){
+        return data;
+    }
+    var labels = [];
+    var datasets = data.datasets.map(function(ds){
+        return { label: ds.label, data: [] , borderColor: ds.borderColor, fill: ds.fill };
+    });
+    for(var i=0;i<data.labels.length;i++){
+        var d = new Date(data.labels[i]);
+        if(d >= start){
+            labels.push(data.labels[i]);
+            datasets.forEach(function(ds, idx){
+                ds.data.push(data.datasets[idx].data[i]);
+            });
+        }
+    }
+    return {labels: labels, datasets: datasets};
+}
+
 function ShowChart($container){
+    function renderWithButtons(fullData){
+        $container.empty();
+        var $chartDiv = $('<div></div>');
+        $container.append($chartDiv);
+        createLineChart(fullData.labels, fullData.datasets, $chartDiv);
+        if(isDateLabel(fullData.labels[0])){
+            var lastDate = new Date(fullData.labels[fullData.labels.length-1]);
+            var ranges = [
+                {label: 'all', start: null},
+                {label: '5yr', start: new Date(lastDate.getFullYear()-5, lastDate.getMonth(), lastDate.getDate())},
+                {label: '1yr', start: new Date(lastDate.getFullYear()-1, lastDate.getMonth(), lastDate.getDate())},
+                {label: 'ytd', start: new Date(lastDate.getFullYear(), 0, 1)},
+                {label: '1mo', start: new Date(lastDate.getFullYear(), lastDate.getMonth()-1, lastDate.getDate())}
+            ];
+            var $btnDiv = $('<div class="chart-range-buttons"></div>');
+            ranges.forEach(function(r){
+                var $btn = $('<button type="button" class="btn btn-secondary btn-sm"></button>').text(r.label);
+                $btn.on('click', function(){
+                    var filtered = filterDataByStartDate(fullData, r.start);
+                    createLineChart(filtered.labels, filtered.datasets, $chartDiv);
+                });
+                $btnDiv.append($btn);
+            });
+            $container.append($btnDiv);
+        }
+    }
+
     fetch('./latest.json')
         .then(function(r){
             if(r.ok){
@@ -221,7 +272,7 @@ function ShowChart($container){
         .then(function(d){
             var parsed = parseJsonForLineChart(d);
             if(parsed){
-                createLineChart(parsed.labels, parsed.datasets, $container);
+                renderWithButtons(parsed);
             } else {
                 throw new Error('json unsupported');
             }
@@ -238,7 +289,7 @@ function ShowChart($container){
                 .then(function(text){
                     var parsed = parseCsvForLineChart(text);
                     if(parsed){
-                        createLineChart(parsed.labels, parsed.datasets, $container);
+                        renderWithButtons(parsed);
                     } else {
                         console.log('Chart unsupported: CSV data could not be parsed into numeric series.');
                         $container.text("This source isn't supported for charts yet.");

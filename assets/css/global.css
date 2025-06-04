@@ -84,3 +84,11 @@ img{
     max-width: 100%;
 }
 
+.chart-range-buttons{
+    margin-top: 0.5rem;
+}
+
+.chart-range-buttons button{
+    margin-right: 0.25rem;
+}
+
