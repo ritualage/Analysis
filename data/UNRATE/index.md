@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Civilian Unemployment Rate (monthly)
+title: fred - Civilian Unemployment Rate (monthly)
 date: 2025-06-04
 ---
 
-## Civilian Unemployment Rate (monthly)
+## fred - Civilian Unemployment Rate (monthly)
 
 <div id="data-table"></div>
 <script>

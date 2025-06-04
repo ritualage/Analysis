@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Real M2 Money Stock (monthly)
+title: fred - Real M2 Money Stock (monthly)
 date: 2025-06-04
 ---
 
-## Real M2 Money Stock (monthly)
+## fred - Real M2 Money Stock (monthly)
 
 <div id="data-table"></div>
 <script>

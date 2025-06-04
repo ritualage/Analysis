@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Real GDP (chain‑indexed, quarterly)
+title: fred - Real GDP (chain‑indexed, quarterly)
 date: 2025-06-04
 ---
 
-## Real GDP (chain‑indexed, quarterly)
+## fred - Real GDP (chain‑indexed, quarterly)
 
 <div id="data-table"></div>
 <script>

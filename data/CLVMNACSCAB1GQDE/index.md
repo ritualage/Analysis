@@ -1,10 +1,10 @@
 ---
 layout: default
-title: German Real GDP (chain‑linked, quarterly)
+title: fred - German Real GDP (chain‑linked, quarterly)
 date: 2025-06-04
 ---
 
-## German Real GDP (chain‑linked, quarterly)
+## fred - German Real GDP (chain‑linked, quarterly)
 
 <div id="data-table"></div>
 <script>
