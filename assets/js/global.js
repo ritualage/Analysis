@@ -65,7 +65,7 @@ function ArrTabler(arr){
     return table;
 }
 
-function FREDTable($container){
+function SourceTabler($container){
     fetch('./latest.json')
         .then(r => r.json())
         .then(d => {
@@ -82,4 +82,8 @@ function FREDTable($container){
         .catch(() => {
             $container.text("This source isn't supported for tables yet.");
         });
+}
+
+function ShowChart(){
+    
 }
