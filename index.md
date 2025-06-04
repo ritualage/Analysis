@@ -5,9 +5,6 @@ title: Home
 
 <p><i>A platform for primary sociological research based on the latest data from reputable sources on local issues.</i></p>
 
-<img src="/assets/images/analysis.gif" class="photo">
-
-
 ## Here are the projects:
 
 <div markdown="0">
