@@ -67,6 +67,7 @@ function FREDTable($container){
                 var table = ArrTabler(arr);
                 $container.html(table);
                 //$(table).tablesorter();
+                table = new DataTable('#data-table table');
             } else {
                 $container.text("This source isn't supported for tables yet.");
             }
