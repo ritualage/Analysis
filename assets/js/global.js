@@ -91,6 +91,122 @@ function SourceTabler($container){
         });
 }
 
-function ShowChart(){
-    
+function createLineChart(labels, datasets, $container){
+    $container.empty();
+    var canvas = document.createElement('canvas');
+    $container.append(canvas);
+    new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets
+        },
+        options: {
+            scales: {
+                x: { display: true },
+                y: { display: true }
+            }
+        }
+    });
+}
+
+function parseJsonForLineChart(d){
+    if(!d.observations || d.observations.length === 0){
+        return null;
+    }
+    var row = d.observations[0];
+    var keys = Object.keys(row);
+    if(keys.length < 2){
+        return null;
+    }
+    var firstKey = keys[0];
+    var firstVal = row[firstKey];
+    if(!isNaN(parseFloat(firstVal))){
+        return null;
+    }
+    for(var i=1;i<keys.length;i++){
+        if(isNaN(parseFloat(row[keys[i]]))){
+            return null;
+        }
+    }
+    var labels = d.observations.map(function(o){ return o[firstKey]; });
+    var datasets = [];
+    var colors = ['steelblue', 'red', 'green', 'orange', 'purple', 'brown'];
+    keys.slice(1).forEach(function(k, idx){
+        datasets.push({
+            label: k,
+            data: d.observations.map(function(o){ return parseFloat(o[k]); }),
+            borderColor: colors[idx % colors.length],
+            fill: false
+        });
+    });
+    return {labels: labels, datasets: datasets};
+}
+
+function parseCsvForLineChart(text){
+    var lines = text.trim().split(/\r?\n/);
+    if(lines.length < 2){
+        return null;
+    }
+    var headers = lines[0].split(',');
+    var rows = lines.slice(1).map(function(l){ return l.split(','); });
+    var firstRow = rows[0];
+    if(!isNaN(parseFloat(firstRow[0]))){
+        return null;
+    }
+    for(var i=1;i<firstRow.length;i++){
+        if(isNaN(parseFloat(firstRow[i]))){
+            return null;
+        }
+    }
+    var labels = rows.map(function(r){ return r[0]; });
+    var colors = ['steelblue', 'red', 'green', 'orange', 'purple', 'brown'];
+    var datasets = [];
+    for(var c=1;c<headers.length;c++){
+        datasets.push({
+            label: headers[c],
+            data: rows.map(function(r){ return parseFloat(r[c]); }),
+            borderColor: colors[(c-1) % colors.length],
+            fill: false
+        });
+    }
+    return {labels: labels, datasets: datasets};
+}
+
+function ShowChart($container){
+    fetch('./latest.json')
+        .then(function(r){
+            if(r.ok){
+                return r.json();
+            }
+            throw new Error('no json');
+        })
+        .then(function(d){
+            var parsed = parseJsonForLineChart(d);
+            if(parsed){
+                createLineChart(parsed.labels, parsed.datasets, $container);
+            } else {
+                throw new Error('json unsupported');
+            }
+        })
+        .catch(function(){
+            fetch('./latest.csv')
+                .then(function(r){
+                    if(r.ok){
+                        return r.text();
+                    }
+                    throw new Error('no csv');
+                })
+                .then(function(text){
+                    var parsed = parseCsvForLineChart(text);
+                    if(parsed){
+                        createLineChart(parsed.labels, parsed.datasets, $container);
+                    } else {
+                        $container.text("This source isn't supported for charts yet.");
+                    }
+                })
+                .catch(function(){
+                    $container.text("This source isn't supported for charts yet.");
+                });
+        });
 }
