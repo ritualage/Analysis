@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Latest Headlines
+title: Headline Topics
 date: 2025-06-05
 ---
 
 ## Latest Headlines
 
-All the current headlines from all the rss feeds we are monitoring, sorted by pubdate, deduplicated.
+We start with the list of all headlines, sorted by publication date and deduplicated.
+
+We count the instances of all the unique words in all the headlines and then use that to score all the headlines and sort them.
 
 <div id="headline-table"></div>
 <script>
