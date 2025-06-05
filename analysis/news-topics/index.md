@@ -62,7 +62,6 @@ document.addEventListener('DOMContentLoaded', function(){
 ## File Versions:
 {% assign csv_files = site.static_files | where:"extname", ".csv" | where_exp:"f","f.path contains 'analysis/news-topics/'" | sort: 'name' | reverse %}
 <ol>
-  <li><a href="./latest.csv">Latest version</a></li>
   {% for file in csv_files %}
     {% unless file.name == 'latest.csv' %}
   <li><a href="./{{ file.name }}">{{ file.name }}</a></li>
