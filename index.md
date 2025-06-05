@@ -51,11 +51,9 @@ title: Home
 
 ## About this project
 
-This repository hosts data snapshots and Jupyter notebooks for various research
-projects published at [analysis.castromedia.org](https://analysis.castromedia.org).
-It contains no application code. Instead it tracks raw datasets, the notebooks
-that generate results from those datasets, and rendered artefacts that power the
-public site.
+This repository hosts datasets and Jupyter notebooks for the studies published at [analysis.castromedia.org](https://analysis.castromedia.org).
+Over time the tooling has grown to ingest RSS and XML feeds with sentiment analysis and to auto-generate index pages complete with interactive charts and tables.
+There is still no application code here—only the data, notebooks and rendered artefacts that power the public site.
 
 
 #### 1. Repository structure at a glance
@@ -67,6 +65,8 @@ public site.
     * A companion file called `latest.json` (or the matching extension) is simply a copy (or symbolic link) to the most recent snapshot, so analyses can always point at a stable filename.
 * **`data/update.ipynb`** — the single Jupyter notebook that orchestrates everything: fetching new data, versioning it, and triggering re-analysis.
 * **`analysis/`** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
+* **`assets/js/`** — custom scripts powering interactive DataTables and charts.
+* Each dataset folder has an `index.md` page generated automatically with links to each snapshot and built-in visualizations when possible.
 
 ---
 
