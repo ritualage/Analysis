@@ -6,11 +6,12 @@ date: 2025-06-05
 
 ## Overview
 
-This project analyzes the latest headlines to surface common themes. The notebook that generates these results runs in three steps:
+This project analyzes the latest headlines to surface common themes. The notebook that generates these results runs in four steps:
 
 1. **Load and deduplicate headlines**
 2. **Calculate word scores**
 3. **Rank the headlines**
+4. **Select top headlines**
 
 Each section below explains the step and presents its current output as an interactive table.
 
@@ -31,6 +32,12 @@ The headline text is tokenized and every unique word counted, ignoring the stop 
 For each headline we sum the scores of the words it contains and sort the list from highest to lowest.
 
 <div id="step3-table"></div>
+
+### 4. Select top headlines
+
+After removing the most common word from the score list and re-ranking, this step repeats ten times to highlight varied stories.
+
+<div id="step4-table"></div>
 
 <script>
 function loadCsvTable(sel, csvPath){
@@ -56,6 +63,7 @@ document.addEventListener('DOMContentLoaded', function(){
   loadCsvTable('#step1-table', '../headlines/latest.csv');
   loadCsvTable('#step2-table', './scores.csv');
   loadCsvTable('#step3-table', './rank.csv');
+  loadCsvTable('#step4-table', './top.csv');
 });
 </script>
 
