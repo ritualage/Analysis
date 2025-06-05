@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Headline Topics
+title: Top News Topics
 date: 2025-06-05
 ---
 
-## Overview
+## Top News Topics
 
 This project analyzes the latest headlines to surface common themes. The notebook that generates these results runs in four steps:
 
