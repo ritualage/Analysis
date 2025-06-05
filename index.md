@@ -31,11 +31,10 @@ title: Home
 
 <div markdown="0">
 
-{% assign update_pages = site.pages | sort: "title" %}
+{% assign data_pages = site.pages | sort: "title" %}
 
-{% for page in update_pages %}
-  {% assign path_parts = page.path | split: "/" %}
-  {% if page.path contains "data/" and path_parts.size == 3 % and page.path != "data/index.md" %}
+{% for page in data_pages %}
+  {% if page.path contains "data/" and page.name == "index.md" %}
     <hr>
     <p>
       <a href="{{ page.url }}">{{ page.title }}</a><br>
