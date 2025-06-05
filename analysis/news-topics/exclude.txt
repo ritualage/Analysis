@@ -86,3 +86,5 @@ is
 are
 be
 from
+trump
+president
