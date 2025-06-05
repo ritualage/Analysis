@@ -1,10 +1,10 @@
 ---
 layout: default
-title: nyt - Americas' News from the New York Times
+title: tribune - Business News from the Chicago Tribune
 date: 2025-06-04
 ---
 
-## nyt - Americas' News from the New York Times
+## tribune - Business News from the Chicago Tribune
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

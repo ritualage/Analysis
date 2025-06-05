@@ -1,10 +1,10 @@
 ---
 layout: default
-title: nyt - Americas' News from the New York Times
+title: nyt - Economic News from the New York Times
 date: 2025-06-04
 ---
 
-## nyt - Americas' News from the New York Times
+## nyt - Economic News from the New York Times
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

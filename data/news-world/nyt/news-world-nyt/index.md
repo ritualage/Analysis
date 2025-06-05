@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - World News from the New York Times
-date: 
+date: 2025-06-04
 ---
 
 ## nyt - World News from the New York Times

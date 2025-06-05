@@ -1,0 +1,454 @@
+{
+  "entries": [
+    {
+      "title": "Trump Bans Citizens of 12 Countries From Traveling to U.S.",
+      "link": "https://www.wsj.com/politics/policy/trump-bans-citizens-of-12-countries-from-traveling-to-u-s-ba0b6b65",
+      "published": "Thu, 05 Jun 2025 04:07:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Germany’s Leader Has a Message for Trump: We Need You, but You Also Need Us",
+      "link": "https://www.wsj.com/world/europe/trump-germany-friedrich-merz-visit-fefe1b50",
+      "published": "Thu, 05 Jun 2025 03:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "The Ukrainian Spy Agency Behind the Stunning Strike on Russia’s Bomber Fleet",
+      "link": "https://www.wsj.com/world/ukraine-spy-sbu-russia-drone-attack-f78f9713",
+      "published": "Thu, 05 Jun 2025 03:00:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "How the Houthis Rattled the U.S. Navy—and Transformed Maritime War",
+      "link": "https://www.wsj.com/world/middle-east/navy-houthis-maritime-war-5517a127",
+      "published": "Thu, 05 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia Plans to Respond to Drone Attack, Trump Says After Call With Putin",
+      "link": "https://www.wsj.com/world/trump-said-he-spoke-with-putin-after-ukraine-drone-attack-6dcc835b",
+      "published": "Wed, 04 Jun 2025 19:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Canada to Hold Off on Retaliating in Response to Higher U.S. Metals Tariffs",
+      "link": "https://www.wsj.com/world/americas/canada-to-hold-off-on-retaliating-in-response-to-higher-u-s-metals-tariffs-3eff020b",
+      "published": "Wed, 04 Jun 2025 18:56:00 GMT",
+      "sentiment": 0.1590909090909091
+    },
+    {
+      "title": "British Police Investigate Fires at Properties Linked to Prime Minister",
+      "link": "https://www.wsj.com/world/uk/british-counterterror-police-investigate-fires-at-properties-linked-to-prime-minister-2bed7baa",
+      "published": "Tue, 13 May 2025 15:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.K. Plans to Tighten Rules After Record Influx of Migrants",
+      "link": "https://www.wsj.com/world/uk/u-k-plans-to-tighten-rules-after-record-influx-of-migrants-523d1535",
+      "published": "Mon, 12 May 2025 15:54:00 GMT",
+      "sentiment": -0.1875
+    },
+    {
+      "title": "Men Found Guilty of Felling Famous Tree in ‘Moronic Mission’ That Gripped U.K.",
+      "link": "https://www.wsj.com/world/uk/men-found-guilty-of-felling-famous-tree-in-moronic-mission-that-gripped-u-k-7153199e",
+      "published": "Fri, 09 May 2025 12:55:00 GMT",
+      "sentiment": -0.08
+    },
+    {
+      "title": "BOE Set For Modest Rate Cuts As Inflation Stays High, NIESR Says",
+      "link": "https://www.wsj.com/world/uk/boe-set-for-modest-rate-cuts-as-inflation-stays-high-niesr-says-1e5f5f64",
+      "published": "Thu, 08 May 2025 07:01:00 GMT",
+      "sentiment": 0.10888888888888891
+    },
+    {
+      "title": "‘Trump With a Pint’: How Nigel Farage Is Upending British Politics",
+      "link": "https://www.wsj.com/world/uk/trump-with-a-pint-how-nigel-farage-is-upending-british-politics-ca0704bb",
+      "published": "Fri, 02 May 2025 11:03:00 GMT",
+      "sentiment": 0.11199999999999999
+    },
+    {
+      "title": "BCG Had Doubts About Gaza Aid Project Before It Pulled Out",
+      "link": "https://www.wsj.com/world/middle-east/bcg-had-doubts-about-gaza-aid-project-before-it-pulled-out-74808f33",
+      "published": "Wed, 04 Jun 2025 14:53:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Iran’s Supreme Leader Rejects U.S. Nuclear Deal Offer",
+      "link": "https://www.wsj.com/world/middle-east/irans-supreme-leader-rejects-u-s-nuclear-deal-offer-8de2e223",
+      "published": "Wed, 04 Jun 2025 11:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israeli Troops Fire at Palestinians as Aid Plan Becomes Mired in Disorder",
+      "link": "https://www.wsj.com/world/middle-east/israeli-troops-fire-at-palestinian-near-aid-site-dc2370b6",
+      "published": "Tue, 03 Jun 2025 21:05:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "More Than 20 Gazans Killed Trying to Get Aid, Palestinian Authorities Say",
+      "link": "https://www.wsj.com/world/middle-east/more-than-20-gazans-killed-waiting-for-aid-palestinian-authorities-say-727f77b8",
+      "published": "Sun, 01 Jun 2025 22:34:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Needing Dollars, Iran-Backed Militias Turn to Visa and Mastercard",
+      "link": "https://www.wsj.com/world/middle-east/iran-visa-mastercard-dollars-sanctions-militias-0ecea0b9",
+      "published": "Sun, 01 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.11666666666666665
+    },
+    {
+      "title": "North Korea Races to Fix Capsized Warship by Kim’s Deadline",
+      "link": "https://www.wsj.com/world/asia/north-korea-races-to-fix-capsized-warship-by-kims-deadline-1b15e9b1",
+      "published": "Wed, 04 Jun 2025 10:20:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "South Korean Left-Leaning Candidate Wins Presidential Election",
+      "link": "https://www.wsj.com/world/asia/south-korean-left-leaning-candidate-poised-to-win-presidential-election-25eda8e9",
+      "published": "Tue, 03 Jun 2025 22:09:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "South Korea Elects Its Next President: What to Know",
+      "link": "https://www.wsj.com/world/asia/south-korea-elects-its-next-president-what-to-know-518cff3e",
+      "published": "Mon, 02 Jun 2025 21:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indian Billionaire Gautam Adani Comes Under New Scrutiny from U.S. Prosecutors",
+      "link": "https://www.wsj.com/world/asia/indian-billionaire-gautam-adani-comes-under-new-scrutiny-from-u-s-prosecutors-df0c1bf0",
+      "published": "Mon, 02 Jun 2025 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Seeking the Dalai Lama’s Blessing, a Tibetan Monk Sets Out to Flee China",
+      "link": "https://www.wsj.com/world/asia/seeking-the-dalai-lamas-blessing-a-tibetan-monk-sets-out-to-flee-china-d7c68290",
+      "published": "Sun, 01 Jun 2025 14:00:00 GMT",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Opinion | Will Trump Take ‘No’ for an Answer?",
+      "link": "https://www.wsj.com/opinion/donald-trump-russia-iran-negotiations-vladimir-putin-ayatollah-ali-khamenei-999ccacf",
+      "published": "Wed, 04 Jun 2025 21:39:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Opinion | Mideast Power Plays in India and Pakistan",
+      "link": "https://www.wsj.com/opinion/mideast-power-plays-in-india-and-pakistan-1221f7ea",
+      "published": "Wed, 04 Jun 2025 21:35:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Opinion | Germany’s Merz Turns Against Israel",
+      "link": "https://www.wsj.com/opinion/germanys-merz-turns-against-israel-war-hamas-policy-09a85b0a",
+      "published": "Wed, 04 Jun 2025 17:19:00 GMT",
+      "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "Opinion | South Korea Takes an Election Left Turn",
+      "link": "https://www.wsj.com/opinion/south-korea-election-lee-jae-myung-yoon-suk-yeol-e44740ca",
+      "published": "Tue, 03 Jun 2025 23:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Ukraine’s Drone Strike Is a Warning—for the U.S.",
+      "link": "https://www.wsj.com/opinion/ukraine-drone-strike-russia-u-s-homeland-defense-8e2244b2",
+      "published": "Tue, 03 Jun 2025 21:36:00 GMT",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Opinion | Israel Can’t Nix Iran’s Nukes",
+      "link": "https://www.wsj.com/opinion/israel-cant-nix-irans-nukes-program-mid-east-jcpoa-e4c21b69",
+      "published": "Tue, 03 Jun 2025 18:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mexico’s Judicial Election Puts Spotlight on Former President’s Son",
+      "link": "https://www.wsj.com/world/americas/mexicos-judicial-election-puts-spotlight-on-former-presidents-son-6eef5fcd",
+      "published": "Mon, 02 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mexico Has Never Voted for Judges, and Now It’s Electing 2,700",
+      "link": "https://www.wsj.com/world/americas/mexico-federal-judicial-elections-481ce434",
+      "published": "Sun, 01 Jun 2025 14:11:00 GMT",
+      "sentiment": -0.13181818181818183
+    },
+    {
+      "title": "Canadian Pacific Kansas City Gets Ruling for New Collective Bargaining Pacts",
+      "link": "https://www.wsj.com/world/americas/canadian-pacific-kansas-city-gets-ruling-for-new-collective-bargaining-pacts-99e34dac",
+      "published": "Sat, 31 May 2025 18:41:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Case Against Soccer Star Maradona’s Medical Team Ends in Mistrial",
+      "link": "https://www.wsj.com/world/americas/case-against-soccer-star-maradonas-medical-team-ends-in-mistrial-8afea78d",
+      "published": "Thu, 29 May 2025 19:21:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Carney Says Canada and U.S. Are in Talks on a New Economic and Security Deal",
+      "link": "https://www.wsj.com/world/americas/canada-pm-carney-says-ottawa-washington-in-intensive-talks-on-new-economic-security-deal-e91766b4",
+      "published": "Wed, 28 May 2025 00:06:00 GMT",
+      "sentiment": 0.09327272727272727
+    },
+    {
+      "title": "Far-Right Leader Geert Wilders Torpedoes Dutch Coalition Over Immigration",
+      "link": "https://www.wsj.com/world/europe/far-right-geert-wilders-torpedoes-dutch-coalition-over-immigration-92e2d0d0",
+      "published": "Tue, 03 Jun 2025 15:27:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Support From Trump Lifts Candidate in Poland’s Knife-Edge Presidential Race",
+      "link": "https://www.wsj.com/world/europe/support-from-trump-lifts-candidate-in-polands-knife-edge-presidential-race-1d5086de",
+      "published": "Mon, 02 Jun 2025 21:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.K. to Strengthen Nuclear Deterrence Under New Defense Strategy",
+      "link": "https://www.wsj.com/world/europe/u-k-to-strengthen-nuclear-deterrence-under-new-defense-strategy-52f9b1d6",
+      "published": "Mon, 02 Jun 2025 16:55:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Poland Elects Conservative With Ties to Trump as President",
+      "link": "https://www.wsj.com/world/europe/poland-presidential-exit-polls-point-to-center-left-win-d8822eb7",
+      "published": "Mon, 02 Jun 2025 10:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Paris Erupts in Celebrations, Riots After PSG Wins Champions League",
+      "link": "https://www.wsj.com/world/europe/paris-france-riots-psg-champions-league-1dc5709d",
+      "published": "Sun, 01 Jun 2025 11:57:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "China’s New Trade Negotiator Is Ready to Play Hardball",
+      "link": "https://www.wsj.com/world/china/trade-negotiator-he-lifeng-hardball-1f27e4c3",
+      "published": "Tue, 03 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.1590909090909091
+    },
+    {
+      "title": "China Hits Back Against Trump Claims That It Broke Trade Truce",
+      "link": "https://www.wsj.com/world/china/china-hits-back-against-trump-claims-that-it-broke-trade-truce-as-tensions-simmer-1eeb59aa",
+      "published": "Mon, 02 Jun 2025 06:41:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "Harvard Has Trained So Many Chinese Communist Officials, They Call It Their ‘Party School’",
+      "link": "https://www.wsj.com/world/china/china-communist-party-harvard-f855112b",
+      "published": "Sun, 01 Jun 2025 04:02:00 GMT",
+      "sentiment": 0.3125
+    },
+    {
+      "title": "China Manufacturing Activity Improves in May",
+      "link": "https://www.wsj.com/world/china/china-manufacturing-activity-improves-in-may-8d9852ee",
+      "published": "Sat, 31 May 2025 02:10:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S.-China Trade Truce Risks Falling Apart Over Rare-Earth Exports",
+      "link": "https://www.wsj.com/world/china/u-s-china-trade-truce-risks-falling-apart-over-rare-earth-exports-c36ceb72",
+      "published": "Fri, 30 May 2025 19:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "South African Leader Pushes Back on Trump’s ‘Genocide’ Claims in Tense Meeting",
+      "link": "https://www.wsj.com/world/africa/trump-south-africa-president-ramaphosa-visit-3fa67569",
+      "published": "Wed, 21 May 2025 19:09:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "Rebels in Captured City Force Residents to Clean Sewers and Morgues at Gunpoint",
+      "link": "https://www.wsj.com/world/africa/rebels-in-captured-city-force-residents-to-clean-sewers-and-morgues-at-gunpoint-52a9bad0",
+      "published": "Sat, 17 May 2025 15:00:00 GMT",
+      "sentiment": 0.10101010101010101
+    },
+    {
+      "title": "Can a School Play Be a Threat to the State? Kenya’s Leaders Seem to Think So",
+      "link": "https://www.wsj.com/world/africa/can-a-school-play-be-a-threat-to-the-state-kenyas-leaders-seem-to-think-so-d96b14b8",
+      "published": "Thu, 15 May 2025 00:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Is Giving Refugee Status to White South Africans—but Many Don’t Want to Come",
+      "link": "https://www.wsj.com/world/africa/trump-afrikaner-south-africa-refugee-d5ad7b94",
+      "published": "Tue, 13 May 2025 01:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Attacks on Darfur Relief Camps Threaten Bloody New Chapter in War",
+      "link": "https://www.wsj.com/world/africa/attacks-on-darfur-relief-camps-threaten-bloody-new-chapter-in-war-c123f0fe",
+      "published": "Wed, 16 Apr 2025 12:00:00 GMT",
+      "sentiment": -0.33181818181818185
+    },
+    {
+      "title": "Ukraine Says It Destroyed Dozens of Warplanes Deep Inside Russia",
+      "link": "https://www.wsj.com/world/russia/ukraine-says-its-drones-destroyed-warplanes-deep-inside-russia-50a634c6",
+      "published": "Sun, 01 Jun 2025 21:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Putin Has Retooled Russia’s Economy to Focus Only on War",
+      "link": "https://www.wsj.com/world/russia/russia-putin-ukraine-war-economy-7e410058",
+      "published": "Wed, 28 May 2025 01:00:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Trump Says Putin Is ‘Playing With Fire’",
+      "link": "https://www.wsj.com/world/russia/trump-putin-russia-sanctions-truth-social-79738b06",
+      "published": "Tue, 27 May 2025 18:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Who Joined Putin in Moscow to Celebrate Victory Day",
+      "link": "https://www.wsj.com/world/russia/russia-victory-day-putin-guests-4c469901",
+      "published": "Fri, 09 May 2025 18:08:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Key Player in Russian Oil Trading Hit by U.K. Sanctions",
+      "link": "https://www.wsj.com/world/russia/key-player-in-russian-oil-trading-hit-by-u-k-sanctions-2c1ef447",
+      "published": "Fri, 09 May 2025 14:21:00 GMT",
+      "sentiment": 0.07500000000000001
+    },
+    {
+      "title": "India, Pakistan Cease-Fire Brokered by U.S. Appears to Hold",
+      "link": "https://www.wsj.com/world/india/india-and-pakistan-step-up-attacks-as-u-s-seeks-ways-to-de-escalate-298a12e1",
+      "published": "Sun, 11 May 2025 19:44:00 GMT",
+      "sentiment": -0.05000000000000001
+    },
+    {
+      "title": "JD Vance Sees an India That America Can Work With",
+      "link": "https://www.wsj.com/world/india/jd-vance-sees-an-india-that-america-can-work-with-c3d182d0",
+      "published": "Tue, 22 Apr 2025 15:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "India Has a Golden Opportunity to Capture U.S. Business From China",
+      "link": "https://www.wsj.com/world/india/india-us-trade-china-tariff-war-602e5b83",
+      "published": "Sat, 19 Apr 2025 04:00:00 GMT",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Modi Positions India as Ally in Trump’s Illegal-Immigration Fight",
+      "link": "https://www.wsj.com/world/india/modi-positions-india-as-ally-in-trumps-illegal-immigration-fight-cf4b9c48",
+      "published": "Wed, 05 Mar 2025 13:58:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "This Indian Festival Hosts More Pilgrims Than the Population of the U.S.",
+      "link": "https://www.wsj.com/world/india/this-indian-festival-hosts-more-pilgrims-than-the-entire-population-of-the-u-s-c146e709",
+      "published": "Sun, 23 Feb 2025 16:47:00 GMT",
+      "sentiment": 6.938893903907228e-18
+    },
+    {
+      "title": "Families Battle Tech Giants as Australia Pushes for an Under-16 Social-Media Ban",
+      "link": "https://www.wsj.com/world/oceania/families-battle-tech-giants-as-australia-pushes-for-an-under-16s-social-media-ban-7045f224",
+      "published": "Fri, 08 Nov 2024 16:32:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "‘We’ve Got to Kill’: Inside New Zealand’s Mission to Wipe Out Predators",
+      "link": "https://www.wsj.com/world/oceania/weve-got-to-kill-inside-new-zealands-mission-to-wipe-out-predators-4bd9f1d7",
+      "published": "Fri, 05 Jul 2024 14:21:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "France’s Macron Tries to Quell New Caledonia Riots With Globe-Crossing Trip",
+      "link": "https://www.wsj.com/world/oceania/macron-travels-to-new-caledonia-to-quell-riots-1d73fbe2",
+      "published": "Thu, 23 May 2024 16:36:00 GMT",
+      "sentiment": 0.009090909090909087
+    },
+    {
+      "title": "France Rushes Reinforcements to Riot-Stricken New Caledonia",
+      "link": "https://www.wsj.com/world/oceania/france-rushes-reinforcements-to-riot-stricken-new-caledonia-95dc26fe",
+      "published": "Fri, 17 May 2024 04:03:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Australia to Boost Defense Spending Amid U.S.-China Tensions",
+      "link": "https://www.wsj.com/world/oceania/australia-to-boost-defense-spending-amid-u-s-china-tensions-5af01131",
+      "published": "Wed, 17 Apr 2024 04:34:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Inside the Ukrainian Drone Operation That Devastated Russia’s Bomber Fleet",
+      "link": "https://www.wsj.com/world/ukraine-russia-drone-attack-bombers-cc77e534",
+      "published": "Wed, 04 Jun 2025 02:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia and Ukraine Ratchet Up War While Trying to Show Trump They Want Peace",
+      "link": "https://www.wsj.com/world/russia-ukraine-war-attacks-trump-peace-7a3212a8",
+      "published": "Tue, 03 Jun 2025 16:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine’s Stunning Assault Roils Russia’s Global Military Strategy",
+      "link": "https://www.wsj.com/world/ukraines-stunning-assault-upends-russias-global-military-strategy-094f8c1c",
+      "published": "Mon, 02 Jun 2025 16:10:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "U.S. Envoy Says Hamas Response to Hostage Deal ‘Totally Unacceptable’",
+      "link": "https://www.wsj.com/world/middle-east/u-s-envoy-says-hamas-response-to-hostage-deal-totally-unacceptable-bce23d88",
+      "published": "Sat, 31 May 2025 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hegseth Warns of ‘Devastating Consequences’ Should China Seek to ‘Conquer’ Taiwan",
+      "link": "https://www.wsj.com/politics/national-security/hegseth-pledges-u-s-support-to-taiwan-in-case-of-chinese-aggression-bfae306c",
+      "published": "Sat, 31 May 2025 21:55:00 GMT",
+      "sentiment": -1.0
+    },
+    {
+      "title": "The Best Laptop Backpacks, According to CEOs, Pilots and Stylists",
+      "link": "https://www.wsj.com/buyside/style/style-accessories/best-laptop-backpacks",
+      "published": "Thu, 13 Mar 2025 19:24:00 GMT",
+      "sentiment": 0.625
+    },
+    {
+      "title": "Best of Buy Side Awards 2025: Travel",
+      "link": "https://www.wsj.com/buyside/awards/best-of/travel-gear",
+      "published": "Mon, 10 Mar 2025 18:42:00 GMT",
+      "sentiment": 0.9333333333333332
+    },
+    {
+      "title": "The Best Travel Shoes to Make Every Trip Lighter and Easier",
+      "link": "https://www.wsj.com/buyside/style/shoes/best-travel-shoes",
+      "published": "Tue, 03 Jun 2025 19:54:00 GMT",
+      "sentiment": 1.0
+    },
+    {
+      "title": "Ukraine’s Stunning Assault Roils Russia’s Global Military Strategy",
+      "link": "https://www.wsj.com/world/ukraines-stunning-assault-upends-russias-global-military-strategy-094f8c1c",
+      "published": "Mon, 02 Jun 2025 16:10:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Harvard Has Trained So Many Chinese Communist Officials, They Call It Their ‘Party School’",
+      "link": "https://www.wsj.com/world/china/china-communist-party-harvard-f855112b",
+      "published": "Sun, 01 Jun 2025 04:02:00 GMT",
+      "sentiment": 0.3125
+    },
+    {
+      "title": "Inside the Ukrainian Drone Operation That Devastated Russia’s Bomber Fleet",
+      "link": "https://www.wsj.com/world/ukraine-russia-drone-attack-bombers-cc77e534",
+      "published": "Wed, 04 Jun 2025 02:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine Says It Destroyed Dozens of Warplanes Deep Inside Russia",
+      "link": "https://www.wsj.com/world/russia/ukraine-says-its-drones-destroyed-warplanes-deep-inside-russia-50a634c6",
+      "published": "Sun, 01 Jun 2025 21:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China’s New Trade Negotiator Is Ready to Play Hardball",
+      "link": "https://www.wsj.com/world/china/trade-negotiator-he-lifeng-hardball-1f27e4c3",
+      "published": "Tue, 03 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.1590909090909091
+    }
+  ]
+}

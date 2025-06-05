@@ -1,10 +1,10 @@
 ---
 layout: default
-title: nyt - Americas' News from the New York Times
-date: 2025-06-04
+title: wapo - Business News from the Washington Post
+date: 
 ---
 
-## nyt - Americas' News from the New York Times
+## wapo - Business News from the Washington Post
 
 <div id="data-chart"></div>
 <div id="data-table"></div>
@@ -16,4 +16,3 @@ document.addEventListener('DOMContentLoaded', function(){
 
 ## File Versions:
 1. [Latest version](./latest.json)
-2. [2025-06-04.json](./2025-06-04.json)

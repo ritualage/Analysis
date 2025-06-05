@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - US News from the New York Times
-date: 
+date: 2025-06-04
 ---
 
 ## nyt - US News from the New York Times

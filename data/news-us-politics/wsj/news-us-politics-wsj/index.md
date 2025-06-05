@@ -1,10 +1,10 @@
 ---
 layout: default
-title: nyt - Americas' News from the New York Times
+title: wsj - US Politics News from the Wall Street Journal
 date: 2025-06-04
 ---
 
-## nyt - Americas' News from the New York Times
+## wsj - US Politics News from the Wall Street Journal
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

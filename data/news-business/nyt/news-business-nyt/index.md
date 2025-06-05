@@ -1,10 +1,10 @@
 ---
 layout: default
-title: nyt - https://www.nytimes.com
-date: Business News from the New York Times
+title: nyt - Business News from the New York Times
+date: 2025-06-04
 ---
 
-## nyt - https://www.nytimes.com
+## nyt - Business News from the New York Times
 
 <div id="data-chart"></div>
 <div id="data-table"></div>
@@ -16,3 +16,4 @@ document.addEventListener('DOMContentLoaded', function(){
 
 ## File Versions:
 1. [Latest version](./latest.json)
+2. [2025-06-04.json](./2025-06-04.json)
