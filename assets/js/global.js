@@ -65,6 +65,81 @@ function ArrTabler(arr){
     return table;
 }
 
+function parseCsvLine(line){
+    var result = [];
+    var current = '';
+    var inQuotes = false;
+    for(var i=0;i<line.length;i++){
+        var c = line[i];
+        if(c === '"'){
+            if(inQuotes && line[i+1] === '"'){
+                current += '"';
+                i++;
+            } else {
+                inQuotes = !inQuotes;
+            }
+        } else if(c === ',' && !inQuotes){
+            result.push(current);
+            current = '';
+        } else {
+            current += c;
+        }
+    }
+    result.push(current);
+    return result;
+}
+
+function csvToObjects(text){
+    var lines = text.trim().split(/\r?\n/);
+    if(lines.length < 2){
+        return [];
+    }
+    var headers = parseCsvLine(lines[0]);
+    var rows = [];
+    for(var i=1;i<lines.length;i++){
+        if(!lines[i]){ continue; }
+        var values = parseCsvLine(lines[i]);
+        var obj = {};
+        headers.forEach(function(h, idx){ obj[h] = values[idx]; });
+        rows.push(obj);
+    }
+    return rows;
+}
+
+function parseHeadlineDate(str){
+    // convert "YYYY-MM-DD-HH-MM-SS +0000" to Date
+    if(!str){ return new Date(NaN); }
+    var parts = str.split(' ');
+    var dt = parts[0].split('-');
+    if(dt.length < 6){ return new Date(NaN); }
+    var iso = dt[0] + '-' + dt[1] + '-' + dt[2] + 'T' + dt[3] + ':' + dt[4] + ':' + dt[5] + 'Z';
+    return new Date(iso);
+}
+
+function HeadlinesLister($container){
+    fetch('./latest.csv')
+        .then(function(r){ return r.text(); })
+        .then(function(text){
+            var rows = csvToObjects(text);
+            rows.sort(function(a,b){
+                return parseHeadlineDate(b.pubdate) - parseHeadlineDate(a.pubdate);
+            });
+            var ul = $('<ul></ul>');
+            rows.forEach(function(row){
+                var li = $('<li></li>');
+                var link = $('<a></a>').attr('href', row.link).text(row.title);
+                li.append(link);
+                li.append('<br>');
+                li.append($('<small></small>').text(row.source + ' - ' + row.pubdate));
+                ul.append(li);
+            });
+            $container.empty().append(ul);
+        })
+        .catch(function(){
+            $container.text('Unable to load headlines.');
+        });
+}
+
 function SourceTabler($container){
     fetch('./latest.json')
         .then(r => r.json())
