@@ -1,0 +1,346 @@
+{
+  "entries": [
+    {
+      "title": "Putin Intends to Respond to Ukraine Strikes on Russian Bombers, Trump Says",
+      "link": "https://www.nytimes.com/2025/06/04/world/europe/putin-zelensky-accusations-escalation.html",
+      "published": "Wed, 04 Jun 2025 21:31:04 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Israeli-Backed Aid Sites in Gaza Close Temporarily After Deadly Shootings",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/israeli-aid-sites-gaza.html",
+      "published": "Wed, 04 Jun 2025 22:07:03 +0000",
+      "sentiment": -0.13999999999999999
+    },
+    {
+      "title": "As Trump’s Tariffs Nudge Canada Toward Free Interprovincial Trade, Gerard Comeau Gets His Revenge",
+      "link": "https://www.nytimes.com/2025/06/04/world/canada/trump-canada-province-trade-beer.html",
+      "published": "Wed, 04 Jun 2025 12:55:54 +0000",
+      "sentiment": 0.35000000000000003
+    },
+    {
+      "title": "Why South Korea’s New Leader Name Checked North Korea but Not China",
+      "link": "https://www.nytimes.com/2025/06/04/world/asia/south-korea-president-north-china.html",
+      "published": "Wed, 04 Jun 2025 22:08:32 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "What to Know About Canada’s Wildfires in Manitoba and Saskatchewan",
+      "link": "https://www.nytimes.com/article/canada-wildfires-2025.html",
+      "published": "Wed, 04 Jun 2025 14:37:44 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ayatollah Khamenei, Iran’s Supreme Leader, Calls U.S. Nuclear Deal Proposal ‘Nonsense’",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/iran-nuclear-uranium-trump.html",
+      "published": "Wed, 04 Jun 2025 13:42:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel Says It Made Record Weapons Sales Abroad While Fighting War",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/israel-weapons-sales.html",
+      "published": "Wed, 04 Jun 2025 20:15:29 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "What is the Hajj? What to Know About the Pilgrimage and Saudi Arabia’s Preparations",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/saudi-arabia-hajj-heat.html",
+      "published": "Thu, 05 Jun 2025 02:30:20 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Drone Attacks Are the New Front in War. Can NATO Keep Up?",
+      "link": "https://www.nytimes.com/2025/06/04/world/europe/ukraine-russia-drones-nato.html",
+      "published": "Thu, 05 Jun 2025 03:49:26 +0000",
+      "sentiment": 0.03295454545454545
+    },
+    {
+      "title": "Deadly Crowd Crush Mars Celebration for Indian Cricket Championship",
+      "link": "https://www.nytimes.com/2025/06/04/world/asia/india-bengaluru-cricket-stampede.html",
+      "published": "Wed, 04 Jun 2025 16:40:37 +0000",
+      "sentiment": -0.2333333333333333
+    },
+    {
+      "title": "China Really Wants to Attract Talented Scientists. Trump Just Helped.",
+      "link": "https://www.nytimes.com/2025/06/04/world/asia/trump-science-visa-china.html",
+      "published": "Wed, 04 Jun 2025 04:01:08 +0000",
+      "sentiment": 0.32499999999999996
+    },
+    {
+      "title": "As Trump Wavers, Europe Is More Optimistic About Defending Ukraine",
+      "link": "https://www.nytimes.com/2025/06/04/world/europe/ukraine-europe-nato.html",
+      "published": "Wed, 04 Jun 2025 16:44:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vietnam Abolishes Two-Child Policy",
+      "link": "https://www.nytimes.com/2025/06/04/world/asia/vietnam-two-child-policy.html",
+      "published": "Wed, 04 Jun 2025 08:35:46 +0000",
+      "sentiment": -0.025641025641025644
+    },
+    {
+      "title": "Attack on Aid Convoy in Sudan Kills 5, U.N. Says",
+      "link": "https://www.nytimes.com/2025/06/04/world/africa/sudan-united-nations-convoy-attack.html",
+      "published": "Wed, 04 Jun 2025 14:03:01 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Trump Restricts Harvard’s International Students From Entering U.S.",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-harvard-international-student-visas.html",
+      "published": "Thu, 05 Jun 2025 03:38:00 +0000",
+      "sentiment": -0.20833333333333334
+    },
+    {
+      "title": "Trump Travel Order Bans People From 12 Countries From Entering U.S.",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-travel-ban.html",
+      "published": "Thu, 05 Jun 2025 03:22:03 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Thursday Briefing: Trump’s Call With Putin",
+      "link": "https://www.nytimes.com/2025/06/04/briefing/trump-putin-gaza-hajj-switch-2.html",
+      "published": "Wed, 04 Jun 2025 21:02:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Vetoes U.N. Resolution Demanding Immediate Gaza Cease-Fire",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/un-security-council-gaza-cease-fire.html",
+      "published": "Wed, 04 Jun 2025 22:20:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Higher Tariffs on Steel and Aluminum Will Affect Companies",
+      "link": "https://www.nytimes.com/2025/06/04/business/economy/trump-tariffs-steel-aluminum-companies.html",
+      "published": "Wed, 04 Jun 2025 20:00:34 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "It’s Not Just Poor Rains Causing Drought. The Atmosphere Is ‘Thirstier.’",
+      "link": "https://www.nytimes.com/2025/06/04/climate/climate-change-drought.html",
+      "published": "Wed, 04 Jun 2025 18:21:04 +0000",
+      "sentiment": 0.031060606060606056
+    },
+    {
+      "title": "Trump Budget Eliminates Funding for Crucial Global Vaccination Programs",
+      "link": "https://www.nytimes.com/2025/06/04/health/trump-budget-global-health-polio.html",
+      "published": "Wed, 04 Jun 2025 15:51:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jury in El Salvador Convicts 3 Ex-Officers in 1982 Killings of Dutch Journalists",
+      "link": "https://www.nytimes.com/2025/06/04/world/americas/el-salvador-killings-dutch-journalists-1982.html",
+      "published": "Wed, 04 Jun 2025 14:01:42 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Electricity Prices Are Surging. The G.O.P. Megabill Could Push Them Higher.",
+      "link": "https://www.nytimes.com/2025/06/04/climate/electricity-prices-republican-big-beautiful-bill.html",
+      "published": "Wed, 04 Jun 2025 12:59:59 +0000",
+      "sentiment": 0.12916666666666668
+    },
+    {
+      "title": "Trump’s 50% Tariffs on Steel and Aluminum Imports Go Into Effect",
+      "link": "https://www.nytimes.com/2025/06/04/business/economy/trump-tariffs-steel-aluminum.html",
+      "published": "Wed, 04 Jun 2025 17:48:04 +0000",
+      "sentiment": 0.011666666666666667
+    },
+    {
+      "title": "Meet Rachel Hauck, the Set Designer Behind the Tony-Nominated Ship From ‘Swept Away’",
+      "link": "https://www.nytimes.com/2025/06/04/arts/rachel-hauck-swept-away-set-design-tonys-2025.html",
+      "published": "Wed, 04 Jun 2025 13:01:50 +0000",
+      "sentiment": 0.062499999999999986
+    },
+    {
+      "title": "Trump’s Domestic Policy Bill Could Hurt Global Poor, Especially Africa",
+      "link": "https://www.nytimes.com/2025/06/03/world/africa/trump-bill-remittance-tax-africa.html",
+      "published": "Tue, 03 Jun 2025 21:31:09 +0000",
+      "sentiment": -0.055519480519480524
+    },
+    {
+      "title": "Wednesday Briefing: Staggering Casualties in Ukraine",
+      "link": "https://www.nytimes.com/2025/06/03/briefing/ukraine-russia-casualties-korea-election.html",
+      "published": "Tue, 03 Jun 2025 21:01:44 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S.-China Trade War Morphs From Tariffs Into Fight Over Supply Chain",
+      "link": "https://www.nytimes.com/2025/06/03/business/economy/us-china-trade-supply-chains.html",
+      "published": "Wed, 04 Jun 2025 03:07:39 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Mexico’s Supreme Court Likely to Be Dominated by the Governing Morena",
+      "link": "https://www.nytimes.com/2025/06/03/world/americas/mexico-election-results.html",
+      "published": "Tue, 03 Jun 2025 21:27:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "French Lawmakers Vote to Promote Alfred Dreyfus Amid Rising Antisemitism",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/france-antisemitism-dreyfus.html",
+      "published": "Tue, 03 Jun 2025 19:32:08 +0000",
+      "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "South Korea’s New President Will Face Deep Divisions and the Trump Administration",
+      "link": "https://www.nytimes.com/2025/06/03/world/asia/lee-south-korea-new-president.html",
+      "published": "Wed, 04 Jun 2025 07:25:13 +0000",
+      "sentiment": 0.18727272727272726
+    },
+    {
+      "title": "Who Is South Korea’s New Leader?",
+      "link": "https://www.nytimes.com/video/world/asia/100000010202472/who-is-lee-jae-myung.html",
+      "published": "Tue, 03 Jun 2025 17:58:48 +0000",
+      "sentiment": -0.1106060606060606
+    },
+    {
+      "title": "U.S. Proposal in Iran Nuclear Talks Allows Some Enrichment of Uranium",
+      "link": "https://www.nytimes.com/2025/06/03/us/politics/iran-nuclear-deal-proposal.html",
+      "published": "Wed, 04 Jun 2025 00:35:29 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The White House Gutted Science Funding. Now It Wants to ‘Correct’ Research.",
+      "link": "https://www.nytimes.com/2025/06/03/climate/executive-order-gold-standard-science.html",
+      "published": "Tue, 03 Jun 2025 17:26:19 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Police Renew Searches in Madeleine McCann Investigation in Portugal",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/madeleine-mccann-search-portugal.html",
+      "published": "Tue, 03 Jun 2025 16:30:31 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Results of Muon Experiment Offer More Precision But No Added Clarity",
+      "link": "https://www.nytimes.com/2025/06/03/science/physics-muons-fermilab.html",
+      "published": "Wed, 04 Jun 2025 03:24:00 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Where ​South Korea’s New President​ Lee Jae-myung Stands on Trump and North Korea",
+      "link": "https://www.nytimes.com/2025/06/03/world/asia/south-korea-lee-jae-myung-policy.html",
+      "published": "Wed, 04 Jun 2025 00:30:59 +0000",
+      "sentiment": -0.08181818181818182
+    },
+    {
+      "title": "Jacinda Ardern, New Zealand’s Former Prime Minister, Pushes Kindness in New Book",
+      "link": "https://www.nytimes.com/2025/06/03/style/jacinda-ardern-book-new-zealand.html",
+      "published": "Wed, 04 Jun 2025 13:48:50 +0000",
+      "sentiment": 0.15151515151515152
+    },
+    {
+      "title": "Ukraine Reports Striking Russia-Crimea Bridge With Underwater Explosives",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/russia-ukraine-crimea-bridge.html",
+      "published": "Tue, 03 Jun 2025 15:27:02 +0000",
+      "sentiment": 0.20833333333333334
+    },
+    {
+      "title": "Ukraine’s Drone Strike on Russia Aims to Change Putin’s Calculus",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/russia-ukraine-drone-attack-putin-war.html",
+      "published": "Tue, 03 Jun 2025 14:17:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Macron and Meloni Meet, Searching for Unity in a World of Conflict",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/meloni-macron-meeting-europe-trade-war-trump.html",
+      "published": "Tue, 03 Jun 2025 21:35:27 +0000",
+      "sentiment": -0.14166666666666666
+    },
+    {
+      "title": "Michael Boren Built an Airstrip on Protected Land. Now He Might Lead the Forest Service.",
+      "link": "https://www.nytimes.com/2025/06/03/climate/michael-boren-agriculture-nominee-idaho-airstrip.html",
+      "published": "Tue, 03 Jun 2025 22:32:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How a 3D-Printed Rifle Ended Up in the Middle of the Baltic Sea",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/aland-islands-3d-printed-guns-finland.html",
+      "published": "Tue, 03 Jun 2025 20:49:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Dutch Government Collapses After Geert Wilders Withdraws Right-Wing Party",
+      "link": "https://www.nytimes.com/2025/06/03/world/europe/geert-wilders-netherlands-coalition.html",
+      "published": "Tue, 03 Jun 2025 22:32:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "At Least 27 Killed After Israeli Soldiers Open Fire Near Gaza Aid Site",
+      "link": "https://www.nytimes.com/2025/06/03/world/middleeast/gaza-aid-site-shooting-israel.html",
+      "published": "Tue, 03 Jun 2025 23:27:57 +0000",
+      "sentiment": -0.029292929292929298
+    },
+    {
+      "title": "The removal of a ‘political overhang’ could lead to a market rally, analysts say.",
+      "link": "https://www.nytimes.com/live/2025/06/03/world/south-korea-presidential-election/the-removal-of-a-political-overhang-could-lead-to-a-market-rally-analysts-say",
+      "published": "Tue, 03 Jun 2025 07:34:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Young South Korean Voters Are Disenchanted With Their Choices",
+      "link": "https://www.nytimes.com/2025/06/03/world/asia/south-korea-election-young-voters.html",
+      "published": "Tue, 03 Jun 2025 20:21:37 +0000",
+      "sentiment": -0.11000000000000001
+    },
+    {
+      "title": "Here are the latest developments.",
+      "link": "https://www.nytimes.com/live/2025/06/03/world/south-korea-presidential-election/here-are-the-latest-developments",
+      "published": "Tue, 03 Jun 2025 18:00:31 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "South Korea Presidential Election 2025: What to Know",
+      "link": "https://www.nytimes.com/2025/06/02/world/asia/south-korea-election-what-to-know.html",
+      "published": "Tue, 03 Jun 2025 10:26:10 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Ukraine Shows It Can Still Flip the Script on How Wars Are Waged",
+      "link": "https://www.nytimes.com/2025/06/02/us/politics/ukraine-russia-drone-attack.html",
+      "published": "Tue, 03 Jun 2025 04:51:27 +0000",
+      "sentiment": 9.25185853854297e-18
+    },
+    {
+      "title": "Low Turnout in Mexico’s Judicial Election Fuels Legitimacy Concerns",
+      "link": "https://www.nytimes.com/2025/06/02/world/americas/mexico-judicial-election-low-turnout.html",
+      "published": "Mon, 02 Jun 2025 22:26:22 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "What to Know About Ukraine’s Drone Attack on Russia",
+      "link": "https://www.nytimes.com/2025/06/02/world/europe/ukraine-russia-drone-strike-what-to-know.html",
+      "published": "Tue, 03 Jun 2025 15:35:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tuesday Briefing: South Korea Votes",
+      "link": "https://www.nytimes.com/2025/06/02/briefing/korea-election-ukraine-colorado-terror.html",
+      "published": "Tue, 03 Jun 2025 00:39:32 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Mount Etna Erupts in Sicily, Sending Hikers Scrambling for Cover",
+      "link": "https://www.nytimes.com/2025/06/02/travel/mount-etna-volcano-eruption-sicily-italy.html",
+      "published": "Mon, 02 Jun 2025 22:04:47 +0000",
+      "sentiment": 0.31666666666666665
+    },
+    {
+      "title": "South Koreans Begin Voting to Elect a New President",
+      "link": "https://www.nytimes.com/2025/06/02/world/asia/south-korean-election-president.html",
+      "published": "Tue, 03 Jun 2025 15:04:57 +0000",
+      "sentiment": 0.2681818181818182
+    },
+    {
+      "title": "German Border Police Barred From Rejecting Asylum Seekers Arriving From E.U. Nations Without Review",
+      "link": "https://www.nytimes.com/2025/06/02/world/europe/germany-asylum-seekers-border-eu.html",
+      "published": "Mon, 02 Jun 2025 18:23:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Poland’s Presidential Election Result Highlights Trump-Europe Divide",
+      "link": "https://www.nytimes.com/2025/06/02/world/europe/poland-president-election-results.html",
+      "published": "Mon, 02 Jun 2025 14:07:28 +0000",
+      "sentiment": 0.06818181818181818
+    }
+  ]
+}

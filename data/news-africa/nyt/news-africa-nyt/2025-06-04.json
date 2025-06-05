@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "Trump Travel Order Bans People From 12 Countries From Entering U.S.",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-travel-ban.html",
+      "published": "Thu, 05 Jun 2025 03:22:03 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Trump Budget Eliminates Funding for Crucial Global Vaccination Programs",
+      "link": "https://www.nytimes.com/2025/06/04/health/trump-budget-global-health-polio.html",
+      "published": "Wed, 04 Jun 2025 15:51:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Attack on Aid Convoy in Sudan Kills 5, U.N. Says",
+      "link": "https://www.nytimes.com/2025/06/04/world/africa/sudan-united-nations-convoy-attack.html",
+      "published": "Wed, 04 Jun 2025 14:03:01 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Trump’s Domestic Policy Bill Could Hurt Global Poor, Especially Africa",
+      "link": "https://www.nytimes.com/2025/06/03/world/africa/trump-bill-remittance-tax-africa.html",
+      "published": "Tue, 03 Jun 2025 21:31:09 +0000",
+      "sentiment": -0.055519480519480524
+    },
+    {
+      "title": "She Crowdfunded Surgery to Repair Damage From Genital Cutting",
+      "link": "https://www.nytimes.com/2025/06/02/world/africa/female-genital-cutting-tik-tok.html",
+      "published": "Mon, 02 Jun 2025 09:00:21 +0000",
+      "sentiment": -0.39999999999999997
+    },
+    {
+      "title": "Flooding in Nigeria Flattens a Town, Killing at Least 151",
+      "link": "https://www.nytimes.com/2025/05/30/world/africa/flooding-nigeria-africa-mokwa.html",
+      "published": "Sat, 31 May 2025 12:14:48 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "How White South Africans Are Persuading Trump to Accept Them as Refugees",
+      "link": "https://www.nytimes.com/2025/05/30/world/africa/south-africa-trump-afrikaners-refugees.html",
+      "published": "Fri, 30 May 2025 09:02:17 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "South African Woman Sentenced to Life in Prison for Trafficking Missing Daughter, 6",
+      "link": "https://www.nytimes.com/2025/05/29/world/africa/south-africa-trafficking-daughter.html",
+      "published": "Thu, 29 May 2025 22:48:00 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Ngugi wa Thiong’o, Writer Who Condemned Colonists and Elites, Dies at 87",
+      "link": "https://www.nytimes.com/2025/05/28/books/ngugi-wa-thiongo-dead.html",
+      "published": "Mon, 02 Jun 2025 22:44:46 +0000",
+      "sentiment": 0.16333333333333333
+    },
+    {
+      "title": "Trump Asks Supreme Court to Let Him Send Migrants to South Sudan",
+      "link": "https://www.nytimes.com/2025/05/27/us/politics/trump-deportations-south-sudan.html",
+      "published": "Wed, 28 May 2025 08:18:53 +0000",
+      "sentiment": 0.2375
+    },
+    {
+      "title": "Congo’s Former President Returns Home, Accused of Treason",
+      "link": "https://www.nytimes.com/2025/05/27/world/africa/congo-kabila-returns-treason.html",
+      "published": "Tue, 27 May 2025 16:21:08 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "What to Know About the Deportees the Trump Administration Wants to Send to South Sudan",
+      "link": "https://www.nytimes.com/2025/05/26/world/africa/trump-deportations-south-sudan.html",
+      "published": "Wed, 28 May 2025 15:02:13 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "South Africa Sets the Stage for Starlink Approval",
+      "link": "https://www.nytimes.com/2025/05/23/world/africa/south-africa-elon-musk-trump-starlink-white-house.html",
+      "published": "Fri, 23 May 2025 19:59:48 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Trump Confirms Attempted Deportation of Migrants to South Sudan",
+      "link": "https://www.nytimes.com/2025/05/22/us/politics/trump-deportations-south-sudan.html",
+      "published": "Fri, 23 May 2025 01:10:50 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "U.S. to Impose Sanctions on Sudan Over Use of Chemical Weapons",
+      "link": "https://www.nytimes.com/2025/05/22/world/africa/us-sanctions-sudan-chemical-weapons.html",
+      "published": "Thu, 22 May 2025 22:44:51 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Trump Makes False Genocide Claims. South Africans Respond With Humor.",
+      "link": "https://www.nytimes.com/2025/05/22/world/africa/trump-false-genocide-claims-south-africans-respond-humor.html",
+      "published": "Fri, 23 May 2025 03:32:27 +0000",
+      "sentiment": -0.19166666666666668
+    },
+    {
+      "title": "Who Is Julius Malema, the South African Politician in the White House Video?",
+      "link": "https://www.nytimes.com/2025/05/22/world/africa/julius-malema-south-africa-white-house-video.html",
+      "published": "Thu, 22 May 2025 18:15:47 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Simon Mann, Mercenary Who Sought to Overthrow African Ruler, Dies at 72",
+      "link": "https://www.nytimes.com/2025/05/22/world/africa/simon-mann-dead.html",
+      "published": "Sat, 24 May 2025 13:45:43 +0000",
+      "sentiment": 0.13
+    },
+    {
+      "title": "South Africa Wanted to Talk Trade. Then Trump Turned Down the Lights.",
+      "link": "https://www.nytimes.com/2025/05/22/world/africa/south-africa-trump-oval-office-genocide.html",
+      "published": "Thu, 22 May 2025 11:07:22 +0000",
+      "sentiment": 0.0111111111111111
+    },
+    {
+      "title": "Trump Casts Himself as a Protector of Persecuted White People",
+      "link": "https://www.nytimes.com/2025/05/21/us/politics/trump-race-south-africa.html",
+      "published": "Thu, 22 May 2025 13:17:26 +0000",
+      "sentiment": -0.0076388888888888895
+    }
+  ]
+}

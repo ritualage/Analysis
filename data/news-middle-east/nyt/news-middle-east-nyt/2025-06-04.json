@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "title": "Trump Travel Order Bans People From 12 Countries From Entering U.S.",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-travel-ban.html",
+      "published": "Thu, 05 Jun 2025 03:22:03 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.S. Vetoes U.N. Resolution Demanding Immediate Gaza Cease-Fire",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/un-security-council-gaza-cease-fire.html",
+      "published": "Wed, 04 Jun 2025 22:20:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Delighted by Saudi Deal for Two Rare Arabian Leopards",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/leopards-trump-saudi.html",
+      "published": "Wed, 04 Jun 2025 19:08:29 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Israel Says It Made Record Weapons Sales Abroad While Fighting War",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/israel-weapons-sales.html",
+      "published": "Wed, 04 Jun 2025 20:15:29 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Ayatollah Khamenei, Iran’s Supreme Leader, Calls U.S. Nuclear Deal Proposal ‘Nonsense’",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/iran-nuclear-uranium-trump.html",
+      "published": "Wed, 04 Jun 2025 13:42:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israeli-Backed Aid Sites in Gaza Close Temporarily After Deadly Shootings",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/israeli-aid-sites-gaza.html",
+      "published": "Wed, 04 Jun 2025 22:07:03 +0000",
+      "sentiment": -0.13999999999999999
+    },
+    {
+      "title": "What is the Hajj? What to Know About the Pilgrimage and Saudi Arabia’s Preparations",
+      "link": "https://www.nytimes.com/2025/06/04/world/middleeast/saudi-arabia-hajj-heat.html",
+      "published": "Thu, 05 Jun 2025 02:30:20 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.S. Proposal in Iran Nuclear Talks Allows Some Enrichment of Uranium",
+      "link": "https://www.nytimes.com/2025/06/03/us/politics/iran-nuclear-deal-proposal.html",
+      "published": "Wed, 04 Jun 2025 00:35:29 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "At Least 27 Killed After Israeli Soldiers Open Fire Near Gaza Aid Site",
+      "link": "https://www.nytimes.com/2025/06/03/world/middleeast/gaza-aid-site-shooting-israel.html",
+      "published": "Tue, 03 Jun 2025 23:27:57 +0000",
+      "sentiment": -0.029292929292929298
+    },
+    {
+      "title": "Gaza Cease-Fire Negotiations Hit A New Impasse Over An Old Dispute",
+      "link": "https://www.nytimes.com/2025/06/02/world/middleeast/gaza-cease-fire-negotiations-impasse.html",
+      "published": "Mon, 02 Jun 2025 20:54:55 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "More Than 20 Killed Near Aid Distribution Site in Gaza, Health Officials Say",
+      "link": "https://www.nytimes.com/2025/06/01/world/middleeast/gaza-aid-distribution-site-attack.html",
+      "published": "Mon, 02 Jun 2025 17:40:25 +0000",
+      "sentiment": 0.1051948051948052
+    },
+    {
+      "title": "Muhammad Sinwar, a Top Military Leader of Hamas, Is Dead, Israel Says",
+      "link": "https://www.nytimes.com/2025/05/31/world/middleeast/muhammad-sinwar-hamas-israel.html",
+      "published": "Sat, 31 May 2025 20:21:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Says Hamas Response to Gaza Cease-Fire Proposal ‘Only Takes Us Backward’",
+      "link": "https://www.nytimes.com/2025/05/31/world/middleeast/israel-gaza-hamas-ceasefire-proposal.html",
+      "published": "Sat, 31 May 2025 22:10:56 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Israel Bars Arab Foreign Ministers From High-Level West Bank Visit",
+      "link": "https://www.nytimes.com/2025/05/31/world/middleeast/israel-arab-ministers-west-bank.html",
+      "published": "Sat, 31 May 2025 15:33:57 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Iranian Film at South by Southwest London Offers a Dose of Hope",
+      "link": "https://www.nytimes.com/2025/05/30/movies/sxsw-london-amirali-navaee.html",
+      "published": "Fri, 30 May 2025 19:04:17 +0000",
+      "sentiment": 0.18409090909090908
+    },
+    {
+      "title": "Islamic State Says It Targeted Syrian Forces in Bomb Attacks",
+      "link": "https://www.nytimes.com/2025/05/30/world/middleeast/islamic-state-attacks-syria.html",
+      "published": "Fri, 30 May 2025 15:32:44 +0000",
+      "sentiment": 0.19318181818181818
+    },
+    {
+      "title": "U.S. Oil Companies Are ‘Battening Down the Hatches’",
+      "link": "https://www.nytimes.com/2025/05/30/business/energy-environment/oil-companies-production-prices-opec.html",
+      "published": "Fri, 30 May 2025 15:52:58 +0000",
+      "sentiment": -0.15763888888888888
+    },
+    {
+      "title": "Israel Orders Evacuation of Much of Northern Gaza, Warning of Dangerous Combat",
+      "link": "https://www.nytimes.com/2025/05/30/world/middleeast/israel-gaza-evacuation-order.html",
+      "published": "Fri, 30 May 2025 17:57:21 +0000",
+      "sentiment": 0.020000000000000007
+    },
+    {
+      "title": "In Gaza’s Emaciated Children, a Hunger Crisis Is Laid Bare",
+      "link": "https://www.nytimes.com/2025/05/30/world/middleeast/gaza-children-hunger.html",
+      "published": "Fri, 30 May 2025 09:03:44 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "White House Puts Israel-Backed Cease-Fire Proposal to Hamas Amid Growing Pressure",
+      "link": "https://www.nytimes.com/2025/05/29/us/politics/israel-gaza-cease-fire-trump.html",
+      "published": "Thu, 29 May 2025 20:38:18 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "New Aid Site in Gaza Brings More Scenes of Chaos",
+      "link": "https://www.nytimes.com/2025/05/29/world/middleeast/israel-gaza.html",
+      "published": "Fri, 30 May 2025 02:25:23 +0000",
+      "sentiment": 0.15151515151515152
+    },
+    {
+      "title": "UK Weighs Sanctions on 2 Israeli Ministers as Gaza Crisis Worsens",
+      "link": "https://www.nytimes.com/2025/05/29/world/europe/gaza-deaths-uk-sanctions-far-right-israel.html",
+      "published": "Thu, 29 May 2025 23:00:30 +0000",
+      "sentiment": 0.3
+    }
+  ]
+}

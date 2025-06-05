@@ -1,0 +1,172 @@
+{
+  "entries": [
+    {
+      "title": "Trump Travel Order Bans People From 12 Countries From Entering U.S.",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-travel-ban.html",
+      "published": "Thu, 05 Jun 2025 03:22:03 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.S. Brings Back Guatemalan Wrongly Deported to Mexico",
+      "link": "https://www.nytimes.com/2025/06/04/us/politics/guatemalan-deported-mexico-trump.html",
+      "published": "Thu, 05 Jun 2025 03:04:09 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Rosana Paulino, a Brazilian Artist Who Wields Poetry and Persistence",
+      "link": "https://www.nytimes.com/2025/06/04/arts/design/rosana-paulino-brazil-studio.html",
+      "published": "Wed, 04 Jun 2025 18:53:32 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Jury in El Salvador Convicts 3 Ex-Officers in 1982 Killings of Dutch Journalists",
+      "link": "https://www.nytimes.com/2025/06/04/world/americas/el-salvador-killings-dutch-journalists-1982.html",
+      "published": "Wed, 04 Jun 2025 14:01:42 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "In Puerto Rico, a Struggle for Power Comes to Light",
+      "link": "https://www.nytimes.com/2025/06/04/insider/puerto-rico-power-outage.html",
+      "published": "Wed, 04 Jun 2025 13:00:06 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "As Trump’s Tariffs Nudge Canada Toward Free Interprovincial Trade, Gerard Comeau Gets His Revenge",
+      "link": "https://www.nytimes.com/2025/06/04/world/canada/trump-canada-province-trade-beer.html",
+      "published": "Wed, 04 Jun 2025 12:55:54 +0000",
+      "sentiment": 0.35000000000000003
+    },
+    {
+      "title": "Meet Rachel Hauck, the Set Designer Behind the Tony-Nominated Ship From ‘Swept Away’",
+      "link": "https://www.nytimes.com/2025/06/04/arts/rachel-hauck-swept-away-set-design-tonys-2025.html",
+      "published": "Wed, 04 Jun 2025 13:01:50 +0000",
+      "sentiment": 0.062499999999999986
+    },
+    {
+      "title": "Mexico’s Supreme Court Likely to Be Dominated by the Governing Morena",
+      "link": "https://www.nytimes.com/2025/06/03/world/americas/mexico-election-results.html",
+      "published": "Tue, 03 Jun 2025 21:27:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Smoke From Canadian Wildfires Approaches the Northeast",
+      "link": "https://www.nytimes.com/2025/06/03/weather/canada-wildfires-smoke-us-air-quality.html",
+      "published": "Wed, 04 Jun 2025 08:46:39 +0000",
+      "sentiment": 0.012121212121212116
+    },
+    {
+      "title": "Canadian National Parks Offer Alternatives to U.S. Parks",
+      "link": "https://www.nytimes.com/2025/06/03/travel/canada-national-parks.html",
+      "published": "Wed, 04 Jun 2025 19:41:01 +0000",
+      "sentiment": 1.0
+    },
+    {
+      "title": "Low Turnout in Mexico’s Judicial Election Fuels Legitimacy Concerns",
+      "link": "https://www.nytimes.com/2025/06/02/world/americas/mexico-judicial-election-low-turnout.html",
+      "published": "Mon, 02 Jun 2025 22:26:22 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Mexico Votes in Sprawling, First-Ever Judiciary Election",
+      "link": "https://www.nytimes.com/2025/06/01/world/americas/mexico-judiciary-election-supreme-court.html",
+      "published": "Mon, 02 Jun 2025 00:47:59 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Will Voting for Judges Help or Hurt Mexico’s Democracy?",
+      "link": "https://www.nytimes.com/2025/06/01/world/americas/mexico-judicial-election-dangers.html",
+      "published": "Sun, 01 Jun 2025 09:01:45 +0000",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Hudson’s Bay Stores to Close in Canada",
+      "link": "https://www.nytimes.com/2025/06/01/world/canada/canada-hudsons-bay-stores-closing.html",
+      "published": "Mon, 02 Jun 2025 23:08:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why Mexico’s Judicial Election is a Controversial Experiment",
+      "link": "https://www.nytimes.com/video/world/americas/100000010195231/why-mexicos-judicial-election-is-a-controversial-experiment.html",
+      "published": "Sun, 01 Jun 2025 09:01:21 +0000",
+      "sentiment": 0.2881673881673881
+    },
+    {
+      "title": "Five Things to Know About MAID in Canada",
+      "link": "https://www.nytimes.com/2025/06/01/magazine/medically-assisted-dying-canada-takeaways.html",
+      "published": "Sun, 01 Jun 2025 09:00:25 +0000",
+      "sentiment": 0.1619047619047619
+    },
+    {
+      "title": "What to Know About Canada’s Wildfires in Manitoba and Saskatchewan",
+      "link": "https://www.nytimes.com/article/canada-wildfires-2025.html",
+      "published": "Wed, 04 Jun 2025 14:37:44 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Trade Court Rebuke of Trump’s Tariffs Offers Little Relief to Canada",
+      "link": "https://www.nytimes.com/2025/05/31/world/canada/trade-court-tariffs-canada.html",
+      "published": "Sat, 31 May 2025 10:00:07 +0000",
+      "sentiment": 0.103125
+    },
+    {
+      "title": "Mexico’s Vote on Nearly 2,700 Judges Will Test Its Democracy",
+      "link": "https://www.nytimes.com/2025/05/31/world/americas/mexico-election-morena-democracy.html",
+      "published": "Sun, 01 Jun 2025 11:08:15 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "ACLU Presses to Stop Trump’s Use of Alien Enemies Act in Court Brief",
+      "link": "https://www.nytimes.com/2025/05/31/us/politics/aclu-trump-venezuelan-immigrants-alien-enemies-act.html",
+      "published": "Sat, 31 May 2025 13:14:42 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Trump Officials Deported Another Man Despite Court Order",
+      "link": "https://www.nytimes.com/2025/05/30/us/politics/trump-deportation-el-salvador.html",
+      "published": "Sat, 31 May 2025 03:58:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court Candidates Try TikTok and Tinder in Mexico’s Elections",
+      "link": "https://www.nytimes.com/2025/05/30/world/americas/mexico-judges-social-media.html",
+      "published": "Mon, 02 Jun 2025 21:15:45 +0000",
+      "sentiment": 0.39583333333333337
+    },
+    {
+      "title": "Smoke From Wildfires in Canada Wafts Into the Upper Midwest",
+      "link": "https://www.nytimes.com/2025/05/30/weather/wildfires-canada-smoke.html",
+      "published": "Fri, 30 May 2025 18:57:04 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "A Library on the Canada-U.S.Border Is Ensnared by Trump’s Foreign Policy",
+      "link": "https://www.nytimes.com/2025/05/30/world/canada/haskell-free-library-opera-house-quebec-vermont-border.html",
+      "published": "Sat, 31 May 2025 15:29:09 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Trump Administration Targets Brazilian Judge for “Censorship”",
+      "link": "https://www.nytimes.com/2025/05/29/world/americas/trump-brazil-judge-censorship.html",
+      "published": "Thu, 29 May 2025 22:19:58 +0000",
+      "sentiment": 0.0037878787878787845
+    },
+    {
+      "title": "Canada Wildfires Prompt State of Emergency in Manitoba and Force Evacuations",
+      "link": "https://www.nytimes.com/2025/05/29/world/canada/canada-wildfires-manitoba-evacuations.html",
+      "published": "Fri, 30 May 2025 00:15:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "An Ex-Convict and Cartel Lawyers Are Among Mexico’s Judicial Candidates",
+      "link": "https://www.nytimes.com/2025/05/29/world/americas/mexico-judicial-election-candidates.html",
+      "published": "Sat, 31 May 2025 07:12:14 +0000",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "Mexico’s Judicial Election: What to Know",
+      "link": "https://www.nytimes.com/2025/05/29/world/americas/mexico-judicial-election.html",
+      "published": "Mon, 02 Jun 2025 01:42:41 +0000",
+      "sentiment": 0.25
+    }
+  ]
+}
