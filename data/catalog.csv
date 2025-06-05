@@ -14,8 +14,8 @@ news-europe,nyt,rss,news-europe-nyt,https://rss.nytimes.com/services/xml/rss/nyt
 news-asia,nyt,rss,news-asia-nyt,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,,daily,,Asia News from the New York Times,https://www.nytimes.com
 news-americas,nyt,rss,news-americas-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,,daily,,Americas' News from the New York Times,https://www.nytimes.com
 news-middle-east,nyt,rss,news-middle-east-nyt,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,,daily,,Middle East News from the New York Times,https://www.nytimes.com
-news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,daily,,Business News from the New York Times,https://www.nytimes.com
-news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,daily,,Economic News from the New York Times,https://www.nytimes.com
+news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,,daily,,Business News from the New York Times,https://www.nytimes.com
+news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,,daily,,Economic News from the New York Times,https://www.nytimes.com
 news-us-politics,nyt,rss,news-us-politics-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml,,daily,,US Politics News from the New York Times,https://www.nytimes.com
 news-world,wsj,rss,news-world-wsj,https://feeds.content.dowjones.io/public/rss/RSSWorldNews,,daily,,World News from the Wall Street Journal,https://www.wsj.com
 news-us,wsj,rss,news-us-wsj,https://feeds.content.dowjones.io/public/rss/RSSUSNews,,daily,,US News from the Wall Street Journal,https://www.wsj.com
