@@ -7,22 +7,22 @@ economics,fred,json,CLVMNACSCAB1GQDE,https://api.stlouisfed.org/fred/series/obse
 economics,fred,json,GFDEBTN,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEBTN&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Federal Debt: Total US Public Debt,https://fred.stlouisfed.org/series/GFDEBTN
 economics,fred,json,GFDEGDQ188S,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEGDQ188S&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Federal Debt: Total Public Debt as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/GFDEGDQ188S
 economics,fred,json,TDSP,https://api.stlouisfed.org/fred/series/observations?series_id=TDSP&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-06-04,US Household Debt Service Payments as a Percent of Disposable Personal Income,https://fred.stlouisfed.org/series/TDSP
-news-us,nyt,rss,news-us-nyt,https://rss.nytimes.com/services/xml/rss/nyt/US.xml,,daily,2025-06-05,US News from the New York Times,https://www.nytimes.com
-news-world,nyt,rss,news-world-nyt,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,,daily,2025-06-05,World News from the New York Times,https://www.nytimes.com
-news-africa,nyt,rss,news-africa-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml,,daily,2025-06-05,Africa News from the New York Times,https://www.nytimes.com
-news-europe,nyt,rss,news-europe-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,,daily,2025-06-05,Europe News from the New York Times,https://www.nytimes.com
-news-asia,nyt,rss,news-asia-nyt,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,,daily,2025-06-05,Asia News from the New York Times,https://www.nytimes.com
-news-americas,nyt,rss,news-americas-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,,daily,2025-06-05,Americas' News from the New York Times,https://www.nytimes.com
-news-middle-east,nyt,rss,news-middle-east-nyt,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,,daily,2025-06-05,Middle East News from the New York Times,https://www.nytimes.com
-news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,,daily,2025-06-05,Business News from the New York Times,https://www.nytimes.com
-news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,,daily,2025-06-05,Economic News from the New York Times,https://www.nytimes.com
-news-us-politics,nyt,rss,news-us-politics-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml,,daily,2025-06-05,US Politics News from the New York Times,https://www.nytimes.com
-news-world,wsj,rss,news-world-wsj,https://feeds.content.dowjones.io/public/rss/RSSWorldNews,,daily,2025-06-05,World News from the Wall Street Journal,https://www.wsj.com
-news-us,wsj,rss,news-us-wsj,https://feeds.content.dowjones.io/public/rss/RSSUSNews,,daily,2025-06-05,US News from the Wall Street Journal,https://www.wsj.com
-news-business,wsj,rss,news-business-wsj,https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness,,daily,2025-06-05,US Business News from the Wall Street Journal,https://www.wsj.com
-news-business,wsj,rss,news-markets-wsj,https://feeds.content.dowjones.io/public/rss/RSSMarketsMain,,daily,2025-06-05,US Market News from the Wall Street Journal,https://www.wsj.com
-news-economy,wsj,rss,news-economy-wsj,https://feeds.content.dowjones.io/public/rss/socialeconomyfeed,,daily,2025-06-05,US Economy News from the Wall Street Journal,https://www.wsj.com
-news-us-politics,wsj,rss,news-us-politics-wsj,https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed,,daily,2025-06-05,US Politics News from the Wall Street Journal,https://www.wsj.com
+news-us,nyt,rss,news-us-nyt,https://rss.nytimes.com/services/xml/rss/nyt/US.xml,,daily,2025-06-07,US News from the New York Times,https://www.nytimes.com
+news-world,nyt,rss,news-world-nyt,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,,daily,2025-06-07,World News from the New York Times,https://www.nytimes.com
+news-africa,nyt,rss,news-africa-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml,,daily,2025-06-07,Africa News from the New York Times,https://www.nytimes.com
+news-europe,nyt,rss,news-europe-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,,daily,2025-06-07,Europe News from the New York Times,https://www.nytimes.com
+news-asia,nyt,rss,news-asia-nyt,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,,daily,2025-06-07,Asia News from the New York Times,https://www.nytimes.com
+news-americas,nyt,rss,news-americas-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,,daily,2025-06-07,Americas' News from the New York Times,https://www.nytimes.com
+news-middle-east,nyt,rss,news-middle-east-nyt,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,,daily,2025-06-07,Middle East News from the New York Times,https://www.nytimes.com
+news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,,daily,2025-06-07,Business News from the New York Times,https://www.nytimes.com
+news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,,daily,2025-06-07,Economic News from the New York Times,https://www.nytimes.com
+news-us-politics,nyt,rss,news-us-politics-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml,,daily,2025-06-07,US Politics News from the New York Times,https://www.nytimes.com
+news-world,wsj,rss,news-world-wsj,https://feeds.content.dowjones.io/public/rss/RSSWorldNews,,daily,2025-06-07,World News from the Wall Street Journal,https://www.wsj.com
+news-us,wsj,rss,news-us-wsj,https://feeds.content.dowjones.io/public/rss/RSSUSNews,,daily,2025-06-07,US News from the Wall Street Journal,https://www.wsj.com
+news-business,wsj,rss,news-business-wsj,https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness,,daily,2025-06-07,US Business News from the Wall Street Journal,https://www.wsj.com
+news-business,wsj,rss,news-markets-wsj,https://feeds.content.dowjones.io/public/rss/RSSMarketsMain,,daily,2025-06-07,US Market News from the Wall Street Journal,https://www.wsj.com
+news-economy,wsj,rss,news-economy-wsj,https://feeds.content.dowjones.io/public/rss/socialeconomyfeed,,daily,2025-06-07,US Economy News from the Wall Street Journal,https://www.wsj.com
+news-us-politics,wsj,rss,news-us-politics-wsj,https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed,,daily,2025-06-07,US Politics News from the Wall Street Journal,https://www.wsj.com
 news-us-politics,wapo,rss,news-us-politics-wapo,https://www.washingtonpost.com/arcio/rss/category/politics/,,daily,,US Politics News from the Washington Post,https://www.washingtonpost.com
 news-us,wapo,rss,news-us-wapo,http://feeds.washingtonpost.com/rss/national,,daily,,US News from the Washington Post,https://www.washingtonpost.com
 news-world,wapo,rss,news-world-wapo,https://feeds.washingtonpost.com/rss/world,,daily,,World News from the Washington Post,https://www.washingtonpost.com
@@ -30,6 +30,6 @@ news-business,wapo,rss,news-business-wapo,http://feeds.washingtonpost.com/rss/bu
 news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,daily,,Business News from the Los Angeles Times,https://www.latimes.com
 news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,daily,,US News from the Los Angeles Times,https://www.latimes.com
 news-us-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,daily,,US Politics News from the Los Angeles Times,https://www.latimes.com
-news-world,tribune,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,daily,2025-06-05,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
-news-business,tribune,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,daily,2025-06-05,Business News from the Chicago Tribune,https://www.chicagotribune.com
-news-us-politics,tribune,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,daily,2025-06-05,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
+news-world,tribune,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,daily,2025-06-07,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
+news-business,tribune,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,daily,2025-06-07,Business News from the Chicago Tribune,https://www.chicagotribune.com
+news-us-politics,tribune,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,daily,2025-06-07,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
