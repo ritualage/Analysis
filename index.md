@@ -13,7 +13,7 @@ title: Home
 
 {% for page in update_pages %}
   {% assign path_parts = page.path | split: "/" %}
-  {% if page.path contains "analysis/" and path_parts.size == 3 % and page.path != "analysis/index.md" %}
+  {% if page.path contains "analysis/" and path_parts.size == 3 and page.path != "analysis/index.md" %}
     <hr>
     <p>
       <a href="{{ page.url }}">{{ page.title }}</a><br>
