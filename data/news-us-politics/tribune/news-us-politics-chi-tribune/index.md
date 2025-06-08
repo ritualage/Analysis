@@ -1,7 +1,7 @@
 ---
 layout: default
 title: tribune - US Politics News from the Chicago Tribune
-date: 2025-06-07
+date: 2025-06-07T18:40
 ---
 
 ## tribune - US Politics News from the Chicago Tribune

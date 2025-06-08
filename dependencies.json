@@ -2,11 +2,11 @@
   "notebooks": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 18:10:36"
+      "2025-06-07 18:57:48"
     ],
     [
       "analysis\\news-topics\\analyze_headlines.ipynb",
-      "2025-06-05 13:21:02"
+      "2025-06-07 18:19:31"
     ]
   ],
   "latest_files": [
@@ -56,7 +56,7 @@
     ],
     [
       "data\\news-business\\latimes\\latimes-business\\latest.json",
-      "2025-06-07 17:05:32"
+      "2025-06-07 18:41:13"
     ],
     [
       "data\\news-business\\nyt\\news-business-nyt\\latest.json",
@@ -96,15 +96,15 @@
     ],
     [
       "data\\news-us\\latimes\\latimes-us\\latest.json",
-      "2025-06-07 17:05:32"
+      "2025-06-07 18:57:10"
     ],
     [
       "data\\news-us\\nyt\\news-us-nyt\\latest.json",
-      "2025-06-07 18:10:36"
+      "2025-06-07 18:57:39"
     ],
     [
       "data\\news-us\\wapo\\news-us-wapo\\latest.json",
-      "2025-06-07 17:05:15"
+      "2025-06-07 18:40:53"
     ],
     [
       "data\\news-us\\wsj\\news-us-wsj\\latest.json",
@@ -112,7 +112,7 @@
     ],
     [
       "data\\news-us-politics\\latimes\\latimes-us-politics\\latest.json",
-      "2025-06-07 17:05:32"
+      "2025-06-07 18:41:14"
     ],
     [
       "data\\news-us-politics\\nyt\\news-us-politics-nyt\\latest.json",
@@ -144,17 +144,17 @@
     ],
     [
       "analysis\\headlines\\latest.csv",
-      "2025-06-07 17:13:34"
+      "2025-06-07 18:19:24"
     ]
   ],
   "dependencies": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 18:10:36",
+      "2025-06-07 18:57:48",
       [
         [
           "data\\news-us\\nyt\\news-us-nyt\\latest.json",
-          "2025-06-07 18:10:36"
+          "2025-06-07 18:57:39"
         ],
         [
           "data\\news-us\\wsj\\news-us-wsj\\latest.json",
@@ -162,17 +162,17 @@
         ],
         [
           "analysis\\headlines\\latest.csv",
-          "2025-06-07 17:13:34"
+          "2025-06-07 18:19:24"
         ]
       ]
     ],
     [
       "analysis\\news-topics\\analyze_headlines.ipynb",
-      "2025-06-05 13:21:02",
+      "2025-06-07 18:19:31",
       [
         [
           "analysis\\headlines\\latest.csv",
-          "2025-06-07 17:13:34"
+          "2025-06-07 18:19:24"
         ]
       ]
     ]
@@ -181,15 +181,12 @@
   "other_notebooks": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 18:10:36"
+      "2025-06-07 18:57:48"
     ],
     [
       "analysis\\news-topics\\analyze_headlines.ipynb",
-      "2025-06-05 13:21:02"
+      "2025-06-07 18:19:31"
     ]
   ],
-  "outdated_notebooks": [
-    "analysis\\headlines\\update_headlines.ipynb",
-    "analysis\\news-topics\\analyze_headlines.ipynb"
-  ]
+  "outdated_notebooks": []
 }
