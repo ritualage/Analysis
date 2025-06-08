@@ -30,6 +30,14 @@ news-business,wapo,rss,news-business-wapo,http://feeds.washingtonpost.com/rss/bu
 news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,hourly,2025-06-07T20:06,Business News from the Los Angeles Times,https://www.latimes.com
 news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,hourly,2025-06-07T20:06,US News from the Los Angeles Times,https://www.latimes.com
 news-us-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,hourly,2025-06-07T20:06,US Politics News from the Los Angeles Times,https://www.latimes.com
-news-world,tribune,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,hourly,2025-06-07T20:06,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
-news-business,tribune,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,hourly,2025-06-07T20:06,Business News from the Chicago Tribune,https://www.chicagotribune.com
-news-us-politics,tribune,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,hourly,2025-06-07T20:06,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
+news-world,chitri,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,hourly,2025-06-07T20:06,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
+news-business,chitri,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,hourly,2025-06-07T20:06,Business News from the Chicago Tribune,https://www.chicagotribune.com
+news-us-politics,chitri,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,hourly,2025-06-07T20:06,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
+news-us-business,startribune,rss,news-us-business-startribune,https://www.startribune.com/rss?sf=1&s=%2F,,hourly,2025-06-07T20:06,Business News from the Star Tribune,https://www.startribune.com
+news-us-politics,startribune,rss,news-us-politics-startribune,https://www.startribune.com/politics/index.rss2,,hourly,2025-06-07T20:06,US Politics News from the Star Tribune,https://www.startribune.com
+news-us,nypost,rss,news-us-nypost,https://nypost.com/us-news/feed/,,hourly,2025-06-07T20:06,US News from the New York Post,https://nypost.com
+news-world,nypost,rss,news-world-nypost,https://nypost.com/world-news/feed/,,hourly,2025-06-07T20:06,World News from the New York Post,https://nypost.com
+news-us-politics,nypost,rss,news-us-politics-nypost,https://nypost.com/politics/feed/,,hourly,2025-06-07T20:06,US Politics News from the New York Post,https://nypost.com
+news-business,nypost,rss,news-business-nypost,https://nypost.com/business/feed/,,hourly,2025-06-07T20:06,Business News from the New York Post,
+news-world,toi,rss,news-world-toi,http://timesofindia.indiatimes.com/rssfeeds/296589292.cms,,hourly,2025-06-07T20:06,World News from the Times of India,https://timesofindia.indiatimes.com
+
