@@ -9,6 +9,15 @@ title: Home
 
 <div markdown="0">
 
+<ul>
+{% assign pages = site.pages | sort: "title" %}
+{% for p in pages %}
+{% if p.path contains "analysis/" and p.name == "index.md" %}
+<li><a href="{{ p.url }}">{{ p.title }}</a>{% if p.blurb %}
+  <p>{{ p.blurb }}</p>{% endif %}</li>
+{% endif %}
+{% endfor %}
+</ul>
 
 </div>
 
@@ -18,6 +27,15 @@ title: Home
 
 <div markdown="0">
 
+<ul>
+{% assign pages = site.pages | sort: "title" %}
+{% for d in pages %}
+{% if d.path contains "data/" and d.name == "index.md" %}
+<li><a href="{{ d.url }}">{{ d.title }}</a>{% if d.blurb %}
+  <p>{{ d.blurb }}</p>{% endif %}</li>
+{% endif %}
+{% endfor %}
+</ul>
 
 
 </div>
