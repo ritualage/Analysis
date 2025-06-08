@@ -51,13 +51,13 @@ There is still no application code here—only the data, notebooks and rendered 
 
 #### 1. Repository structure at a glance
 
-* **`[data/](https://github.com/Castro-Media/Analysis/tree/main/data)`** — holds every raw dataset.
-* A single **`[catalog.csv](https://github.com/Castro-Media/Analysis/blob/main/data/catalog.csv)`** file lists where each dataset comes from, what file format it uses, how often it should be refreshed, when it was last fetched, and which sub-folder it lives in.
+* **[data/](https://github.com/Castro-Media/Analysis/tree/main/data)** — holds every raw dataset.
+* A single **[catalog.csv](https://github.com/Castro-Media/Analysis/blob/main/data/catalog.csv)** file lists where each dataset comes from, what file format it uses, how often it should be refreshed, when it was last fetched, and which sub-folder it lives in.
   * Each dataset has its own folder (for example `data/xyz/`). Inside that folder:
     * One file named with the exact download date (such as `2025-06-03.json`) preserves a permanent, timestamped snapshot. The extension matches the catalog's declared file type.
     * A companion file called `latest.json` (or the matching extension) is simply a copy (or symbolic link) to the most recent snapshot, so analyses can always point at a stable filename.
-* **`[data/update.ipynb](https://github.com/Castro-Media/Analysis/blob/main/data/update.ipynb)`** — the single Jupyter notebook that orchestrates everything: fetching new data, versioning it, and triggering re-analysis.
-* **`[analysis/](https://github.com/Castro-Media/Analysis/tree/main/analysis)`** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
+* **[data/update.ipynb](https://github.com/Castro-Media/Analysis/blob/main/data/update.ipynb)** — the single Jupyter notebook that orchestrates everything: fetching new data, versioning it, and triggering re-analysis.
+* **[analysis/](https://github.com/Castro-Media/Analysis/tree/main/analysis)** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
 * **`assets/js/`** — custom scripts powering interactive DataTables and charts.
 * Each dataset folder has an `index.md` page generated automatically with links to each snapshot and built-in visualizations when possible.
 
