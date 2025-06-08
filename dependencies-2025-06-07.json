@@ -2,7 +2,7 @@
   "notebooks": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 17:47:38"
+      "2025-06-07 18:10:36"
     ],
     [
       "analysis\\news-topics\\analyze_headlines.ipynb",
@@ -100,7 +100,7 @@
     ],
     [
       "data\\news-us\\nyt\\news-us-nyt\\latest.json",
-      "2025-06-07 17:47:54"
+      "2025-06-07 18:10:36"
     ],
     [
       "data\\news-us\\wapo\\news-us-wapo\\latest.json",
@@ -150,11 +150,11 @@
   "dependencies": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 17:47:38",
+      "2025-06-07 18:10:36",
       [
         [
           "data\\news-us\\nyt\\news-us-nyt\\latest.json",
-          "2025-06-07 17:47:54"
+          "2025-06-07 18:10:36"
         ],
         [
           "data\\news-us\\wsj\\news-us-wsj\\latest.json",
@@ -181,7 +181,7 @@
   "other_notebooks": [
     [
       "analysis\\headlines\\update_headlines.ipynb",
-      "2025-06-07 17:47:38"
+      "2025-06-07 18:10:36"
     ],
     [
       "analysis\\news-topics\\analyze_headlines.ipynb",
