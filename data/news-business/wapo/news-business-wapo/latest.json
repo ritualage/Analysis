@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "title": "Stanley Fischer, economist who tackled global crises, dies at 81",
+      "link": "https://www.washingtonpost.com/obituaries/2025/06/07/stanley-fischer-economist-dies/",
+      "published": "Sat, 07 Jun 2025 19:06:45 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "NASA, Pentagon push for SpaceX alternatives amid Trump’s feud with Musk",
+      "link": "https://www.washingtonpost.com/technology/2025/06/07/trump-musk-spacex-nasa-national-security/",
+      "published": "Sat, 07 Jun 2025 16:21:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "For sale (maybe): Trump’s red Tesla — low miles, almost new",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/trump-sell-tesla-elon-musk/",
+      "published": "Fri, 06 Jun 2025 22:11:54 +0000",
+      "sentiment": 0.02727272727272727
+    },
+    {
+      "title": "ICE approves Georgia immigrant detention center following DOGE review",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/ice-doge-georgia-detention/",
+      "published": "Fri, 06 Jun 2025 21:39:25 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "S&P 500 ends week in bull market as investors shrug off economic concerns",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/sp500-stocks-markets-tesla/",
+      "published": "Fri, 06 Jun 2025 21:02:15 +0000",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Musk has a history of acrimonious breakups",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/musk-breakups-altman-thiel/",
+      "published": "Fri, 06 Jun 2025 19:46:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Employers added 139,000 jobs in May, a solid gain amid economic headwinds",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/jobs-report-may-unemployment/",
+      "published": "Fri, 06 Jun 2025 14:31:00 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Even after Trump-Xi call, China’s rare-earth controls aren’t going away",
+      "link": "https://www.washingtonpost.com/world/2025/06/06/china-rare-earths-trump-xi-call/",
+      "published": "Fri, 06 Jun 2025 10:32:22 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "I write about money. Yet I nearly forfeited a $3,000 reimbursement.",
+      "link": "https://www.washingtonpost.com/business/2025/06/06/money-advice-columnist-mishap/",
+      "published": "Fri, 06 Jun 2025 10:00:27 +0000",
+      "sentiment": 0.05
+    }
+  ]
+}

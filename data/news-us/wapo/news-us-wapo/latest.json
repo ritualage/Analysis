@@ -1,0 +1,70 @@
+{
+  "entries": [
+    {
+      "title": "These publicly funded homes for the poor cost $1.2 million each to build",
+      "link": "https://www.washingtonpost.com/dc-md-va/2025/06/06/these-publicly-funded-homes-poor-cost-12-million-each-develop/",
+      "published": "Sat, 07 Jun 2025 19:34:02 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Manhunt expands for Washington dad accused of killing his three daughters",
+      "link": "https://www.washingtonpost.com/nation/2025/06/07/travis-decker-manhunt-three-girls-wenatchee/",
+      "published": "Sat, 07 Jun 2025 12:37:09 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "She’s completed 99 Ironman races. Her motivation? Petting dogs mid-race.",
+      "link": "https://www.washingtonpost.com/lifestyle/2025/06/07/ironman-triathlons-jill-walker-dogs/",
+      "published": "Sat, 07 Jun 2025 12:05:27 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "After outcry, 4-year-old girl can stay in U.S. for lifesaving care",
+      "link": "https://www.washingtonpost.com/immigration/2025/06/07/immigration-mexico-girl-humanitarian-parole/",
+      "published": "Sat, 07 Jun 2025 10:00:41 +0000",
+      "sentiment": -0.03125
+    },
+    {
+      "title": "Funding for Smithsonian’s Anacostia, Latino museums cut in proposed Trump budget",
+      "link": "https://www.washingtonpost.com/nation/2025/06/07/smithsonian-latino-anacostia-museum-proposed-budget-cuts/",
+      "published": "Sat, 07 Jun 2025 10:00:33 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Ex-police chief and murderer who fled prison is captured, authorities say",
+      "link": "https://www.washingtonpost.com/nation/2025/06/06/ozarks-grant-hardin-escape-arkansas/",
+      "published": "Sat, 07 Jun 2025 00:19:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Police take back statement dismissing hate crime in gay actor’s killing",
+      "link": "https://www.washingtonpost.com/nation/2025/06/06/jonathan-joss-shooting-hate-crime-police/",
+      "published": "Sat, 07 Jun 2025 00:02:42 +0000",
+      "sentiment": -0.1277777777777778
+    },
+    {
+      "title": "International students scared to leave U.S., return to school after travel ban",
+      "link": "https://www.washingtonpost.com/nation/2025/06/06/international-students-trump-travel-ban/",
+      "published": "Fri, 06 Jun 2025 15:20:32 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Trump travel ban rattles immigrant communities across U.S.",
+      "link": "https://www.washingtonpost.com/nation/2025/06/06/population-trump-travel-ban/",
+      "published": "Fri, 06 Jun 2025 10:00:00 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Republicans worry Medicaid cuts would hurt their communities, poll finds",
+      "link": "https://www.washingtonpost.com/health/2025/06/06/medicaid-cuts-poll-trump-big-budget-bill/",
+      "published": "Fri, 06 Jun 2025 09:00:00 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Trump connected his travel ban to the Boulder attack. Some Jews object.",
+      "link": "https://www.washingtonpost.com/nation/2025/06/05/jewish-reaction-travel-ban-colorado-attack/",
+      "published": "Fri, 06 Jun 2025 00:59:44 +0000",
+      "sentiment": 0.0
+    }
+  ]
+}

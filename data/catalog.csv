@@ -24,12 +24,12 @@ news-business,wsj,rss,news-markets-wsj,https://feeds.content.dowjones.io/public/
 news-economy,wsj,rss,news-economy-wsj,https://feeds.content.dowjones.io/public/rss/socialeconomyfeed,,daily,2025-06-07,US Economy News from the Wall Street Journal,https://www.wsj.com
 news-us-politics,wsj,rss,news-us-politics-wsj,https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed,,daily,2025-06-07,US Politics News from the Wall Street Journal,https://www.wsj.com
 news-us-politics,wapo,rss,news-us-politics-wapo,https://www.washingtonpost.com/arcio/rss/category/politics/,,daily,,US Politics News from the Washington Post,https://www.washingtonpost.com
-news-us,wapo,rss,news-us-wapo,http://feeds.washingtonpost.com/rss/national,,daily,,US News from the Washington Post,https://www.washingtonpost.com
-news-world,wapo,rss,news-world-wapo,https://feeds.washingtonpost.com/rss/world,,daily,,World News from the Washington Post,https://www.washingtonpost.com
-news-business,wapo,rss,news-business-wapo,http://feeds.washingtonpost.com/rss/business,,daily,,Business News from the Washington Post,https://www.washingtonpost.com
-news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,daily,,Business News from the Los Angeles Times,https://www.latimes.com
-news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,daily,,US News from the Los Angeles Times,https://www.latimes.com
-news-us-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,daily,,US Politics News from the Los Angeles Times,https://www.latimes.com
+news-us,wapo,rss,news-us-wapo,http://feeds.washingtonpost.com/rss/national,,daily,2025-06-07,US News from the Washington Post,https://www.washingtonpost.com
+news-world,wapo,rss,news-world-wapo,https://feeds.washingtonpost.com/rss/world,,daily,2025-06-07,World News from the Washington Post,https://www.washingtonpost.com
+news-business,wapo,rss,news-business-wapo,http://feeds.washingtonpost.com/rss/business,,daily,2025-06-07,Business News from the Washington Post,https://www.washingtonpost.com
+news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,daily,2025-06-07,Business News from the Los Angeles Times,https://www.latimes.com
+news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,daily,2025-06-07,US News from the Los Angeles Times,https://www.latimes.com
+news-us-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,daily,2025-06-07,US Politics News from the Los Angeles Times,https://www.latimes.com
 news-world,tribune,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,daily,2025-06-07,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
 news-business,tribune,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,daily,2025-06-07,Business News from the Chicago Tribune,https://www.chicagotribune.com
 news-us-politics,tribune,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,daily,2025-06-07,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
