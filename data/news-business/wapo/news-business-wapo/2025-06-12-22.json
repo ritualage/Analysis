@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "title": "Air India crash is first involving Boeing’s 787 Dreamliner",
+      "link": "https://www.washingtonpost.com/business/2025/06/12/boeing-dreamliner-air-india-crash/",
+      "published": "Thu, 12 Jun 2025 18:01:33 +0000",
+      "sentiment": 0.15625
+    },
+    {
+      "title": "IRS tax-filing season defies gloomy projections despite DOGE upheaval",
+      "link": "https://www.washingtonpost.com/business/2025/06/12/irs-tax-filing-season-beats-projections/",
+      "published": "Thu, 12 Jun 2025 16:37:34 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New Orleans pushes to legalize police use of ‘facial surveillance’",
+      "link": "https://www.washingtonpost.com/business/2025/06/12/facial-recognition-new-orleans-artificial-intelligence/",
+      "published": "Thu, 12 Jun 2025 10:00:58 +0000",
+      "sentiment": 0.11727272727272728
+    },
+    {
+      "title": "Trump backers call for Walmart boycott amid furor over ‘No Kings Day’ ad",
+      "link": "https://www.washingtonpost.com/business/2025/06/11/walmart-boycott-trump-walton/",
+      "published": "Wed, 11 Jun 2025 22:34:16 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "ICE sets quotas to deliver on immigration crackdown on employers",
+      "link": "https://www.washingtonpost.com/business/2025/06/11/trump-immigration-ice-crackdown-employers/",
+      "published": "Wed, 11 Jun 2025 21:08:10 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump economy shows surprising resilience despite tariff impacts",
+      "link": "https://www.washingtonpost.com/business/2025/06/11/trump-tariffs-may-inflation/",
+      "published": "Wed, 11 Jun 2025 20:47:37 +0000",
+      "sentiment": 0.36666666666666664
+    },
+    {
+      "title": "Musk says he ‘went too far’ in feud with Trump after JD Vance steps in",
+      "link": "https://www.washingtonpost.com/business/2025/06/11/musk-regrets-trump-posts/",
+      "published": "Wed, 11 Jun 2025 18:43:15 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Trump hails limited trade deal with China after talks in London",
+      "link": "https://www.washingtonpost.com/business/2025/06/10/china-trade-london-truce-rare-earth-minerals/",
+      "published": "Wed, 11 Jun 2025 15:21:41 +0000",
+      "sentiment": -0.06785714285714287
+    },
+    {
+      "title": "The average used-car price hit $30,000. Should you just buy new?",
+      "link": "https://www.washingtonpost.com/business/2025/06/11/30000-used-car-price-value/",
+      "published": "Wed, 11 Jun 2025 10:00:00 +0000",
+      "sentiment": 0.08419913419913419
+    },
+    {
+      "title": "See how the national debt grew to more than $36 trillion",
+      "link": "https://www.washingtonpost.com/business/interactive/2025/national-debt-36-trillion/",
+      "published": "Wed, 11 Jun 2025 09:00:44 +0000",
+      "sentiment": 0.2
+    }
+  ]
+}

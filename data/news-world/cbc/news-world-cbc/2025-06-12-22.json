@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "How a Northern Irish town descended into 3 days of anti-immigrant violence",
+      "link": "https://www.cbc.ca/news/world/north-ireland-riots-1.7558861?cmp=rss",
+      "published": "Thu, 12 Jun 2025 15:55:53 EDT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Man accused of plotting NYC Jewish centre 'slaughter' while in Ontario pleads not guilty",
+      "link": "https://www.cbc.ca/news/canada/toronto/muhammad-shahzeb-khan-not-guilty-plea-1.7559505?cmp=rss",
+      "published": "Thu, 12 Jun 2025 13:53:33 EDT",
+      "sentiment": 0.04663299663299663
+    },
+    {
+      "title": "After days of raids, Los Angeles day labourers set aside their fear to support their families",
+      "link": "https://www.cbc.ca/news/world/los-angeles-day-labourers-1.7559009?cmp=rss",
+      "published": "Sun, 08 Jun 2025 00:43:45 EDT",
+      "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "1 passenger survives after Air India flight bound for London crashes with 242 aboard",
+      "link": "https://www.cbc.ca/news/world/india-plane-crash-1.7559094?cmp=rss",
+      "published": "Thu, 12 Jun 2025 05:10:25 EDT",
+      "sentiment": -0.3035714285714286
+    },
+    {
+      "title": "Dozens of Canadians gather in Egypt ahead of global march to Gaza border",
+      "link": "https://www.cbc.ca/news/world/global-march-gaza-canada-egypt-1.7558073?cmp=rss",
+      "published": "Wed, 11 Jun 2025 14:42:10 EDT",
+      "sentiment": -0.004166666666666666
+    },
+    {
+      "title": "United Nations to vote on demand for immediate Gaza ceasefire despite U.S., Israel opposition",
+      "link": "https://www.cbc.ca/news/world/united-nations-gaza-ceasefire-1.7559065?cmp=rss",
+      "published": "Thu, 12 Jun 2025 07:37:59 EDT",
+      "sentiment": 0.043333333333333335
+    },
+    {
+      "title": "RFK Jr. names new vaccine advisers after firing previous advisory committee",
+      "link": "https://www.cbc.ca/news/world/rfk-names-vaccine-advisers-1.7558969?cmp=rss",
+      "published": "Wed, 11 Jun 2025 20:10:25 EDT",
+      "sentiment": -0.0055303030303030295
+    },
+    {
+      "title": "Protests over federal immigration raids pop up across the U.S. with more planned",
+      "link": "https://www.cbc.ca/news/world/us-immigration-raids-protests-1.7559082?cmp=rss",
+      "published": "Thu, 12 Jun 2025 05:31:09 EDT",
+      "sentiment": 0.22916666666666666
+    },
+    {
+      "title": "Harvey Weinstein guilty on 1 charge, acquitted on another in sex crimes retrial",
+      "link": "https://www.cbc.ca/news/harvey-weinstein-guilty-sex-crimes-retrial-1.7558466?cmp=rss",
+      "published": "Wed, 11 Jun 2025 14:06:37 EDT",
+      "sentiment": -0.08653198653198653
+    },
+    {
+      "title": "Why don't people want more kids? That's the wrong question, says a new global report",
+      "link": "https://www.cbc.ca/news/canada/fertility-rate-un-report-1.7556909?cmp=rss",
+      "published": "Thu, 12 Jun 2025 04:01:38 EDT",
+      "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "Why there is hope of a Carney-Trump tariff breakthrough at G7 summit in Alberta",
+      "link": "https://www.cbc.ca/news/canada/calgary/bakx-g7-tariff-trade-alberta-kananaskis-trump-1.7554309?cmp=rss",
+      "published": "Thu, 29 May 2025 08:00:00 EDT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Health officials say Israeli airstrikes, gunfire leave 60 dead in Gaza",
+      "link": "https://www.cbc.ca/news/world/gaza-aid-sites-israel-strikes-hostages-1.7558538?cmp=rss",
+      "published": "Wed, 11 Jun 2025 15:01:28 EDT",
+      "sentiment": 0.01
+    },
+    {
+      "title": "Anti-immigration riots fuel fear and violence in Northern Ireland",
+      "link": "https://www.cbc.ca/player/play/9.6794753?cmp=rss",
+      "published": "Wed, 11 Jun 2025 22:00:02 EDT",
+      "sentiment": 0.065
+    },
+    {
+      "title": "Survivors of Ireland's notorious homes for unwed mothers could lose benefits in the U.K.",
+      "link": "https://www.cbc.ca/radio/asithappens/philomenas-law-uk-1.7558684?cmp=rss",
+      "published": "Wed, 11 Jun 2025 18:29:52 EDT",
+      "sentiment": 0.04950980392156862
+    },
+    {
+      "title": "Israel appears to believe its war goals are getting closer as Gaza teeters on brink of starvation",
+      "link": "https://www.cbc.ca/news/world/israel-gaza-food-aid-1.7557336?cmp=rss",
+      "published": "Wed, 11 Jun 2025 04:01:00 EDT",
+      "sentiment": 0.10714285714285714
+    },
+    {
+      "title": "Khaby Lame has the most followers on TikTok. ICE detained him — and now he's left the U.S.",
+      "link": "https://www.cbc.ca/news/entertainment/khaby-lame-has-the-most-followers-on-tiktok-ice-detained-him-and-now-he-s-left-the-u-s-1.7558210?cmp=rss",
+      "published": "Wed, 11 Jun 2025 11:41:44 EDT",
+      "sentiment": 0.019981060606060613
+    },
+    {
+      "title": "Disney and Universal sue AI firm Midjourney for copyright infringement",
+      "link": "https://www.cbc.ca/news/entertainment/disney-universal-midjourney-lawsuit-1.7558421?cmp=rss",
+      "published": "Wed, 11 Jun 2025 14:20:56 EDT",
+      "sentiment": 0.01125
+    },
+    {
+      "title": "Fans celebrate as BTS stars Jimin, Jung Kook end mandatory South Korea military service",
+      "link": "https://www.cbc.ca/news/entertainment/bts-jimin-jung-kook-military-service-1.7558094?cmp=rss",
+      "published": "Wed, 11 Jun 2025 10:53:41 EDT",
+      "sentiment": 0.06071428571428571
+    },
+    {
+      "title": "Austria mass school shooting leaves police searching for answers",
+      "link": "https://www.cbc.ca/news/world/austria-graz-mass-school-shooting-1.7557975?cmp=rss",
+      "published": "Wed, 11 Jun 2025 07:42:22 EDT",
+      "sentiment": -0.10333333333333333
+    },
+    {
+      "title": "GM to invest $4B in 3 U.S. facilities over next 2 years as it ramps up gas-powered vehicles",
+      "link": "https://www.cbc.ca/news/canada/windsor/gm-gas-powered-billions-us-investment-1.7557987?cmp=rss",
+      "published": "Wed, 11 Jun 2025 07:22:58 EDT",
+      "sentiment": -0.010714285714285711
+    }
+  ]
+}

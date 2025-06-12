@@ -1,0 +1,514 @@
+{
+  "entries": [
+    {
+      "title": "Boeing Crash in India Is First Fatal Incident Involving a 787 Jet",
+      "link": "https://www.wsj.com/business/boeing-787-crash-india-safety-record-fc7bf877?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 22:25:00 GMT",
+      "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "Peloton Names Its Latest Marketing Chief as Turnaround Project Continues",
+      "link": "https://www.wsj.com/articles/peloton-names-its-latest-marketing-chief-as-turnaround-project-continues-e00b3feb?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 22:04:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Warner Bros. Bondholders to Face Limits on Cooperation Pacts in Company’s Split",
+      "link": "https://www.wsj.com/articles/warner-bros-bondholders-to-face-limits-on-cooperation-pacts-in-companys-split-8874d185?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 19:55:00 GMT",
+      "sentiment": 0.075
+    },
+    {
+      "title": "Senators Propose Ban on Drug Advertising to Consumers",
+      "link": "https://www.wsj.com/articles/senators-to-propose-ban-on-drug-advertising-to-consumers-9ad257c2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 19:41:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "The First—and Final—Seconds of Air India Flight 171",
+      "link": "https://www.wsj.com/business/airlines/air-india-flight-171-final-moments-1b692829?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 18:42:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Why Warner Boss Zaslav Is Having to Split Up the Media Empire He Built",
+      "link": "https://www.wsj.com/business/media/warner-bros-ceo-david-zaslav-discovery-split-f7e5f8ed?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 18:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bojangles Is Exploring a Sale While the Fried-Chicken Market Is Hot",
+      "link": "https://www.wsj.com/business/deals/bojangles-is-exploring-a-sale-while-the-fried-chicken-market-is-hot-5cc6fb9e?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 16:46:00 GMT",
+      "sentiment": 0.075
+    },
+    {
+      "title": "Richard ‘Dick’ Beattie, Star Lawyer in Famed Private-Equity Deals, Dies at 86",
+      "link": "https://www.wsj.com/business/deals/richard-dick-beattie-star-lawyer-in-famed-private-equity-deals-dies-at-86-94e90c51?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 08 Jun 2025 21:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Kleenex-Owner Strikes a Deal for Its International Tissue Business",
+      "link": "https://www.wsj.com/business/deals/kimberly-clark-nears-roughly-3-5-billion-sale-of-international-tissue-business-299c17d5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Jun 2025 11:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chart Industries and Flowserve Strike All-Stock Merger",
+      "link": "https://www.wsj.com/business/deals/chart-industries-and-flowserve-near-all-stock-merger-bb3bd8c0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Jun 2025 11:28:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Honeywell Adds Elliott Executive to Its Board Ahead of Breakup",
+      "link": "https://www.wsj.com/business/deals/honeywell-to-add-elliott-executive-to-its-board-ahead-of-breakup-b8acc821?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 May 2025 12:17:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "ICE Raids Have Sent Latino Shoppers Into Hiding and Big Brands Are Hurting",
+      "link": "https://www.wsj.com/business/retail/latino-shoppers-retail-sales-coke-7005b8ac?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 01:00:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "How Home Depot Became Ground Zero in Trump’s Deportation Push",
+      "link": "https://www.wsj.com/business/retail/home-depot-immigration-ice-deportations-8027689d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Cyberattack on Food Distributor Leaves Supermarket Shelves Running Low",
+      "link": "https://www.wsj.com/business/retail/cyberattack-on-food-distributor-leaves-supermarket-shelves-running-low-92694f15?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 23:31:00 GMT",
+      "sentiment": 0.03500000000000001
+    },
+    {
+      "title": "As Alternative Meats Lose Favor, Impossible Foods Sets Its Sights on Flexitarians",
+      "link": "https://www.wsj.com/business/retail/impossible-foods-growth-opportunity-ac499fee?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 14:00:00 GMT",
+      "sentiment": -0.6666666666666666
+    },
+    {
+      "title": "Lululemon Shares Tumble on Warning That Tariffs Will Hurt Profit",
+      "link": "https://www.wsj.com/business/retail/lululemon-shares-tumble-on-warning-that-tariffs-will-hurt-profit-a678eae6?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 22:40:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nvidia’s Business Is Booming Despite Being Shut Out of China",
+      "link": "https://www.wsj.com/business/earnings/nvidia-nvda-q1-earnings-report-2025-62ff6a10?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 May 2025 23:42:00 GMT",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Home Depot Plans to Keep Prices Steady Despite Tariffs",
+      "link": "https://www.wsj.com/business/earnings/home-depot-hd-q1-earnings-report-stock-2025-7df6355f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 May 2025 15:28:00 GMT",
+      "sentiment": 0.05555555555555555
+    },
+    {
+      "title": "Ford’s First-Quarter Profit Drops 64%; Suspends Outlook",
+      "link": "https://www.wsj.com/business/earnings/ford-motor-f-q1-earnings-report-2025-c2bc1c6c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 May 2025 21:40:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/earnings/basic-materials-roundup-market-talk-d92eadbf?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 02 May 2025 21:01:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Exxon, Chevron Profits Fell Ahead of Tariff-Driven Oil Slump",
+      "link": "https://www.wsj.com/business/earnings/exxon-chevron-oil-earnings-q1-2025-3a21fc12?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 02 May 2025 10:33:00 GMT",
+      "sentiment": -0.06875
+    },
+    {
+      "title": "How the Cybertruck Came to Embody Tesla’s Problems",
+      "link": "https://www.wsj.com/business/autos/tesla-problems-cybertruck-trump-musk-feud-89501946?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Jun 2025 16:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chinese-Owned Company Halts Work on Factory to Make Batteries in U.S.",
+      "link": "https://www.wsj.com/business/autos/a-chinese-owned-battery-plant-in-south-carolina-halts-construction-77e9441e?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Jun 2025 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tesla Loses Leader of Optimus Robotics Project",
+      "link": "https://www.wsj.com/business/autos/tesla-loses-leader-of-optimus-robotics-project-f3123492?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 22:21:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Automakers Race to Find Workaround to China’s Stranglehold on Rare-Earth Magnets",
+      "link": "https://www.wsj.com/business/autos/car-companies-production-rare-earth-shortage-aaf87ad2?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Jun 2025 15:23:00 GMT",
+      "sentiment": -0.33101851851851855
+    },
+    {
+      "title": "General Motors CEO Defends Trump Auto Tariffs",
+      "link": "https://www.wsj.com/business/autos/general-motors-ceo-defends-trump-auto-tariffs-d6f15ab9?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 May 2025 17:49:00 GMT",
+      "sentiment": -0.03749999999999999
+    },
+    {
+      "title": "Opinion | Democrats Can Take Back Silicon Valley",
+      "link": "https://www.wsj.com/opinion/democrats-can-take-back-silicon-valley-politics-election-trump-musk-cd606bd7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 19:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | The National Slap Fight Continues",
+      "link": "https://www.wsj.com/opinion/the-national-slap-fight-continues-trump-musk-newsom-california-riot-16474cbd?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 21:23:00 GMT",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Opinion | Trump and Edward R. Murrow",
+      "link": "https://www.wsj.com/opinion/trump-and-edward-r-murrow-b6751234?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 21:25:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Opinion | The Trump-Musk Feud and the Deeper Republican Rift",
+      "link": "https://www.wsj.com/opinion/musk-trump-and-the-deeper-republican-rift-gop-maga-ca69d55d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Jun 2025 16:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Opinion | Can You Trust Anybody?",
+      "link": "https://www.wsj.com/opinion/can-you-trust-anybody-president-media-influencer-ai-aa13b7ea?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 08 Jun 2025 19:48:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Opinion | The North American Tariff Backfire",
+      "link": "https://www.wsj.com/opinion/the-north-american-tariff-backfire-mexico-canada-trump-g7-2399bf01?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 08 Jun 2025 19:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Saudi Arabia Is Grabbing Oil-Market Share, but It Can Open the Tap Only So Far",
+      "link": "https://www.wsj.com/business/energy-oil/saudi-arabia-is-grabbing-oil-market-share-but-it-can-open-the-tap-only-so-far-6f79fe49?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.07500000000000001
+    },
+    {
+      "title": "The Audacious Reboot of America’s Nuclear Energy Program",
+      "link": "https://www.wsj.com/business/energy-oil/nuclear-energy-industry-startups-942ae4a1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Hydrogen, the Fuel of the Future, Got Bogged Down in the Bayou",
+      "link": "https://www.wsj.com/business/energy-oil/how-hydrogen-the-fuel-of-the-future-got-bogged-down-in-the-bayou-36131eb6?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Jun 2025 16:00:00 GMT",
+      "sentiment": -0.13111111111111112
+    },
+    {
+      "title": "Bill Gates Is Backing This Geothermal Company. Will Trump’s Republicans?",
+      "link": "https://www.wsj.com/business/energy-oil/bill-gates-geothermal-fervo-energy-043cf2f3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Jun 2025 09:00:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Meta Signs Nuclear Power Deal to Fuel Its AI Ambitions",
+      "link": "https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Jun 2025 20:48:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Safe Is Flying—and What Else to Know About Air Travel",
+      "link": "https://www.wsj.com/business/airlines/how-safe-is-flying-boeing-explained-8d59e3d3?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 17:09:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Live Q&A: Ask Us Your Air Safety Questions",
+      "link": "https://www.wsj.com/business/airlines/air-safety-boeing-questions-live-03db0678?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 15:36:00 GMT",
+      "sentiment": 0.4121212121212121
+    },
+    {
+      "title": "Aerospace Startup JetZero to Start Building Futuristic Planes in North Carolina",
+      "link": "https://www.wsj.com/business/airlines/jetzero-north-carolina-blended-wing-aircraft-9f140b82?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 13:40:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "United Switches Off Starlink Internet on Regional Jets After Static Problem",
+      "link": "https://www.wsj.com/business/airlines/united-switches-off-starlink-internet-on-regional-jets-after-static-problem-a36bf030?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Jun 2025 02:43:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Trump’s FAA Pick Once Played a Flight Attendant on TV. It Drew FAA Scrutiny.",
+      "link": "https://www.wsj.com/business/airlines/trumps-faa-pick-once-played-a-flight-attendant-on-tv-it-drew-faa-scrutiny-69e58d46?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 17:11:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Showing Passion for Your Job Is Good for Your Career—if You’re a Man",
+      "link": "https://www.wsj.com/business/c-suite/career-passion-gender-impact-0ee7b540?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 16:00:00 GMT",
+      "sentiment": 0.32499999999999996
+    },
+    {
+      "title": "The Secret to Retaining the Best Employees: Ask Them These Four Questions",
+      "link": "https://www.wsj.com/business/c-suite/employee-retention-satisfaction-8e04ffb8?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 14:00:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "PwC Overhauls U.S. Advisory Arm, Boosts Hiring to Offer More Industry-Specific Services",
+      "link": "https://www.wsj.com/articles/pwc-overhauls-u-s-advisory-arm-boosts-hiring-to-offer-more-industry-specific-services-f93309b3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 19:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Deere’s Plans for Offsetting $500 Million in Tariff Costs",
+      "link": "https://www.wsj.com/articles/deeres-plans-for-offsetting-500-million-in-tariff-costs-79ae52d8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 May 2025 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Audit Watchdog Created After Enron Might Be Dismantled. Its Defenders Duel With GOP.",
+      "link": "https://www.wsj.com/articles/audit-watchdog-created-after-enron-might-be-dismantled-its-defenders-duel-with-gop-05e9f81e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 May 2025 13:09:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Howard Schultz Backs Starbucks CEO Brian Niccol’s Turnaround Approach",
+      "link": "https://www.wsj.com/business/hospitality/howard-schultz-backs-starbucks-ceo-brian-niccols-turnaround-approach-1b5ffe0a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 18:41:00 GMT",
+      "sentiment": -0.25
+    },
+    {
+      "title": "America’s Hottest Chicken Chain Started With $900—and Just Sold for $1 Billion",
+      "link": "https://www.wsj.com/business/hospitality/daves-hot-chicken-deal-roark-bac46ced?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Jun 2025 00:00:00 GMT",
+      "sentiment": -0.2791666666666667
+    },
+    {
+      "title": "McDonald’s Bids Goodbye to CosMc’s, Its Space Alien-Themed Spinoff",
+      "link": "https://www.wsj.com/business/hospitality/mcdonalds-cosmcs-close-abff5d25?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 May 2025 18:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Former Burger King Boss Picked to Oversee Panera, Pret a Manger",
+      "link": "https://www.wsj.com/business/hospitality/former-burger-king-boss-picked-to-oversee-panera-pret-a-manger-abbfd1b8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 May 2025 11:00:00 GMT",
+      "sentiment": -0.10833333333333334
+    },
+    {
+      "title": "McDonald’s U.S. Sales Decline in Shaky Economy",
+      "link": "https://www.wsj.com/business/hospitality/mcdonalds-mcd-q1-earnings-report-2025-76b4d394-9b782952?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 01 May 2025 14:54:00 GMT",
+      "sentiment": -0.1111111111111111
+    },
+    {
+      "title": "Inside ABC News’s Decision to Oust a Longtime Correspondent",
+      "link": "https://www.wsj.com/business/media/inside-abc-newss-decision-to-oust-a-longtime-correspondent-2cf8fde1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 16:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tech Giants’ New AI Ad Tools Threaten Big Agencies",
+      "link": "https://www.wsj.com/articles/tech-giants-new-ai-ad-tools-threaten-big-agencies-75d54a8a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.025162337662337664
+    },
+    {
+      "title": "X’s Sales Pitch: Give Us Your Ad Business or We’ll Sue",
+      "link": "https://www.wsj.com/business/media/x-twitter-ad-revenue-campaign-lawsuit-a882b5c6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Media and Entertainment Deal Machine Is Revving Up",
+      "link": "https://www.wsj.com/business/media/the-media-and-entertainment-deal-machine-is-revving-up-c86c1592?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 00:00:00 GMT",
+      "sentiment": 0.25909090909090904
+    },
+    {
+      "title": "ABC News Parts Ways With Correspondent After X Post Critical of Trump Aide",
+      "link": "https://www.wsj.com/business/media/abc-news-parts-ways-with-correspondent-after-x-post-critical-of-trump-aide-c5f8d350?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 22:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Texas Shipyard Deal Would Bring Arctic Icebreakers Trump Seeks",
+      "link": "https://www.wsj.com/articles/texas-shipyard-deal-would-bring-arctic-icebreakers-trump-seeks-7d9b6c8e?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 17:54:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "The Latest Casualty of the Tariff War: Free Shipping",
+      "link": "https://www.wsj.com/articles/the-latest-casualty-of-the-tariff-war-free-shipping-e4b9740b?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 18:18:00 GMT",
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Blocked by GOP and Trump, California Pivots in Clean-Air Fight",
+      "link": "https://www.wsj.com/articles/blocked-by-gop-and-trump-california-pivots-in-clean-air-fight-7c14cf00?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ship Carrying Thousands of Vehicles Adrift in Pacific After Catching Fire",
+      "link": "https://www.wsj.com/business/logistics/ship-carrying-vehicles-fire-pacific-ocean-038eee51?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Jun 2025 17:16:00 GMT",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Trade War Roils Logistics Sector After 2024’s Relative Calm",
+      "link": "https://www.wsj.com/articles/trade-war-roils-logistics-sector-after-2024s-relative-calm-a21ec101?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Jun 2025 19:32:00 GMT",
+      "sentiment": 0.06875
+    },
+    {
+      "title": "EchoStar Prepares Potential Bankruptcy Filing Amid FCC Review",
+      "link": "https://www.wsj.com/articles/echostar-prepares-potential-bankruptcy-filing-amid-fcc-review-36d6be50?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 22:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Commerce Revamps ‘Internet for All,’ Expanding Starlink Funding Prospects",
+      "link": "https://www.wsj.com/business/telecom/commerce-revamps-internet-for-all-expanding-starlink-funding-prospects-50daf55e?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Jun 2025 20:20:00 GMT",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "EchoStar Misses Second Interest Payment Amid FCC Review",
+      "link": "https://www.wsj.com/articles/echostar-misses-second-interest-payment-amid-fcc-review-781991c0?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Jun 2025 20:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Verizon Rolls Back DEI Policies to Secure $10 Billion Deal",
+      "link": "https://www.wsj.com/business/telecom/verizon-rolls-back-dei-policies-to-secure-10-billion-deal-8a9640d0?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 May 2025 17:53:00 GMT",
+      "sentiment": 0.1787878787878788
+    },
+    {
+      "title": "FCC Threatens Charlie Ergen’s Hold on Satellite, 5G Spectrum Licenses",
+      "link": "https://www.wsj.com/business/telecom/fcc-threatens-charlie-ergens-hold-on-satellite-5g-spectrum-licenses-e2913889?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 May 2025 17:44:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Yes or No: It’s Smart to Launch a New Product in a Recession",
+      "link": "https://www.wsj.com/business/entrepreneurship/recession-new-product-launch-49163662?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 17:00:00 GMT",
+      "sentiment": 0.24783549783549783
+    },
+    {
+      "title": "Cyber Startup Cyera Raises $540 Million in Series E Round",
+      "link": "https://www.wsj.com/articles/cyber-startup-cyera-raises-540-million-in-series-e-round-9180a64a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 09:55:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Cybersecurity Investor Merlin Ventures Raises Over $75 Million Debut Fund",
+      "link": "https://www.wsj.com/articles/cybersecurity-investor-merlin-ventures-raises-over-75-million-debut-fund-60126b61?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Jun 2025 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Climate Startups Are Pausing Operations, Cutting Staff and Entering Bankruptcy as Trump Policies Bite",
+      "link": "https://www.wsj.com/articles/climate-startups-are-pausing-operations-cutting-staff-and-entering-bankruptcy-as-trump-policies-bite-3a63bb53?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Theom, a Data-Security Startup, Nabs $20 Million",
+      "link": "https://www.wsj.com/articles/theom-a-data-security-startup-nabs-20-million-a8bbe816?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 May 2025 16:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Companies Quietly Recast DEI to Duck Backlash",
+      "link": "https://www.wsj.com/lifestyle/careers/company-dei-strategies-d859e7d7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 01:00:00 GMT",
+      "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "China’s Lock on Rare Earths Dictated Path Toward Trade Truce",
+      "link": "https://www.wsj.com/world/asia/trump-china-rare-earths-0cbf3f3c?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 16:25:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Judge Tosses Justin Baldoni’s Lawsuits Against Blake Lively and New York Times",
+      "link": "https://www.wsj.com/business/media/judge-tosses-justin-baldonis-lawsuits-against-blake-lively-and-new-york-times-c0533eec?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 15:52:00 GMT",
+      "sentiment": -0.009090909090909094
+    },
+    {
+      "title": "FTC Seeks Information From Top Advertising Agencies as Part of Ad-Boycott Probe",
+      "link": "https://www.wsj.com/business/media/ftc-seeks-information-from-top-advertising-agencies-as-part-of-ad-boycott-probe-9c98ad82?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Jun 2025 23:50:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Ad Forecaster Cuts Industry Outlook as Trade Upheaval Risks Five-Year ‘Chilling Effect’",
+      "link": "https://www.wsj.com/articles/ad-forecaster-cuts-industry-outlook-as-trade-upheaval-risks-five-year-chilling-effect-ebf4e833?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Jun 2025 23:00:00 GMT",
+      "sentiment": -0.13111111111111112
+    },
+    {
+      "title": "The Best Business Cards",
+      "link": "https://www.wsj.com/buyside/personal-finance/credit-cards/best-business-credit-cards?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 10 Mar 2025 16:22:00 GMT",
+      "sentiment": 0.7000000000000001
+    },
+    {
+      "title": "Best of Buy Side Awards 2025: Banks for Small Businesses",
+      "link": "https://www.wsj.com/buyside/personal-finance/banking/best-banks-for-small-business?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 09 Apr 2025 16:20:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "29 Best Gifts for Your Boss",
+      "link": "https://www.wsj.com/buyside/gifts/gift-guides/gifts-for-boss?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 09 Apr 2025 16:20:00 GMT",
+      "sentiment": 0.5464285714285714
+    },
+    {
+      "title": "ICE Raids Have Sent Latino Shoppers Into Hiding and Big Brands Are Hurting",
+      "link": "https://www.wsj.com/business/retail/latino-shoppers-retail-sales-coke-7005b8ac?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 01:00:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "Think Twice Before You Click ‘Unsubscribe’",
+      "link": "https://www.wsj.com/tech/cybersecurity/unsubscribe-email-security-38b40abf?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Jun 2025 00:00:00 GMT",
+      "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "The Secret to Retaining the Best Employees: Ask Them These Four Questions",
+      "link": "https://www.wsj.com/business/c-suite/employee-retention-satisfaction-8e04ffb8?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 14:00:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Boeing Crash in India Is First Fatal Incident Involving a 787 Jet",
+      "link": "https://www.wsj.com/business/boeing-787-crash-india-safety-record-fc7bf877?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Jun 2025 22:25:00 GMT",
+      "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "How Home Depot Became Ground Zero in Trump’s Deportation Push",
+      "link": "https://www.wsj.com/business/retail/home-depot-immigration-ice-deportations-8027689d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
+    }
+  ]
+}

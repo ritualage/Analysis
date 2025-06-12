@@ -1,0 +1,592 @@
+{
+  "entries": [
+    {
+      "title": "Children's Hospital Los Angeles halts transgender care under pressure from Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-12/childrens-hospital-of-los-angeles-transgender-care",
+      "published": "Thu, 12 Jun 2025 22:36:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Is your favorite taco truck slower than usual? ICE raids are sending street vendors into hiding",
+      "link": "https://www.latimes.com/california/story/2025-06-12/undocumented-street-vendors-work-fears",
+      "published": "Thu, 12 Jun 2025 22:32:03 GMT",
+      "sentiment": 0.1125
+    },
+    {
+      "title": "Skelton: The gift Trump never meant to give: the spotlight to Democratic adversary Gavin Newsom",
+      "link": "https://www.latimes.com/california/story/2025-06-12/skelton-column-trump-newsom-raids",
+      "published": "Thu, 12 Jun 2025 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'We need to find these people': L.A. immigration raids a sign of what's to come, officials say",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/we-need-to-find-these-people-l-a-immigration-raids-a-sign-of-whats-to-come-officials-say",
+      "published": "Thu, 12 Jun 2025 22:18:55 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Former celebrity lawyer Michael Avenatti gets nearly eight more years in prison at resentencing",
+      "link": "https://www.latimes.com/california/story/2025-06-12/michael-avenatti-resentenced",
+      "published": "Thu, 12 Jun 2025 21:15:29 GMT",
+      "sentiment": 0.16874999999999998
+    },
+    {
+      "title": "Photographer captures Sen. Alex Padilla's takedown at Homeland Security press conference",
+      "link": "https://www.latimes.com/california/story/2025-06-12/photos-capture-sen-alex-padilla-takedown-homeland-security-press-conference",
+      "published": "Thu, 12 Jun 2025 21:00:24 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'We live in response to a monarchy': Judge appears critical of deployment of National Guard in L.A.",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/federal-court-california-challenge-trump-marines-national-guard-deployment",
+      "published": "Thu, 12 Jun 2025 20:36:24 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Dodger Stadium Express to run this weekend, even with curfew restrictions",
+      "link": "https://www.latimes.com/sports/dodgers/story/2025-06-12/dodger-stadium-express-to-run-this-weekend-even-with-curfew-restrictions",
+      "published": "Thu, 12 Jun 2025 20:00:52 GMT",
+      "sentiment": -0.175
+    },
+    {
+      "title": "Chabria: First they came for the immigrants. Then they took down our Latino senator",
+      "link": "https://www.latimes.com/california/story/2025-06-12/chabria-column-alex-padilla-forcibly-removed-kristi-noem-immigrants-ice-raids-la",
+      "published": "Thu, 12 Jun 2025 19:56:56 GMT",
+      "sentiment": 0.03148148148148147
+    },
+    {
+      "title": "Sen. Alex Padilla handcuffed by federal agents at immigration press conference",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/sen-alex-padilla-handcuffed-by-federal-agents-at-immigration-press-conference",
+      "published": "Thu, 12 Jun 2025 19:52:35 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "State sues SoCal real estate tycoon, alleging widespread tenant exploitation",
+      "link": "https://www.latimes.com/homeless-housing/story/2025-06-12/state-sues-socal-real-estate-tycoon-alleging-widespread-tenant-exploitation",
+      "published": "Thu, 12 Jun 2025 19:33:41 GMT",
+      "sentiment": 0.037500000000000006
+    },
+    {
+      "title": "Tensions over L.A. immigration sweeps boil over as Padilla is tackled, ICE arrests pick up",
+      "link": "https://www.latimes.com/california/story/2025-06-12/second-night-curfew-downtown-los-angeles",
+      "published": "Thu, 12 Jun 2025 16:31:10 GMT",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "L.A. law enforcement leaders walk tightrope amid immigration crackdown",
+      "link": "https://www.latimes.com/california/story/2025-06-12/los-angeles-police-messages-immigration",
+      "published": "Thu, 12 Jun 2025 14:13:04 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Barabak: Trump could help feed hungry people. Instead he's throwing a vanity parade",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/trump-military-parade-slashing-social-safety-net-white-pony-express-food-rescue",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Eerie silence hangs over Central Coast farm fields in wake of ICE raids",
+      "link": "https://www.latimes.com/california/story/2025-06-12/eerie-silence-hangs-over-central-coast-farm-fields-in-wake-of-this-weeks-ice-raids",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.26666666666666666
+    },
+    {
+      "title": "Justice Department says Trump can undo national monuments; California areas could be on list",
+      "link": "https://www.latimes.com/environment/story/2025-06-12/doj-trump-can-undo-national-monuments-california-chuckwalla-sattitla",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Death threats, vandalism, investigations: L.A. immigrant rights groups in the fight of their lives",
+      "link": "https://www.latimes.com/california/story/2025-06-12/la-immigrant-rights-advocates",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "L.A. Councilmember Lee breaks silence on infamous Vegas trip, ethics allegations",
+      "link": "https://www.latimes.com/california/story/2025-06-12/councilmember-lee-takes-the-stand-in-his-ethics-case-accuses-englander-of-lying",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.5
+    },
+    {
+      "title": "A repeat of Rodney King? Local leaders say L.A.'s latest unrest is nothing like 1992",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/rodney-king-los-angeles-protest-history",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.12152777777777778
+    },
+    {
+      "title": "Hegseth refuses to commit to following possible court order on Marine deployment",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/california-congress-members-defense-sect-hespeth-immigration-raids-los-angeles",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Immigration raids have shaken communities across Los Angeles County. How can you help?",
+      "link": "https://www.latimes.com/california/story/2025-06-11/immigration-raids-have-shaken-communities-across-los-angeles-county-how-can-you-help",
+      "published": "Wed, 11 Jun 2025 23:30:17 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "In L.A.'s Little Tokyo, navigating a surreal week",
+      "link": "https://www.latimes.com/california/story/2025-06-11/little-tokyo-los-angeles-protests-upend-life-business",
+      "published": "Wed, 11 Jun 2025 23:27:32 GMT",
+      "sentiment": 0.09981060606060606
+    },
+    {
+      "title": "Anti-ICE protesters charged with using fireworks, motorcycles against police",
+      "link": "https://www.latimes.com/california/story/2025-06-11/los-angeles-da-charges-anti-ice-protesters",
+      "published": "Wed, 11 Jun 2025 22:47:30 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: Newsom's 'Democracy is under assault' speech could turn the tables on Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-11/chabria-column-newsom-address-trump-ice-raids-national-guard-marines",
+      "published": "Wed, 11 Jun 2025 22:37:01 GMT",
+      "sentiment": -0.0638888888888889
+    },
+    {
+      "title": "L.A. law enforcement's treatment of journalists during protests is once again under scrutiny",
+      "link": "https://www.latimes.com/california/story/2025-06-11/lapd-treatment-journalists",
+      "published": "Wed, 11 Jun 2025 22:24:42 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Fears of ICE raids upend life in L.A. County, from schools to Home Depot parking lots",
+      "link": "https://www.latimes.com/california/story/2025-06-11/ice-raid-fears-los-angeles",
+      "published": "Wed, 11 Jun 2025 22:11:57 GMT",
+      "sentiment": 0.08611111111111111
+    },
+    {
+      "title": "'They are grabbing people.' L.A. and Orange County car wash workers targeted by federal immigration raids",
+      "link": "https://www.latimes.com/business/story/2025-06-11/l-a-orange-county-car-washes-hit-by-ice-raids",
+      "published": "Wed, 11 Jun 2025 21:35:46 GMT",
+      "sentiment": 0.09333333333333335
+    },
+    {
+      "title": "Rubio vowed to revoke Chinese student visas. Trump now says Chinese students are welcome",
+      "link": "https://www.latimes.com/california/story/2025-06-11/trump-chinese-student-visas",
+      "published": "Wed, 11 Jun 2025 21:13:54 GMT",
+      "sentiment": 0.16
+    },
+    {
+      "title": "After images of unrest comes the political spin, distorting the reality on the ground in L.A.",
+      "link": "https://www.latimes.com/california/story/2025-06-11/ice-protests-images-los-angeles-distort-reality",
+      "published": "Wed, 11 Jun 2025 20:51:22 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Federal agents use vehicles to trap and arrest driver in Boyle Heights, leaving child and passenger behind",
+      "link": "https://www.latimes.com/california/story/2025-06-11/boyle-heights-feds-crash-detain-driver",
+      "published": "Wed, 11 Jun 2025 20:49:59 GMT",
+      "sentiment": -0.04107142857142858
+    },
+    {
+      "title": "Trump lawyers call California effort to block L.A. military deployment a dangerous 'stunt'",
+      "link": "https://www.latimes.com/politics/story/2025-06-11/trump-administration-defends-military-deployments",
+      "published": "Wed, 11 Jun 2025 20:35:06 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
+      "title": "A scam that targeted elderly victims collected more than $11 million. An Arcadia woman pleaded guilty",
+      "link": "https://www.latimes.com/california/story/2025-06-11/a-scam-that-targeted-elderly-victims-collected-more-than-11-million-an-arcadia-woman-pleaded-guilty",
+      "published": "Wed, 11 Jun 2025 20:00:28 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "330 immigrants detained in Southern California since Friday, White House spokesperson says",
+      "link": "https://www.latimes.com/politics/story/2025-06-11/330-immigrants-detained-in-l-a-since-friday-white-house-spokeswoman-says",
+      "published": "Wed, 11 Jun 2025 19:54:09 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chair of L.A. County Sheriff's Department civilian oversight panel says he is being forced out",
+      "link": "https://www.latimes.com/california/story/2025-06-11/coc-firing",
+      "published": "Wed, 11 Jun 2025 19:18:25 GMT",
+      "sentiment": 0.09999999999999998
+    },
+    {
+      "title": "Federal prosecutors 'coming after' L.A. protesters. Do some charges encroach on 1st Amendment?",
+      "link": "https://www.latimes.com/california/story/2025-06-11/l-a-protesters-face-federal-charges",
+      "published": "Wed, 11 Jun 2025 19:16:35 GMT",
+      "sentiment": -0.2033333333333333
+    },
+    {
+      "title": "9-year-old Torrance Elementary student deported with father to Honduras",
+      "link": "https://www.latimes.com/california/story/2025-06-11/torrance-boy-father-deported-honduras",
+      "published": "Wed, 11 Jun 2025 18:46:03 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Beleaguered L.A. immigrant advocates are now threatened with federal probes",
+      "link": "https://www.latimes.com/california/story/2025-06-11/republican-senator-launches-investigation-into-immigrant-advocates-saying-they-are-bankrolling-unrest",
+      "published": "Wed, 11 Jun 2025 17:15:33 GMT",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Brian Wilson, the musical genius behind the Beach Boys, dies at 82",
+      "link": "https://www.latimes.com/obituaries/story/2025-06-11/brian-wilson-dead-beach-boys",
+      "published": "Wed, 11 Jun 2025 17:09:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Crews battling wind-driven fire in Southern California's high desert make progress",
+      "link": "https://www.latimes.com/california/story/2025-06-11/ranch-fire-wind-driven",
+      "published": "Wed, 11 Jun 2025 16:26:39 GMT",
+      "sentiment": 0.13166666666666665
+    },
+    {
+      "title": "Immigration raids intensify, with hundreds of arrests and tense moments across L.A. area",
+      "link": "https://www.latimes.com/california/story/2025-06-11/los-angeles-immigration-protest-curfew",
+      "published": "Wed, 11 Jun 2025 13:43:58 GMT",
+      "sentiment": -0.16666666666666669
+    },
+    {
+      "title": "Chabria: Trump detests the very thing we love about L.A.",
+      "link": "https://www.latimes.com/california/story/2025-06-11/chabria-column-trump-downtown-la-little-tokyo-immigrants-ice-raids",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Downtown L.A. is under curfew after protest turmoil: What to know",
+      "link": "https://www.latimes.com/california/story/2025-06-11/downtown-los-angeles-curfew-explainer",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "In a test, one home burns, the other is unscathed. A lesson for fire-proofing L.A.?",
+      "link": "https://www.latimes.com/california/story/2025-06-11/house-burning-demonstration",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "A curfew — and faith leaders' calls —  quiet the night",
+      "link": "https://www.latimes.com/california/story/2025-06-10/faith-leaders-urge-non-violent-resistance-as-l-a-enacts-downtown-curfew-after-nights-of-chaos",
+      "published": "Wed, 11 Jun 2025 06:00:48 GMT",
+      "sentiment": 0.03333333333333335
+    },
+    {
+      "title": "Wind-driven Ranch fire in Apple Valley sparks evacuation order",
+      "link": "https://www.latimes.com/california/story/2025-06-10/ranch-fire-in-apple-valley-sparks-evacuation-order",
+      "published": "Wed, 11 Jun 2025 02:11:15 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Protesters gather at Santa Ana federal building: 'This is the healthiest thing to do'",
+      "link": "https://www.latimes.com/california/story/2025-06-10/immigration-raids-protesters-at-santa-ana-federal-building",
+      "published": "Wed, 11 Jun 2025 01:51:30 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Newsom, in California address, says Trump purposely 'fanned the flames' of L.A. protests",
+      "link": "https://www.latimes.com/california/story/2025-06-10/newsom-says-about-immigration-l-a-raids",
+      "published": "Wed, 11 Jun 2025 01:47:43 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Free admission offered at these California national parks and forests on Juneteenth",
+      "link": "https://www.latimes.com/california/story/2025-06-10/free-admission-offered-at-these-california-national-parks-and-forests-on-juneteenth",
+      "published": "Wed, 11 Jun 2025 01:27:23 GMT",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Bass enacts curfew in downtown L.A. to stem chaotic protests",
+      "link": "https://www.latimes.com/california/story/2025-06-10/mayor-bass-enacts-curfew-local-emergency-downtown-los-angeles",
+      "published": "Wed, 11 Jun 2025 01:02:45 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "ICE expands immigration raids into California's agricultural heartland",
+      "link": "https://www.latimes.com/california/story/2025-06-10/ice-expands-immigration-raids-into-californias-agricultural-heartland",
+      "published": "Wed, 11 Jun 2025 00:50:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Brush fire in Burbank under control, fire officials say; evacuations lifted",
+      "link": "https://www.latimes.com/california/story/2025-06-10/brush-fire-in-burbank-prompts-evacuations",
+      "published": "Wed, 11 Jun 2025 03:15:41 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "L.A. City Council members spar with police chief over immigration protests",
+      "link": "https://www.latimes.com/california/story/2025-06-10/l-a-city-councilmembers-spar-with-police-chief-over-immigration-protests",
+      "published": "Wed, 11 Jun 2025 00:08:21 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "As Marines arrive in L.A., military experts raise concerns: 'This could spiral out of control'",
+      "link": "https://www.latimes.com/california/story/2025-06-10/marines-in-streets-of-l-a-bring-peril",
+      "published": "Tue, 10 Jun 2025 23:50:58 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Owners of damaged downtown L.A. businesses still support the protesters, just not the 'hoodlums'",
+      "link": "https://www.latimes.com/california/story/2025-06-10/downtown-la-businesses-vandalized",
+      "published": "Tue, 10 Jun 2025 23:19:25 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "L.A. probation officer arrested, accused of supplying drugs to juvenile hall",
+      "link": "https://www.latimes.com/california/story/2025-06-10/los-angeles-probation-officer-arrested-drugs",
+      "published": "Tue, 10 Jun 2025 22:17:29 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "California's senators push Pentagon for answers on deployment of hundreds of Marines to L.A.",
+      "link": "https://www.latimes.com/politics/story/2025-06-10/schiff-demands-answers-on-unjustifiable-irresponsibly-rushed-deplyoment-of-marines-in-l-a",
+      "published": "Tue, 10 Jun 2025 21:00:02 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Mexico's Sheinbaum denies Noem's allegation that she encouraged violence in LA",
+      "link": "https://www.latimes.com/world-nation/story/2025-06-10/mexicos-sheinbaum-kristi-noem-protests-los-angeles",
+      "published": "Tue, 10 Jun 2025 20:54:30 GMT",
+      "sentiment": -0.4000000000000001
+    },
+    {
+      "title": "California asks court for restraining order to block Guard, U.S. Marine deployments in L.A.",
+      "link": "https://www.latimes.com/politics/story/2025-06-10/california-asks-court-for-temporary-restraining-order-to-block-marine-deployment-in-l-a",
+      "published": "Tue, 10 Jun 2025 18:52:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "All of L.A. is not a 'war zone.' We separate facts from spin and disinformation amid immigration raids",
+      "link": "https://www.latimes.com/california/story/2025-06-10/la-ice-protests-truth-vs-fiction",
+      "published": "Tue, 10 Jun 2025 17:43:10 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Division, distrust roil L.A. as federal troops arrive amid limited coordination with local police",
+      "link": "https://www.latimes.com/california/story/2025-06-10/businesses-burglarized-as-immigration-protests-continue",
+      "published": "Tue, 10 Jun 2025 16:23:40 GMT",
+      "sentiment": -0.023809523809523808
+    },
+    {
+      "title": "What businesses are the feds targeting during L.A. immigration sweeps? Here's what we know",
+      "link": "https://www.latimes.com/california/story/2025-06-10/ice-sweep-targets-what-we-know",
+      "published": "Tue, 10 Jun 2025 15:40:19 GMT",
+      "sentiment": 0.21428571428571427
+    },
+    {
+      "title": "The fight to reduce homeless service worker burnout in grueling industry",
+      "link": "https://www.latimes.com/california/story/2025-06-10/fellowship-seeks-to-reduce-burnout-among-homeless-service-workers",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.4121212121212121
+    },
+    {
+      "title": "'Learning studio' is the new high school classroom. Will teachers embrace the concept?",
+      "link": "https://www.latimes.com/california/story/2025-06-10/learning-studios-are-the-new-high-school-classrooms",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.21545454545454545
+    },
+    {
+      "title": "How L.A. law enforcement got pulled into the fight over Trump's immigration crackdown",
+      "link": "https://www.latimes.com/california/story/2025-06-10/lapd-sheriffs-department-immigration-protests",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Protesters or agitators: Who is driving chaos at L.A. immigration protests?",
+      "link": "https://www.latimes.com/california/story/2025-06-10/protesters-or-agitators-who-are-drivers-of-chaos-at-immigrations-protests",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lawmakers revive effort to expand Santa Monica Mountains recreation area",
+      "link": "https://www.latimes.com/environment/story/2025-06-10/santa-monica-mountains-national-recreation-area-expansion-rim-of-the-valley-budget-cuts",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "At a troubled fashion company, workers found community. Then ICE came",
+      "link": "https://www.latimes.com/california/story/2025-06-10/los-angeles-ambiance-apparel-workers-ice-raid",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.5
+    },
+    {
+      "title": "LAUSD will deploy school police to set up safe zones around campuses, graduations amid ICE raids",
+      "link": "https://www.latimes.com/california/story/2025-06-09/los-angeles-unified-school-police-set-up-safe-zones-amid-graduations-ice-raids",
+      "published": "Tue, 10 Jun 2025 03:42:35 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: Why this overheated invasion of L.A. looks so ugly and feels so personal",
+      "link": "https://www.latimes.com/california/story/2025-06-09/insurrectionists-freed-protesters-condemned-what-california-knows-that-trump-doesnt",
+      "published": "Tue, 10 Jun 2025 03:27:51 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "These street vendors used their aguas frescas to fight tear gas at anti-ICE protests",
+      "link": "https://www.latimes.com/food/story/2025-06-09/street-vendors-downtown-ice-protests-agua-fresca-milk-teargas",
+      "published": "Tue, 10 Jun 2025 03:22:03 GMT",
+      "sentiment": -0.15555555555555559
+    },
+    {
+      "title": "Democrats pick first woman of color to be next state Senate president",
+      "link": "https://www.latimes.com/california/story/2025-06-09/state-senate-democrats-oust-mcguire-choose-limon-as-president",
+      "published": "Tue, 10 Jun 2025 02:15:23 GMT",
+      "sentiment": 0.2625
+    },
+    {
+      "title": "L.A. immigration raids draw California Gov. Gavin Newsom back into the fight with Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-09/ice-raids-in-la-draw-newsom-back-into-the-fight-with-trump",
+      "published": "Mon, 9 Jun 2025 22:49:51 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Barabak: Putting the bully in bully pulpit, Trump escalates in L.A. rather than seeking calm",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/trump-los-angeles-protests-national-guard-immigration-raids",
+      "published": "Mon, 9 Jun 2025 22:37:30 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "After 'weekend of chaos,' thousands rally to protest ICE raids and arrest of union leader",
+      "link": "https://www.latimes.com/california/story/2025-06-09/grand-park-rally-and-protesters",
+      "published": "Mon, 9 Jun 2025 22:22:43 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "California sues Justice Dept. over demand that school districts ban trans athletes",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/california-sues-justice-dept-over-demand-that-school-districts-ban-trans-athletes",
+      "published": "Mon, 9 Jun 2025 21:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Downtown Los Angeles vandalized after protests. 'It's kind of the usual,' residents say",
+      "link": "https://www.latimes.com/california/story/2025-06-09/smashed-windows-graffiti-in-downtown-los-angeles-after-ice-protests",
+      "published": "Mon, 9 Jun 2025 20:56:08 GMT",
+      "sentiment": 0.090625
+    },
+    {
+      "title": "Mexican president condemns L.A. violence, calls on Mexicans to act peacefully",
+      "link": "https://www.latimes.com/world-nation/story/2025-06-09/mexican-president-condemns-l-a-violence-calls-on-mexicans-to-act-peacefully",
+      "published": "Mon, 9 Jun 2025 20:53:26 GMT",
+      "sentiment": 0.10833333333333334
+    },
+    {
+      "title": "Union leader faces federal charge of conspiracy to impede an officer during L.A. ICE raids",
+      "link": "https://www.latimes.com/california/story/2025-06-09/union-leader-federal-charge",
+      "published": "Mon, 9 Jun 2025 20:16:37 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "L.A. City Council aide put on unpaid leave following arrest at anti-ICE protest",
+      "link": "https://www.latimes.com/california/story/2025-06-09/jurado-staffer-arrested-at-downtown-protest-placed-on-unpaid-leave",
+      "published": "Mon, 9 Jun 2025 19:48:49 GMT",
+      "sentiment": 0.08750000000000001
+    },
+    {
+      "title": "Breakdown between Trump and Newsom deepens as L.A. crisis intensifies",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/trump-newsom-arrest-national-guard-los-angeles-unrest-ice-raids",
+      "published": "Mon, 9 Jun 2025 18:28:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: Trump wants L.A. to set itself on fire. Let's rebel smarter",
+      "link": "https://www.latimes.com/california/story/2025-06-09/trump-is-goading-us-into-setting-ourselves-on-fire-lets-rebel-smarter",
+      "published": "Mon, 9 Jun 2025 18:15:17 GMT",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Former O.C. Supervisor Andrew Do headed to prison for COVID relief bribery scheme",
+      "link": "https://www.latimes.com/california/story/2025-06-09/andrew-do-sentenced",
+      "published": "Mon, 9 Jun 2025 18:13:22 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "California sues Trump over 'unlawful, unprecedented' National Guard deployment",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/california-newsom-sue-trump-say-he-overstepped-with-national-guard-mobilization-in-l-a",
+      "published": "Mon, 9 Jun 2025 18:12:57 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "See Gizmo fly! Second Big Bear eaglet has flown the nest",
+      "link": "https://www.latimes.com/california/story/2025-06-09/see-gizmo-fly-big-bear-eaglet-has-flown-the-nest",
+      "published": "Mon, 9 Jun 2025 17:48:22 GMT",
+      "sentiment": 0.22727272727272724
+    },
+    {
+      "title": "Contributor: California's long history of National Guard overreaction to peaceful protesters",
+      "link": "https://www.latimes.com/opinion/story/2025-06-09/california-national-guard-history-railroad-strike",
+      "published": "Mon, 9 Jun 2025 17:30:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
+      "title": "Downtown L.A. hit by widespread vandalism, damage as city struggles to calm unrest",
+      "link": "https://www.latimes.com/california/story/2025-06-09/la-me-downtown-la-immigration-violence",
+      "published": "Mon, 9 Jun 2025 14:33:19 GMT",
+      "sentiment": -0.09999999999999998
+    },
+    {
+      "title": "Glendale ends ICE contract, no longer holds detainees",
+      "link": "https://www.latimes.com/california/story/2025-06-09/glendale-ends-ice-contract",
+      "published": "Mon, 9 Jun 2025 13:46:41 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "L.A. Olympic organizers confident they will cover estimated $7.1 billion cost of Games",
+      "link": "https://www.latimes.com/sports/olympics/story/2025-06-09/los-angeles-olympics-costs-corporate-sponsors",
+      "published": "Mon, 9 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "6 people killed after small plane crashes off San Diego coast",
+      "link": "https://www.latimes.com/california/story/2025-06-08/san-diego-plane-crash-6-missing-at-sea",
+      "published": "Mon, 9 Jun 2025 06:51:35 GMT",
+      "sentiment": -0.225
+    },
+    {
+      "title": "Waymo vehicles set on fire in downtown L.A. as protesters, police clash",
+      "link": "https://www.latimes.com/california/story/2025-06-08/waymo-vehicles-set-on-fire-protesters-police-clash",
+      "published": "Mon, 9 Jun 2025 01:39:09 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Paramount, a proud Latino suburb, thrust into center of Trump crackdown",
+      "link": "https://www.latimes.com/california/story/2025-06-08/paramount-a-proud-l-a-suburb-with-latino-roots-thursh-into-spotlight-with-trump-national-guard-deployment",
+      "published": "Sun, 8 Jun 2025 22:39:12 GMT",
+      "sentiment": 0.15000000000000002
+    },
+    {
+      "title": "Feds vow to continue immigration enforcement 'every day in L.A.' Here are your rights",
+      "link": "https://www.latimes.com/california/story/2025-06-08/rights-explainer-immigration-crackdown",
+      "published": "Sun, 8 Jun 2025 22:23:52 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "National Guard arrives in Los Angeles as fallout from immigration raids continues",
+      "link": "https://www.latimes.com/california/story/2025-06-08/national-guard-arrives-l-a-immigration-raids",
+      "published": "Sun, 8 Jun 2025 22:06:05 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Amid Trump's order, California tries to not play into his hands",
+      "link": "https://www.latimes.com/california/story/2025-06-08/california-political-stakes",
+      "published": "Sun, 8 Jun 2025 20:28:06 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Deputy critically wounded and suspect killed in Lancaster shooting",
+      "link": "https://www.latimes.com/california/story/2025-06-08/deputy-critically-wounded-and-suspect-killed-in-lancaster-shooting",
+      "published": "Sun, 8 Jun 2025 20:05:16 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Chabria: The insurrection that wasn't, and other Trump fantasies",
+      "link": "https://www.latimes.com/california/story/2025-06-08/the-insurrection-that-wasnt-and-other-trump-fantasies",
+      "published": "Sun, 8 Jun 2025 18:57:22 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "What really happened outside the Paramount Home Depot? The reality on the ground vs. the rhetoric",
+      "link": "https://www.latimes.com/california/story/2025-06-08/what-actually-happened-at-the-paramount-home-depot",
+      "published": "Sun, 8 Jun 2025 18:46:04 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "News Analysis: A political lesson for L.A. from an unrestrained president",
+      "link": "https://www.latimes.com/politics/story/2025-06-08/la-ice-protests-analysis-trump-national-guard",
+      "published": "Sun, 8 Jun 2025 17:32:01 GMT",
+      "sentiment": 0.0
+    }
+  ]
+}

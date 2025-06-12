@@ -1,0 +1,202 @@
+{
+  "entries": [
+    {
+      "title": "Trump Tells Farmers ‘Changes Are Coming’ to Immigration Crackdown",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-farmers-hotels-immigration.html",
+      "published": "Thu, 12 Jun 2025 22:31:24 +0000",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "Gov. Ron DeSantis Promises a Crackdown Against Unruly Protesters",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/florida-leaders-promise-a-crackdown-against-unruly-protesters",
+      "published": "Thu, 12 Jun 2025 22:31:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "California Democrats Express Outrage at Padilla’s Treatment",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/democrats-in-california-expressed-outrage-at-a-senators-treatment-by-law-enforcement-officers",
+      "published": "Thu, 12 Jun 2025 22:20:19 +0000",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "Padilla’s scuffle stirs painful memories of a childhood spent proving his worth.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/padillas-scuffle-stirs-painful-memories-of-a-childhood-spent-proving-his-worth",
+      "published": "Thu, 12 Jun 2025 22:11:11 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Federal agents, joined by Secretary Noem, descend on a California community.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/federal-agents-joined-by-secretary-noem-descend-on-a-california-community",
+      "published": "Thu, 12 Jun 2025 21:59:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democratic senators denounce the rough treatment of one of their own.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/democratic-senators-padilla-treatment",
+      "published": "Thu, 12 Jun 2025 22:50:52 +0000",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Trump Bristles at ‘No Kings’ Protests",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-no-kings-protests.html",
+      "published": "Thu, 12 Jun 2025 20:54:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump’s New ‘Apprentice’ Boardroom: The Oval Office",
+      "link": "https://www.nytimes.com/2025/06/12/arts/television/trump-oval-office-apprentice.html",
+      "published": "Thu, 12 Jun 2025 20:41:39 +0000",
+      "sentiment": 0.043181818181818175
+    },
+    {
+      "title": "F.A.A. Further Restricts Area Around Reagan Airport to Helicopters",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/faa-reagan-airport.html",
+      "published": "Thu, 12 Jun 2025 20:40:39 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Do Californians Really Pay Trump’s Bills?",
+      "link": "https://www.nytimes.com/2025/06/12/upshot/trump-california-donor-states.html",
+      "published": "Thu, 12 Jun 2025 21:05:35 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Trump’s Immigration P.R. Campaign Enters a New Militarized Phase",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-immigration-pr-campaign.html",
+      "published": "Thu, 12 Jun 2025 20:25:01 +0000",
+      "sentiment": 0.14545454545454548
+    },
+    {
+      "title": "House Approves $9 Billion in Funding Cuts Affecting NPR, PBS and Foreign Aid",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/house-foreign-aid-public-broadcasting-funds-trump.html",
+      "published": "Thu, 12 Jun 2025 21:16:34 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Another Dozen Migrants Are Transferred to Guantánamo",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/migrants-guantanamo-trump.html",
+      "published": "Thu, 12 Jun 2025 19:36:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Calif. Senator Forcibly Removed and Handcuffed After Interrupting Noem",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/senator-alex-padilla-handcuffed.html",
+      "published": "Thu, 12 Jun 2025 22:49:12 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "G.O.P. Senators Want Fewer Cuts to Food Aid, Teeing Up a Fight with the House",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/republican-senators-food-aid.html",
+      "published": "Thu, 12 Jun 2025 20:39:52 +0000",
+      "sentiment": 0.4000000000000001
+    },
+    {
+      "title": "Trump Acknowledges Israel Could Attack Iran Soon",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-israel-iran.html",
+      "published": "Thu, 12 Jun 2025 21:52:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Senate Confirms Billy Long to Lead I.R.S., Ignoring Troubled Tax Credit History",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/billy-long-irs-commissioner-confirmation.html",
+      "published": "Thu, 12 Jun 2025 17:24:40 +0000",
+      "sentiment": -0.1375
+    },
+    {
+      "title": "A Night Out for Trump at the Theater, With a Pocket of Dissent",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-les-miserables.html",
+      "published": "Thu, 12 Jun 2025 20:29:04 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Federal Judge Will Hear Arguments Over Trump’s Troop Deployment to L.A. Protests",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/la-protests-trump-hearing-marines-national-guard.html",
+      "published": "Thu, 12 Jun 2025 18:55:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Here’s where anti-Trump protests are expected on Thursday",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/where-are-immigration-protests-expected-on-thursday",
+      "published": "Thu, 12 Jun 2025 17:14:32 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Rich Gain and Poor Lose in Republican Policy Bill, Budget Office Finds",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/rich-poor-republican-bill.html",
+      "published": "Thu, 12 Jun 2025 17:03:55 +0000",
+      "sentiment": 0.15833333333333333
+    },
+    {
+      "title": "Russian Scientist Released After Four Months in Federal Custody",
+      "link": "https://www.nytimes.com/2025/06/12/science/russian-scientist-harvard-release.html",
+      "published": "Thu, 12 Jun 2025 19:23:36 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "The Justice Dept. orders prosecutors around the country to be on standby ahead of weekend protests.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/the-justice-dept-orders-prosecutors-around-the-country-to-be-on-standby-ahead-of-weekend-protests",
+      "published": "Thu, 12 Jun 2025 15:51:48 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lawyers for Kilmar Abrego Garcia Seek Sanctions Against Trump Officials",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/abrego-garcia-sanctions.html",
+      "published": "Thu, 12 Jun 2025 15:33:43 +0000",
+      "sentiment": 0.02023809523809522
+    },
+    {
+      "title": "Supreme Court Revives Family’s Suit Over FBI Raid of Wrong House",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/supreme-court-fbi-raid.html",
+      "published": "Thu, 12 Jun 2025 16:26:42 +0000",
+      "sentiment": -0.5
+    },
+    {
+      "title": "How the 2020 George Floyd Protests Are Haunting Democrats in 2025",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/democrats-california-protests-trump.html",
+      "published": "Thu, 12 Jun 2025 19:21:32 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/heres-the-latest",
+      "published": "Thu, 12 Jun 2025 22:20:03 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "6 Takeaways From Gavin Newsom’s Appearance on ‘The Daily’",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/gavin-newsom-the-daily-takeaways.html",
+      "published": "Thu, 12 Jun 2025 19:22:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Republicans in Congress Grill Democratic Governors on Immigration",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/republicans-governors-hochul-walz-immigration.html",
+      "published": "Thu, 12 Jun 2025 18:45:50 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Charging Your EV May Be Getting Easier, Even if It’s Not a Tesla",
+      "link": "https://www.nytimes.com/2025/06/12/business/electric-vehicle-charging-tesla.html",
+      "published": "Thu, 12 Jun 2025 09:02:26 +0000",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "Defense Lawyers for Kilmar Abrego Garcia Ask Judge to Release Him Pretrial",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/abrego-garcia-release-pretrial.html",
+      "published": "Thu, 12 Jun 2025 00:55:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Duffy Backs Safety Audit After Deadly Crash Near National Airport",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/dca-helicopter-crash-audits.html",
+      "published": "Thu, 12 Jun 2025 00:08:05 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "David Hogg to Exit DNC After Backlash to His Primary Plan",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/david-hogg-dnc-democrats.html",
+      "published": "Thu, 12 Jun 2025 00:05:39 +0000",
+      "sentiment": 0.31212121212121213
+    }
+  ]
+}
