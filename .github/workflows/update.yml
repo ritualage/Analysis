@@ -3,7 +3,8 @@ name: Update Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    # Run every hour, five minutes after the hour
+    - cron: '5 * * * *'
 
 jobs:
   run-update:
