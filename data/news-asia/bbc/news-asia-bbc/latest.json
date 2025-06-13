@@ -1,142 +1,100 @@
 {
   "entries": [
     {
-      "title": "Body of Thai hostage recovered from Gaza, Israel says",
-      "link": "https://www.bbc.com/news/articles/cev4l7kxdllo",
-      "published": "Sat, 07 Jun 2025 14:22:44 GMT",
-      "sentiment": 0.009999999999999998
-    },
-    {
-      "title": "How India's 'biggest art deal' buried MF Husain masterpieces in a bank vault",
-      "link": "https://www.bbc.com/news/articles/cwy62zn0nxgo",
-      "published": "Sat, 07 Jun 2025 21:05:55 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Central Asia's tallest Lenin statue taken down",
-      "link": "https://www.bbc.com/news/articles/c201yy6gknpo",
-      "published": "Sat, 07 Jun 2025 16:38:58 GMT",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "On board the driverless lorries hoping to transform China's transport industry",
-      "link": "https://www.bbc.com/news/articles/c5ykel5dr62o",
-      "published": "Fri, 06 Jun 2025 22:38:05 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Chinese boy fell to death after slip at Irish clifftop",
-      "link": "https://www.bbc.com/news/articles/cwy30nqwy99o",
-      "published": "Fri, 06 Jun 2025 19:34:59 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The decades-old intrigue over an Indian guest house in Mecca",
-      "link": "https://www.bbc.com/news/articles/cwy3gqz48qzo",
-      "published": "Fri, 06 Jun 2025 21:27:29 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Australian mushroom lunch cook tells trial meal was 'special'",
-      "link": "https://www.bbc.com/news/articles/c5y8e1l55kko",
-      "published": "Fri, 06 Jun 2025 05:17:04 GMT",
-      "sentiment": 0.17857142857142858
-    },
-    {
-      "title": "India central bank delivers sharp rate cut as growth and inflation fall",
-      "link": "https://www.bbc.com/news/articles/c62vdq6g945o",
-      "published": "Fri, 06 Jun 2025 07:37:40 GMT",
-      "sentiment": -0.05833333333333333
-    },
-    {
-      "title": "North Korea refloats warship after failed launch",
-      "link": "https://www.bbc.com/news/articles/c79e4pr2qjro",
-      "published": "Fri, 06 Jun 2025 09:34:28 GMT",
-      "sentiment": -0.3125
-    },
-    {
-      "title": "India leads in remittances - but Trump's tax could deal a blow",
-      "link": "https://www.bbc.com/news/articles/cvg98erzl8eo",
-      "published": "Thu, 05 Jun 2025 22:00:12 GMT",
-      "sentiment": 0.013888888888888895
-    },
-    {
-      "title": "Australian jailed in Iraq conditionally released after four years",
-      "link": "https://www.bbc.com/news/articles/c9dq38we68zo",
-      "published": "Fri, 06 Jun 2025 03:22:31 GMT",
+      "title": "British man is only passenger to survive India plane crash",
+      "link": "https://www.bbc.com/news/articles/ce3v6drp96zo",
+      "published": "Thu, 12 Jun 2025 21:29:13 GMT",
       "sentiment": -0.05
     },
     {
-      "title": "Three Maori MPs suspended over 'intimidating' haka",
-      "link": "https://www.bbc.com/news/articles/c5yg9k8x8pwo",
-      "published": "Thu, 05 Jun 2025 10:01:10 GMT",
+      "title": "Who are the victims of the Air India plane crash?",
+      "link": "https://www.bbc.com/news/articles/cdd28legnzvo",
+      "published": "Thu, 12 Jun 2025 22:07:12 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Air India plane crash - how the day unfolded",
+      "link": "https://www.bbc.com/news/videos/cx2q3z716v9o",
+      "published": "Thu, 12 Jun 2025 20:29:52 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Bouncy castle operator cleared in tragedy that killed six",
-      "link": "https://www.bbc.com/news/articles/c4gr5kn5d7go",
-      "published": "Fri, 06 Jun 2025 03:30:02 GMT",
-      "sentiment": 0.09166666666666666
+      "title": "Indian scientists search for the perfect apple",
+      "link": "https://www.bbc.com/news/articles/c0l05762elpo",
+      "published": "Thu, 12 Jun 2025 23:05:53 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Trump confirms China trip after 'very good' call with Xi",
-      "link": "https://www.bbc.com/news/articles/c0qg23gqllwo",
-      "published": "Thu, 05 Jun 2025 17:32:17 GMT",
-      "sentiment": 0.45499999999999996
-    },
-    {
-      "title": "New Zealand PM 'shock' as aide accused of secretly recording women",
-      "link": "https://www.bbc.com/news/articles/c5yxrp0070ko",
-      "published": "Thu, 05 Jun 2025 06:31:12 GMT",
-      "sentiment": -0.13181818181818183
-    },
-    {
-      "title": "Watch: Hungry elephant wanders into Thai grocery store",
-      "link": "https://www.bbc.com/news/videos/ceqgprdye1do",
-      "published": "Thu, 05 Jun 2025 02:01:15 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Watch: Moment girl rescues sister from runaway vehicle in China",
-      "link": "https://www.bbc.com/news/videos/cwy729z15ego",
-      "published": "Wed, 04 Jun 2025 17:07:20 GMT",
+      "title": "Bangladesh leader declines to meet Tulip Siddiq",
+      "link": "https://www.bbc.com/news/articles/cly30pgldewo",
+      "published": "Thu, 12 Jun 2025 15:17:56 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Polo-loving drug lord's double life catches up with him",
-      "link": "https://www.bbc.com/news/articles/c14jpymxrkno",
-      "published": "Sat, 07 Jun 2025 06:29:12 GMT",
+      "title": "Pope names Chinese bishop as he keeps historic Vatican-Beijing accord",
+      "link": "https://www.bbc.com/news/articles/cn4g9dlnynmo",
+      "published": "Thu, 12 Jun 2025 14:27:52 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "When joy turned to horror for Bengaluru fans celebrating team's IPL win",
-      "link": "https://www.bbc.com/news/articles/cwyj2jryj67o",
-      "published": "Thu, 05 Jun 2025 06:14:47 GMT",
-      "sentiment": 0.35000000000000003
+      "title": "Taiwan jails China captain for undersea cable sabotage in landmark case",
+      "link": "https://www.bbc.com/news/articles/cwy3zy9jvd4o",
+      "published": "Thu, 12 Jun 2025 07:01:54 GMT",
+      "sentiment": -0.05
     },
     {
-      "title": "'I was pushed across the India border into Bangladesh at gunpoint'",
-      "link": "https://www.bbc.com/news/articles/cqj78v79z9do",
-      "published": "Wed, 04 Jun 2025 22:03:36 GMT",
-      "sentiment": -0.4
+      "title": "BTS fan attempts to break into band member's home",
+      "link": "https://www.bbc.com/news/articles/czdy60gd02eo",
+      "published": "Thu, 12 Jun 2025 03:57:32 GMT",
+      "sentiment": -0.19999999999999998
     },
     {
-      "title": "Japanese baseball legend Shigeo Nagashima dies aged 89",
-      "link": "https://www.bbc.com/news/articles/c20xqx88137o",
-      "published": "Tue, 03 Jun 2025 12:09:32 GMT",
-      "sentiment": 0.225
+      "title": "US reviewing Aukus submarine pact as part of 'America First' agenda",
+      "link": "https://www.bbc.com/news/articles/cy8d3d5l9l1o",
+      "published": "Thu, 12 Jun 2025 01:43:24 GMT",
+      "sentiment": 0.049999999999999996
     },
     {
-      "title": "South Korea's new president has a Trump-shaped crisis to avert",
-      "link": "https://www.bbc.com/news/articles/cpvkxxerln1o",
-      "published": "Wed, 04 Jun 2025 01:25:27 GMT",
-      "sentiment": 0.06818181818181818
+      "title": "Officials race to tow burning ship away from India coast to prevent 'ecological disaster'",
+      "link": "https://www.bbc.com/news/articles/cy4kxdxjz1yo",
+      "published": "Thu, 12 Jun 2025 06:05:19 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
-      "title": "Watch: BBC on the ground in Seoul as new president is announced",
-      "link": "https://www.bbc.com/news/videos/cn7z8kgj2z0o",
-      "published": "Tue, 03 Jun 2025 18:30:36 GMT",
-      "sentiment": 0.2215909090909091
+      "title": "Trump says rare earths deal 'done' with China",
+      "link": "https://www.bbc.com/news/articles/c4gkmy26e2po",
+      "published": "Thu, 12 Jun 2025 01:38:40 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "What could have caused Air India plane to crash in 30 seconds?",
+      "link": "https://www.bbc.com/news/articles/c626y121rxxo",
+      "published": "Thu, 12 Jun 2025 20:20:47 GMT",
+      "sentiment": -0.15833333333333335
+    },
+    {
+      "title": "What we know so far after Air India flight to London crashes in Ahmedabad",
+      "link": "https://www.bbc.com/news/articles/c5y5nq170z4o",
+      "published": "Thu, 12 Jun 2025 17:26:05 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Who are the victims of the Air India plane crash?",
+      "link": "https://www.bbc.com/news/articles/cdd28legnzvo",
+      "published": "Thu, 12 Jun 2025 22:07:12 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "What is Aukus, the submarine deal between Australia, the UK and US?",
+      "link": "https://www.bbc.com/news/articles/cgr589k5yleo",
+      "published": "Thu, 12 Jun 2025 06:03:55 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Gangster tells BBC why India's biggest hip-hop star was murdered",
+      "link": "https://www.bbc.com/news/articles/c87j5v4xjxqo",
+      "published": "Wed, 11 Jun 2025 05:23:51 GMT",
+      "sentiment": 0.0
     }
   ]
 }

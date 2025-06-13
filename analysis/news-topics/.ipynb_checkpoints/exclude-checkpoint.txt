@@ -88,8 +88,4 @@ be
 from
 says
 if
-he
-she
-they
-ex
-like
+going

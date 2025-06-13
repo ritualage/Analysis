@@ -1,238 +1,118 @@
 {
   "entries": [
     {
-      "title": "Biggest drone strike hits Ukraine's second city",
-      "link": "https://www.bbc.com/news/articles/cwyjd1z8yg5o",
-      "published": "Sat, 07 Jun 2025 20:54:53 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Families of Ukraine's missing fear peace will not bring them home",
-      "link": "https://www.bbc.com/news/articles/c9wg2jelpyno",
-      "published": "Sat, 07 Jun 2025 23:00:06 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Italy citizenship referendum: 'I was born here - but feel rejected'",
-      "link": "https://www.bbc.com/news/articles/c780yk3z2lyo",
-      "published": "Sun, 08 Jun 2025 06:10:50 GMT",
+      "title": "Bomb attack plans found at Austria gunman's home",
+      "link": "https://www.bbc.com/news/articles/cm2kdy74v7go",
+      "published": "Wed, 11 Jun 2025 17:16:35 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "An ancient writing system confounding myths about Africa",
-      "link": "https://www.bbc.com/news/articles/c5ye50xgw8vo",
-      "published": "Sat, 07 Jun 2025 23:41:47 GMT",
-      "sentiment": -0.06666666666666667
+      "title": "What we know about Austria school shooting",
+      "link": "https://www.bbc.com/news/articles/c2d5w9rxr5eo",
+      "published": "Wed, 11 Jun 2025 14:38:55 GMT",
+      "sentiment": -0.1
     },
     {
-      "title": "Andrew Tate caught speeding 146km/h over limit in Romania",
-      "link": "https://www.bbc.com/news/articles/cy8dwwylpyxo",
-      "published": "Sat, 07 Jun 2025 19:08:54 GMT",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Boy fell to death after slip at Cliffs of Moher - inquest",
-      "link": "https://www.bbc.com/news/articles/cwy30nqwy99o",
-      "published": "Fri, 06 Jun 2025 19:34:59 GMT",
+      "title": "UK agrees post-Brexit deal over Gibraltar",
+      "link": "https://www.bbc.com/news/articles/cd903neydwjo",
+      "published": "Wed, 11 Jun 2025 21:24:08 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Hopes of closure fade as police wrap up Madeleine McCann search",
-      "link": "https://www.bbc.com/news/articles/cy8ndx4v8lro",
-      "published": "Fri, 06 Jun 2025 23:00:05 GMT",
+      "title": "A Belgrade landmark bombed by Nato could get Trump makeover",
+      "link": "https://www.bbc.com/news/articles/cp85yd5j3e0o",
+      "published": "Wed, 11 Jun 2025 23:12:36 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Norwegian doctor jailed for raping patients",
-      "link": "https://www.bbc.com/news/articles/cgj8x7dz435o",
-      "published": "Fri, 06 Jun 2025 16:55:32 GMT",
+      "title": "French antiques fraudsters found guilty of Versailles chair scam",
+      "link": "https://www.bbc.com/news/articles/cr7zye2l2r1o",
+      "published": "Wed, 11 Jun 2025 19:33:36 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "Polish PM Donald Tusk wins confidence vote",
+      "link": "https://www.bbc.com/news/articles/cx2ez231mpdo",
+      "published": "Wed, 11 Jun 2025 14:56:17 GMT",
+      "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "Ukraine collects 1,212 bodies in latest swap with Russia",
+      "link": "https://www.bbc.com/news/articles/ckg752y13meo",
+      "published": "Wed, 11 Jun 2025 16:50:02 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "'I have a clear conscience' - Hermoso left out of Spain Euros squad",
+      "link": "https://www.bbc.com/sport/football/articles/cn0g422lnzlo",
+      "published": "Wed, 11 Jun 2025 16:06:42 GMT",
+      "sentiment": 0.04000000000000001
+    },
+    {
+      "title": "Russian strikes in Ukraine hit Kyiv and kill two in Odesa",
+      "link": "https://www.bbc.com/news/articles/cx2jzp0ewe0o",
+      "published": "Tue, 10 Jun 2025 07:56:10 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "What Merz wants from Trump showdown meeting",
-      "link": "https://www.bbc.com/news/articles/c8re4z2g1m2o",
-      "published": "Wed, 04 Jun 2025 23:10:09 GMT",
-      "sentiment": 0.1
+      "title": "French ID scheme for Guernsey likely to be extended",
+      "link": "https://www.bbc.com/news/articles/cr58j2795e2o",
+      "published": "Tue, 10 Jun 2025 05:49:20 GMT",
+      "sentiment": -0.025
     },
     {
-      "title": "Eight injured on Ryanair flight hit by 'severe turbulence', police say",
-      "link": "https://www.bbc.com/news/articles/c5y67qp4g83o",
-      "published": "Thu, 05 Jun 2025 12:32:25 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cologne defuses WW2 bombs after 20,000 evacuated",
-      "link": "https://www.bbc.com/news/articles/cj6r04e870do",
-      "published": "Wed, 04 Jun 2025 22:53:17 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Diggers brought in to help latest Madeleine McCann search in Portugal",
-      "link": "https://www.bbc.com/news/articles/c87jwn48jp4o",
-      "published": "Wed, 04 Jun 2025 16:11:43 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Pornhub pulls out of France over age verification law",
-      "link": "https://www.bbc.com/news/articles/c5yelvlnzveo",
-      "published": "Tue, 03 Jun 2025 16:38:10 GMT",
-      "sentiment": 0.5333333333333333
-    },
-    {
-      "title": "Dutch government collapses after far-right leader quits coalition",
-      "link": "https://www.bbc.com/news/articles/c0r1x5yyd5wo",
-      "published": "Tue, 03 Jun 2025 19:48:34 GMT",
-      "sentiment": -0.2818181818181818
-    },
-    {
-      "title": "How Ukraine carried out daring 'Spider Web' attack on Russian bombers",
-      "link": "https://www.bbc.com/news/articles/cq69qnvj6nlo",
-      "published": "Mon, 02 Jun 2025 18:49:20 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Poland's conservative president-elect to be tough opponent for PM",
-      "link": "https://www.bbc.com/news/articles/crk28vm77d6o",
-      "published": "Mon, 02 Jun 2025 10:38:27 GMT",
-      "sentiment": -0.0038383838383838436
-    },
-    {
-      "title": "200-year-old condom 'in mint condition' says museum",
-      "link": "https://www.bbc.com/news/articles/c1de271qg4yo",
-      "published": "Wed, 04 Jun 2025 19:50:14 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Russia and Ukraine fail again to agree ceasefire but commit to prisoner swap",
-      "link": "https://www.bbc.com/news/articles/clyng4dknwwo",
-      "published": "Mon, 02 Jun 2025 21:10:29 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Ukraine drones strike bombers during major attack in Russia",
-      "link": "https://www.bbc.com/news/articles/c1ld7ppre9vo",
-      "published": "Mon, 02 Jun 2025 08:55:18 GMT",
-      "sentiment": 0.08125
-    },
-    {
-      "title": "Two dead and hundreds arrested in France after PSG Champions League win",
-      "link": "https://www.bbc.com/news/articles/ckgqyg325gno",
-      "published": "Sun, 01 Jun 2025 21:48:03 GMT",
+      "title": "Despair to delight: lost Rodin 'copy'  sells for $1m",
+      "link": "https://www.bbc.com/news/articles/c2d5wl90x8xo",
+      "published": "Tue, 10 Jun 2025 00:03:41 GMT",
       "sentiment": 0.2
     },
     {
-      "title": "New search in Portugal in Madeleine McCann case",
-      "link": "https://www.bbc.com/news/articles/c5y8jmkr3j7o",
-      "published": "Tue, 03 Jun 2025 07:04:35 GMT",
-      "sentiment": 0.018181818181818174
+      "title": "Madrid makes debut as Imola dropped from 2026",
+      "link": "https://www.bbc.com/sport/formula1/articles/cn0g7gd4x5xo",
+      "published": "Tue, 10 Jun 2025 09:06:20 GMT",
+      "sentiment": 0.10606060606060606
     },
     {
-      "title": "Macron waxwork stolen from French museum by activists",
-      "link": "https://www.bbc.com/news/articles/czdy862qvepo",
-      "published": "Mon, 02 Jun 2025 17:44:56 GMT",
+      "title": "Solved after 47 years: The mystery of the North Sea message in a bottle",
+      "link": "https://www.bbc.com/news/articles/ckgxwg4738eo",
+      "published": "Wed, 11 Jun 2025 04:58:34 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Russia may attack Nato in next four years, German defence chief warns",
-      "link": "https://www.bbc.com/news/articles/c62v63gl8rvo",
-      "published": "Sun, 01 Jun 2025 15:57:09 GMT",
-      "sentiment": 0.06666666666666667
+      "title": "Ketamine swapped for salt as smugglers exploit Europe loophole in booming market",
+      "link": "https://www.bbc.com/news/articles/c201jjgkvjlo",
+      "published": "Tue, 10 Jun 2025 05:06:43 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Man dies and child injured in Ireland shopping centre shooting incident",
-      "link": "https://www.bbc.com/news/articles/c74n3djl0ndo",
-      "published": "Mon, 02 Jun 2025 09:32:40 GMT",
-      "sentiment": -0.1
+      "title": "School shooting leaves Austria's second city in shock and grief",
+      "link": "https://www.bbc.com/news/articles/cewd980dgl9o",
+      "published": "Tue, 10 Jun 2025 18:49:54 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
-      "title": "Two Scottish men shot dead at bar in Spain",
-      "link": "https://www.bbc.com/news/articles/cm2y1e61xn1o",
-      "published": "Sun, 01 Jun 2025 15:34:42 GMT",
-      "sentiment": -0.1
+      "title": "US tariff turmoil makes Spain's flagship foods seek other markets",
+      "link": "https://www.bbc.com/news/articles/cx2r1lp8e7go",
+      "published": "Tue, 10 Jun 2025 23:07:17 GMT",
+      "sentiment": -0.08333333333333333
     },
     {
-      "title": "At least seven dead after two Russian bridges collapse",
-      "link": "https://www.bbc.com/news/articles/cr7zjy89304o",
-      "published": "Sun, 01 Jun 2025 12:43:19 GMT",
-      "sentiment": -0.15611111111111112
+      "title": "Oceans cannot become 'wild west', warns UN chief",
+      "link": "https://www.bbc.com/news/articles/c057qrd9eejo",
+      "published": "Mon, 09 Jun 2025 12:03:30 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Body of hiker missing since New Year's Day found",
-      "link": "https://www.bbc.com/news/articles/c2lkr9e9je7o",
-      "published": "Sun, 01 Jun 2025 08:07:44 GMT",
-      "sentiment": -0.08787878787878789
+      "title": "Watch: At the scene of Austria's worst shooting in modern history",
+      "link": "https://www.bbc.com/news/videos/cvgnyv4q168o",
+      "published": "Tue, 10 Jun 2025 19:42:44 GMT",
+      "sentiment": -0.25
     },
     {
-      "title": "The country where the left (not the far right) made hardline immigration laws",
-      "link": "https://www.bbc.com/news/articles/c1mgkd93r4yo",
-      "published": "Wed, 04 Jun 2025 23:11:08 GMT",
-      "sentiment": 0.005026455026455019
-    },
-    {
-      "title": "The furniture fraud who hoodwinked the Palace of Versailles",
-      "link": "https://www.bbc.com/news/articles/c3wd52lqqe8o",
-      "published": "Sat, 07 Jun 2025 05:08:31 GMT",
+      "title": "Gunshots heard and students evacuate in videos filmed at Austrian school",
+      "link": "https://www.bbc.com/news/videos/c9q0rewrv4ro",
+      "published": "Tue, 10 Jun 2025 16:37:35 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Are the surprise airfield attacks a turning point for Ukraine?",
-      "link": "https://www.bbc.com/news/articles/cn4gp2g7g47o",
-      "published": "Wed, 04 Jun 2025 21:00:39 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Ukraine's audacious drone attack sends critical message to Russia - and the West",
-      "link": "https://www.bbc.com/news/articles/c0r1jv0rn0ko",
-      "published": "Sun, 01 Jun 2025 20:52:16 GMT",
-      "sentiment": 0.020833333333333332
-    },
-    {
-      "title": "Polish knife-edge presidential vote pits liberal mayor against conservative",
-      "link": "https://www.bbc.com/news/articles/c0ln987g582o",
-      "published": "Fri, 30 May 2025 00:58:35 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Silent acts of resistance and fear under Russian occupation in Ukraine",
-      "link": "https://www.bbc.com/news/articles/czj40rn8k0wo",
-      "published": "Sat, 31 May 2025 23:53:22 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "British and US bestsellers hit by purge in Russian bookshops",
-      "link": "https://www.bbc.com/news/articles/cdj98zg2xkeo",
-      "published": "Thu, 29 May 2025 11:49:07 GMT",
-      "sentiment": 0.0125
-    },
-    {
-      "title": "German chancellor promises to help Ukraine produce long-range weapons",
-      "link": "https://www.bbc.com/news/articles/cpw7vllepx7o",
-      "published": "Wed, 28 May 2025 21:28:31 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Heysel disaster an 'indelible stain', says mayor",
-      "link": "https://www.bbc.com/news/articles/c1j5836r0deo",
-      "published": "Thu, 29 May 2025 05:08:12 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Orban accused of using Ukraine spy row in fight for political survival",
-      "link": "https://www.bbc.com/news/articles/c3wd94jxyjxo",
-      "published": "Wed, 28 May 2025 03:35:55 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "How the West is helping Russia to fund its war on Ukraine",
-      "link": "https://www.bbc.com/news/articles/cdxk454kxz8o",
-      "published": "Thu, 29 May 2025 23:01:27 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "The terrifying new weapon changing the war in Ukraine",
-      "link": "https://www.bbc.com/news/articles/ckgn47e5qyno",
-      "published": "Wed, 28 May 2025 16:00:06 GMT",
-      "sentiment": -0.4212121212121212
     },
     {
       "title": "Watch: Searching derelict and desolate area in Madeleine McCann case",
@@ -244,19 +124,13 @@
       "title": "Watch: Mount Etna in Sicily spews huge plumes of ash",
       "link": "https://www.bbc.com/news/videos/cj3j26yjg5ro",
       "published": "Mon, 02 Jun 2025 12:33:28 GMT",
-      "sentiment": 0.12499999999999999
+      "sentiment": 0.12500000000000006
     },
     {
       "title": "Footage shows aftermath of Russia bridge collapse",
       "link": "https://www.bbc.com/news/videos/c861y3gx977o",
       "published": "Sun, 01 Jun 2025 13:13:08 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Video appears to show Ukraine drone attack in Russia",
-      "link": "https://www.bbc.com/news/videos/cvg53nyg72vo",
-      "published": "Sun, 01 Jun 2025 16:00:16 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.15555555555555559
     }
   ]
 }

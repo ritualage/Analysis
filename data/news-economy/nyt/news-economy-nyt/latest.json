@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "title": "Trump Steel Tariffs Expand to Hit Home Appliances Like Refrigerators and Dishwashers",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-tariffs-steel-home-appliances.html",
+      "published": "Fri, 13 Jun 2025 00:51:20 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "New China Trade ‘Deal’ Takes U.S. Back to Where It Started",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/us-china-trade-deal-trump.html",
+      "published": "Thu, 12 Jun 2025 06:55:34 +0000",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "How Labor Unions Came to Define the L.A. Immigration Protests",
+      "link": "https://www.nytimes.com/2025/06/11/business/economy/la-protests-immigrants-unions.html",
+      "published": "Thu, 12 Jun 2025 17:15:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Court Agrees to Keep Trump Tariffs Intact as Appeal Gets Underway",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/trump-tariffs-court.html",
+      "published": "Wed, 11 Jun 2025 01:24:21 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Trump Hails Progress With China, but Details Are Sketchy",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/us-china-trade-deal.html",
+      "published": "Wed, 11 Jun 2025 18:57:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "European Union Unveils Fresh Sanctions on Russia, Including a Nord Stream Ban",
+      "link": "https://www.nytimes.com/2025/06/10/world/europe/european-union-sanctions-russia.html",
+      "published": "Tue, 10 Jun 2025 18:24:28 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Trump Administration Holds Trade Talks With China as Fight Over Rare Earths Escalates",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/china-us-trade-talks.html",
+      "published": "Tue, 10 Jun 2025 20:54:30 +0000",
+      "sentiment": -0.17499999999999996
+    },
+    {
+      "title": "Trump Aides Urge Court to Spare Tariffs as They Dismiss Worries in Public",
+      "link": "https://www.nytimes.com/2025/06/09/us/politics/trump-tariffs-appeals-court.html",
+      "published": "Tue, 10 Jun 2025 16:36:17 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Democrats Hate Trump’s Policy Bill, but Love Some of Its Tax Cuts",
+      "link": "https://www.nytimes.com/2025/06/09/us/politics/democrats-trump-tax-cuts.html",
+      "published": "Mon, 09 Jun 2025 09:01:59 +0000",
+      "sentiment": -0.07500000000000001
+    },
+    {
       "title": "U.S. and China to Hold Economic Talks in London",
       "link": "https://www.nytimes.com/2025/06/06/us/politics/us-china-trade-talks-london.html",
       "published": "Sat, 07 Jun 2025 08:34:59 +0000",
@@ -52,7 +106,7 @@
       "title": "Trump’s Tariffs Will Drag Down the Global Economy, OECD Says",
       "link": "https://www.nytimes.com/2025/06/03/business/trump-tariffs-oecd.html",
       "published": "Tue, 03 Jun 2025 18:03:57 +0000",
-      "sentiment": -0.022222222222222223
+      "sentiment": -0.02222222222222223
     },
     {
       "title": "As Courts Call Tariffs Into Question, Trump Again Turns to His Favorite Tool",
@@ -65,60 +119,6 @@
       "link": "https://www.nytimes.com/2025/05/30/us/politics/white-house-budget-trump.html",
       "published": "Sat, 31 May 2025 13:51:33 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Trump Accuses China of Violating Trade Agreement",
-      "link": "https://www.nytimes.com/2025/05/30/us/politics/trump-china-trade.html",
-      "published": "Fri, 30 May 2025 21:49:07 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Skateboarders Helped Rebuild San Francisco’s U.N. Plaza",
-      "link": "https://www.nytimes.com/2025/05/30/business/economy/san-francisco-skateboarding-un-plaza.html",
-      "published": "Fri, 30 May 2025 19:39:54 +0000",
-      "sentiment": 0.008333333333333325
-    },
-    {
-      "title": "Tariff Ruling Gives Businesses Hope, but They’re Soon Unmoored Again",
-      "link": "https://www.nytimes.com/2025/05/29/business/economy/trump-tariffs-ruling-businesses.html",
-      "published": "Fri, 30 May 2025 03:23:02 +0000",
-      "sentiment": 0.19444444444444445
-    },
-    {
-      "title": "Trump Makes a New Push to ‘Decouple’ U.S. From China",
-      "link": "https://www.nytimes.com/2025/05/29/us/politics/trump-china-visas-tariffs.html",
-      "published": "Sat, 31 May 2025 01:11:31 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Trump Criticizes the Fed in a Private Meeting With Powell",
-      "link": "https://www.nytimes.com/2025/05/29/us/politics/trump-powell-meeting-fed-economy.html",
-      "published": "Thu, 29 May 2025 19:40:01 +0000",
-      "sentiment": 0.03
-    },
-    {
-      "title": "U.S. Pauses Exports of Airplane and Semiconductor Technology to China",
-      "link": "https://www.nytimes.com/2025/05/28/business/economy/jet-engine-chip-software-exports-to-china.html",
-      "published": "Thu, 29 May 2025 02:44:32 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump’s Tariffs Drive a Rise in Trade Crime",
-      "link": "https://www.nytimes.com/2025/05/27/business/economy/trump-tariffs-trade-crime.html",
-      "published": "Thu, 29 May 2025 03:07:33 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Trump’s Plan to Revive US Shipbuilding Would Take Billions and Many Years",
-      "link": "https://www.nytimes.com/2025/05/27/business/economy/trump-shipbuilding-china.html",
-      "published": "Tue, 27 May 2025 14:12:50 +0000",
-      "sentiment": 0.225
-    },
-    {
-      "title": "Pivoting From Tax Cuts to Tariffs, Trump Ignores Economic Warning Signs",
-      "link": "https://www.nytimes.com/2025/05/24/us/politics/trump-taxes-tariffs-economy.html",
-      "published": "Sat, 24 May 2025 09:01:48 +0000",
-      "sentiment": 0.16666666666666666
     }
   ]
 }

@@ -1,40 +1,70 @@
 {
   "entries": [
     {
-      "title": "Stock Funds Roared to a 6% Gain in May",
-      "link": "https://www.wsj.com/finance/investing/stock-funds-6-percentgain-in-may-d0c336ce?mod=rss_markets_main",
-      "published": "Sun, 08 Jun 2025 14:00:00 GMT",
+      "title": "Chime Financial Is the Latest IPO to Soar in Debut",
+      "link": "https://www.wsj.com/finance/stocks/chime-financial-ipo-shares-stock-f6c5ad38?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 23:16:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Stock Market News, June 12, 2025: Inflation Reading Sends Bond Yields Lower, Stocks Higher",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-12-2025?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 23:43:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Rate-Cut Optimism Buoys Wall Street",
+      "link": "https://www.wsj.com/finance/investing/rate-cut-optimism-buoys-wall-street-c3d506c1?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 20:43:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Why Larry Fink Sees BlackRock Shares, Income Doubling by 2030",
+      "link": "https://www.wsj.com/finance/investing/why-larry-fink-sees-blackrock-shares-income-doubling-by-2030-de6c2a95?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 20:00:00 GMT",
+      "sentiment": 0.015000000000000003
+    },
+    {
+      "title": "Warner Bros. Bondholders to Face Limits on Cooperation Pacts in Company’s Split",
+      "link": "https://www.wsj.com/articles/warner-bros-bondholders-to-face-limits-on-cooperation-pacts-in-companys-split-8874d185?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 19:55:00 GMT",
+      "sentiment": 0.075
+    },
+    {
+      "title": "More Financial Advisers Are Outsourcing Investment Decisions",
+      "link": "https://www.wsj.com/finance/investing/more-financial-advisers-are-outsourcing-investment-decisions-a27ebc1f?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Bonds Rally, Stocks Slip After Inflation Data",
+      "link": "https://www.wsj.com/finance/stocks/bonds-rally-stocks-slip-after-inflation-data-b1341252?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 20:56:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Americans’ Electric Bills Are Headed Higher With the Temperatures",
-      "link": "https://www.wsj.com/finance/commodities-futures/americans-electric-bills-are-headed-higher-with-the-temperatures-d454a030?mod=rss_markets_main",
-      "published": "Sun, 08 Jun 2025 11:00:00 GMT",
-      "sentiment": 0.007499999999999995
+      "title": "Saudi Arabia Is Grabbing Oil-Market Share, but It Can Open the Tap Only So Far",
+      "link": "https://www.wsj.com/business/energy-oil/saudi-arabia-is-grabbing-oil-market-share-but-it-can-open-the-tap-only-so-far-6f79fe49?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.07500000000000001
     },
     {
-      "title": "Meme Stocks Made Him a Fortune. Now He’s Betting on Flying Taxis.",
-      "link": "https://www.wsj.com/business/meme-stocks-made-him-a-fortune-now-hes-betting-on-flying-taxis-63449215?mod=rss_markets_main",
-      "published": "Sun, 08 Jun 2025 09:30:00 GMT",
-      "sentiment": 0.03333333333333333
+      "title": "NRG Energy Used This Accounting Trick to Make Its Earnings Look Less Volatile",
+      "link": "https://www.wsj.com/finance/investing/nrg-energy-used-this-accounting-trick-to-make-its-earnings-look-less-volatile-8eb2e6cf?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
-      "title": "How to Invest When Everything Yields the Same",
-      "link": "https://www.wsj.com/finance/investing/investing-yields-stocks-treasuries-convergence-147c90da?mod=rss_markets_main",
-      "published": "Sun, 08 Jun 2025 09:30:00 GMT",
-      "sentiment": 0.26666666666666666
+      "title": "Apple Fails to Clear a Low Bar on AI",
+      "link": "https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 09:30:00 GMT",
+      "sentiment": -0.13333333333333333
     },
     {
-      "title": "Get Ready for Inflation to Matter in Markets Again",
-      "link": "https://www.wsj.com/finance/stocks/inflation-consumer-prices-markets-4803ae28?mod=rss_markets_main",
-      "published": "Sun, 08 Jun 2025 09:30:00 GMT",
-      "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "I Got Burned by the 401(k) ‘Hierarchy Trap’",
-      "link": "https://www.wsj.com/finance/investing/401k-withdraw-funds-hierarchy-risk-profile-cb03b136?mod=rss_markets_main",
-      "published": "Sat, 07 Jun 2025 14:00:00 GMT",
-      "sentiment": 0.5
+      "title": "Will America’s Unbalanced Trade Doom the Dollar?",
+      "link": "https://www.wsj.com/finance/currencies/trade-deficit-us-dollar-outlook-13f0a4f8?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 09:30:00 GMT",
+      "sentiment": -0.1277777777777778
     },
     {
       "title": "Broadcom’s AI Bonanza Has Limits",
@@ -43,28 +73,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump’s New Steel Tariffs Look Vulnerable to a Courtroom Challenge",
-      "link": "https://www.wsj.com/economy/trade/trump-steel-tariffs-legal-de400826?mod=rss_markets_main",
-      "published": "Sat, 07 Jun 2025 10:30:00 GMT",
-      "sentiment": -0.2878787878787879
-    },
-    {
-      "title": "Circle’s Relationship With Interest Rates Isn’t a Straight Line",
-      "link": "https://www.wsj.com/finance/investing/circles-relationship-with-interest-rates-isnt-a-straight-line-499499b8?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 15:13:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Apple’s Growing List of Problems Clouds AI Reboot",
-      "link": "https://www.wsj.com/tech/apple-aaple-stock-analysis-ac141e7e?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 09:30:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "A New Shot Prevents HIV—and Breathes New Life Into a Stagnant Biotech",
-      "link": "https://www.wsj.com/health/pharma/a-new-shot-prevents-hivand-breathes-new-life-into-a-stagnant-biotech-6badbce9?mod=rss_markets_main",
-      "published": "Thu, 05 Jun 2025 09:30:00 GMT",
-      "sentiment": 0.13636363636363635
+      "title": "Ken Moelis to Step Down as CEO of His Investment Bank",
+      "link": "https://www.wsj.com/finance/banking/ken-moelis-investment-bank-ceo-step-down-b5374fa9?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 11:00:00 GMT",
+      "sentiment": -0.15555555555555559
     },
     {
       "title": "Champagne Toasts, Big Ambitions: Wells Fargo CEO Embraces Newfound Freedom",
@@ -91,40 +103,52 @@
       "sentiment": 0.25
     },
     {
-      "title": "Jamie Dimon Says He Isn’t Retiring Anytime Soon",
-      "link": "https://www.wsj.com/finance/banking/jamie-dimon-says-he-isnt-retiring-anytime-soon-06021024?mod=rss_markets_main",
-      "published": "Mon, 02 Jun 2025 15:36:00 GMT",
+      "title": "Kimmeridge Cements Plan to Build Integrated Natural-Gas Company",
+      "link": "https://www.wsj.com/articles/kimmeridge-cements-plan-to-build-integrated-natural-gas-company-72747f81?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/financial-services-roundup-market-talk-6578bb2d?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 20:53:00 GMT",
-      "sentiment": 0.25
+      "title": "Moody’s Sounds Alarm on Private Funds for Individuals",
+      "link": "https://www.wsj.com/finance/investing/moodys-sounds-alarm-on-private-funds-for-individuals-8cd268c5?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 13:00:00 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Calpers Records 11% Private-Equity Gain for 2024",
-      "link": "https://www.wsj.com/articles/calpers-records-11-private-equity-gain-for-2024-5d4641f2?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 19:00:00 GMT",
-      "sentiment": -0.13068181818181818
+      "title": "Sundance Growth Raises a Quick $125 Million for Debut Fund",
+      "link": "https://www.wsj.com/articles/sundance-growth-raises-a-quick-125-million-for-debut-fund-434f0f65?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 16:00:00 GMT",
+      "sentiment": 0.058333333333333334
     },
     {
-      "title": "The Future Ain’t What It Used to Be for These Funds",
-      "link": "https://www.wsj.com/finance/investing/hamilton-lane-private-assets-alternative-funds-8862f32e?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 15:10:00 GMT",
-      "sentiment": 0.11249999999999999
+      "title": "Insurance Broker Aon Rides Tailwind From Tariff Uncertainty",
+      "link": "https://www.wsj.com/articles/insurance-broker-aon-rides-tailwind-from-tariff-uncertainty-25ee5e73?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.09242424242424242
     },
     {
-      "title": "What Stocks Do Best When the Dollar Weakens or Strengthens",
-      "link": "https://www.wsj.com/finance/investing/stock-advice-dollar-value-fe6a65db?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 14:00:00 GMT",
-      "sentiment": 0.375
+      "title": "Stock Funds Roared to a 6% Gain in May",
+      "link": "https://www.wsj.com/finance/investing/stock-funds-6-percentgain-in-may-d0c336ce?mod=rss_markets_main",
+      "published": "Sun, 08 Jun 2025 14:00:00 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Five Common Financial Mistakes People Make When Getting Divorced",
-      "link": "https://www.wsj.com/finance/investing/divorce-finances-common-mistakes-713d2fb3?mod=rss_markets_main",
-      "published": "Wed, 04 Jun 2025 16:00:00 GMT",
-      "sentiment": 0.13714285714285715
+      "title": "Trade Talks Send S&P 500 to Third Straight Gain",
+      "link": "https://www.wsj.com/finance/stocks/trade-talks-send-s-p-500-to-third-straight-gain-1866d60c?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 21:00:00 GMT",
+      "sentiment": 0.05116666666666667
+    },
+    {
+      "title": "Nasdaq Gains on Hopes for U.S.-China Chips Deal",
+      "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-06-09-2025-54cdea80?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 20:22:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Get Ready for Inflation to Matter in Markets Again",
+      "link": "https://www.wsj.com/finance/stocks/inflation-consumer-prices-markets-4803ae28?mod=rss_markets_main",
+      "published": "Sun, 08 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.16818181818181818
     },
     {
       "title": "What Recession Fears? Stocks Are Up Again",
@@ -139,22 +163,16 @@
       "sentiment": 0.2041666666666667
     },
     {
-      "title": "Stocks Slip, Tesla Tanks as Trump-Musk Feud Rages",
-      "link": "https://www.wsj.com/finance/stocks/stocks-slip-tesla-tanks-as-trump-musk-feud-rages-73cca57b?mod=rss_markets_main",
-      "published": "Thu, 05 Jun 2025 21:01:00 GMT",
-      "sentiment": 0.037500000000000006
+      "title": "Opinion | My Economist Father",
+      "link": "https://www.wsj.com/opinion/my-economist-father-fischer-black-economist-finance-family-truth-curiosity-28ac6289?mod=rss_markets_main",
+      "published": "Thu, 12 Jun 2025 19:51:00 GMT",
+      "sentiment": 0.21666666666666667
     },
     {
-      "title": "Crypto Firm Circle’s Shares Soar in Stock Market Debut",
-      "link": "https://www.wsj.com/finance/stocks/crypto-firm-circle-set-to-make-stock-market-debut-cb804241?mod=rss_markets_main",
-      "published": "Thu, 05 Jun 2025 20:23:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Bond Yields Fall After Weak Data Spurs Hopes of Rate Cut",
-      "link": "https://www.wsj.com/finance/stocks/bond-yields-fall-after-weak-data-spurs-hopes-of-rate-cut-70f033f1?mod=rss_markets_main",
-      "published": "Wed, 04 Jun 2025 20:53:00 GMT",
-      "sentiment": -0.09166666666666667
+      "title": "Opinion | Trump’s Big Opportunity in Japan",
+      "link": "https://www.wsj.com/opinion/trumps-big-opportunity-in-japan-alliance-trade-tech-deter-china-e27815d6?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 21:22:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | As We Get Older and Stop Making Cents",
@@ -181,16 +199,10 @@
       "sentiment": 0.45
     },
     {
-      "title": "Opinion | A Case of Bond Market Jitters",
-      "link": "https://www.wsj.com/opinion/bond-market-auction-economy-investors-u-s-republicans-tax-bill-f7cf9ecd?mod=rss_markets_main",
-      "published": "Wed, 21 May 2025 21:41:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Disclose the Trump Crypto Dinner Guests",
-      "link": "https://www.wsj.com/opinion/donald-trump-crypto-investors-dinner-trump-meme-coin-6280f377?mod=rss_markets_main",
-      "published": "Tue, 20 May 2025 22:34:00 GMT",
-      "sentiment": 0.0
+      "title": "Americans’ Electric Bills Are Headed Higher With the Temperatures",
+      "link": "https://www.wsj.com/finance/commodities-futures/americans-electric-bills-are-headed-higher-with-the-temperatures-d454a030?mod=rss_markets_main",
+      "published": "Sun, 08 Jun 2025 11:00:00 GMT",
+      "sentiment": 0.007499999999999995
     },
     {
       "title": "A Historic Gold Rush Is Under Way, From Wall Street to Main Street",
@@ -217,9 +229,15 @@
       "sentiment": 0.25
     },
     {
-      "title": "Uranium Bulls Get Spooked by Unknowns From Canada to Russia",
-      "link": "https://www.wsj.com/finance/commodities-futures/uranium-bulls-get-spooked-by-unknowns-from-canada-to-russia-5fc7b1de?mod=rss_markets_main",
-      "published": "Wed, 19 Mar 2025 09:30:00 GMT",
+      "title": "Businesses Are Bingeing on Crypto, Dialing Up the Market’s Risks",
+      "link": "https://www.wsj.com/finance/currencies/cryptocurrency-bitcoin-company-balance-sheets-16a1e2b8?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Inside the Online Marketplaces That Enable ‘Pig Butchering’ Scams",
+      "link": "https://www.wsj.com/finance/currencies/cambodia-huione-pig-butchering-scam-f9d16ef9?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 01:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -241,16 +259,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "SEC Dismisses Lawsuit Against Binance",
-      "link": "https://www.wsj.com/finance/currencies/sec-dismisses-lawsuit-against-binance-cce1dcae?mod=rss_markets_main",
-      "published": "Thu, 29 May 2025 23:32:00 GMT",
-      "sentiment": -0.12777777777777777
-    },
-    {
-      "title": "Trump Media Shares Fall Sharply on Plans to Raise Billions to Buy Bitcoin",
-      "link": "https://www.wsj.com/finance/currencies/trumps-media-company-to-raise-2-5-billion-to-buy-bitcoin-75420822?mod=rss_markets_main",
-      "published": "Tue, 27 May 2025 20:21:00 GMT",
-      "sentiment": 0.125
+      "title": "While Senate Considers Genius Act, Russian Is Charged With Stablecoin Laundering",
+      "link": "https://www.wsj.com/finance/regulation/while-senate-considers-genius-act-russian-is-charged-with-stablecoin-laundering-da507c74?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 18:24:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Antitrust Cops Say BlackRock, Other Fund Giants May Have Hurt Coal Competition",
@@ -277,40 +289,34 @@
       "sentiment": 0.2
     },
     {
-      "title": "Senators Demand Federal Reserve Turn Over Records on Failed Fintech Synapse",
-      "link": "https://www.wsj.com/finance/regulation/senators-demand-federal-reserve-turn-over-records-on-failed-fintech-synapse-23513669?mod=rss_markets_main",
-      "published": "Tue, 22 Apr 2025 20:40:00 GMT",
-      "sentiment": -0.4083333333333333
+      "title": "Auto-Parts Bankruptcy Is the First Big Casualty of Tariff War",
+      "link": "https://www.wsj.com/articles/auto-supplier-marelli-files-for-bankruptcy-to-hand-lenders-control-ed401dda?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 18:00:00 GMT",
+      "sentiment": 0.125
     },
     {
-      "title": "Musk’s xAI Is Trying to Borrow $5 Billion While His Relationship With Trump Blows Up",
-      "link": "https://www.wsj.com/finance/musks-xai-is-trying-to-borrow-5-billion-while-his-relationship-with-trump-blows-up-4b963361?mod=rss_markets_main",
-      "published": "Sat, 07 Jun 2025 00:18:00 GMT",
-      "sentiment": -0.04166666666666667
-    },
-    {
-      "title": "Franchise Group Exits Chapter 11 Process",
-      "link": "https://www.wsj.com/articles/franchise-group-exits-chapter-11-process-957a1359?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 21:26:00 GMT",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-408e60dc?mod=rss_markets_main",
-      "published": "Fri, 06 Jun 2025 20:56:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Businessman Using Goldman Name Secures Lucrative Bankruptcy Assignments",
-      "link": "https://www.wsj.com/articles/businessman-using-goldman-name-secures-lucrative-bankruptcy-assignments-63a0506f?mod=rss_markets_main",
-      "published": "Thu, 05 Jun 2025 23:44:00 GMT",
+      "title": "How the U.S. Government Borrows to Fund Its Massive Budget Shortfall",
+      "link": "https://www.wsj.com/finance/federal-government-debt-deficit-charts-3289eff8?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "23andMe’s Former CEO Pushes Purchase Price Nearly $50 Million Higher",
-      "link": "https://www.wsj.com/articles/23andmes-former-ceo-pushes-purchase-price-nearly-50-million-higher-7ec98421?mod=rss_markets_main",
-      "published": "Thu, 05 Jun 2025 01:41:00 GMT",
-      "sentiment": 0.09999999999999999
+      "title": "Solar Bellwether’s Bankruptcy Shows Green Energy’s Woes Under Trump",
+      "link": "https://www.wsj.com/articles/solar-bellwethers-bankruptcy-shows-green-energys-woes-under-trump-216bdc62?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 00:19:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Businessman Who Won Bankruptcy Assignments Used Goldman Name for Other Venture",
+      "link": "https://www.wsj.com/articles/businessman-using-goldman-name-secures-lucrative-bankruptcy-assignments-63a0506f?mod=rss_markets_main",
+      "published": "Mon, 09 Jun 2025 20:40:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Meme Stocks Made Him a Fortune. Now He’s Betting on Flying Taxis.",
+      "link": "https://www.wsj.com/business/meme-stocks-made-him-a-fortune-now-hes-betting-on-flying-taxis-63449215?mod=rss_markets_main",
+      "published": "Sun, 08 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "Best Savings Account Rates in June 2025",
@@ -331,34 +337,34 @@
       "sentiment": -0.05
     },
     {
-      "title": "Wall Street Is Sounding the Alarm on U.S. Debt. This Time, It’s Worth Listening.",
-      "link": "https://www.wsj.com/finance/investing/wall-street-bond-market-us-debt-990e12e9?mod=rss_markets_main",
-      "published": "Tue, 03 Jun 2025 11:00:00 GMT",
-      "sentiment": 0.3
+      "title": "Three Big Medical Costs That Retirees Often Underestimate",
+      "link": "https://www.wsj.com/health/healthcare/retirement-medical-costs-unexpected-68d48f68?mod=rss_markets_main",
+      "published": "Sun, 08 Jun 2025 14:00:00 GMT",
+      "sentiment": -0.03333333333333333
     },
     {
-      "title": "Americans Are Finally Saving Almost What They’re Supposed to for Retirement",
-      "link": "https://www.wsj.com/personal-finance/retirement/401k-savings-retirement-goals-d3e54a08?mod=rss_markets_main",
-      "published": "Wed, 04 Jun 2025 04:01:00 GMT",
-      "sentiment": -0.15
+      "title": "I Got Burned by the 401(k) ‘Hierarchy Trap’",
+      "link": "https://www.wsj.com/finance/investing/401k-withdraw-funds-hierarchy-risk-profile-cb03b136?mod=rss_markets_main",
+      "published": "Sat, 07 Jun 2025 14:00:00 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Do You Know as Much About Personal Finance as These Savvy High-Schoolers?",
-      "link": "https://www.wsj.com/personal-finance/national-personal-finance-challenge-quiz-b82b55ba?mod=rss_markets_main",
-      "published": "Tue, 03 Jun 2025 12:07:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Global Investors Have a New Reason to Pull Back From U.S. Debt",
-      "link": "https://www.wsj.com/finance/investing/us-bonds-debt-foreign-investment-e9d22b74?mod=rss_markets_main",
-      "published": "Wed, 04 Jun 2025 09:30:00 GMT",
-      "sentiment": 0.002272727272727271
+      "title": "Moody’s Sounds Alarm on Private Funds for Individuals",
+      "link": "https://www.wsj.com/finance/investing/moodys-sounds-alarm-on-private-funds-for-individuals-8cd268c5?mod=rss_markets_main",
+      "published": "Tue, 10 Jun 2025 13:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Future Ain’t What It Used to Be for These Funds",
       "link": "https://www.wsj.com/finance/investing/hamilton-lane-private-assets-alternative-funds-8862f32e?mod=rss_markets_main",
       "published": "Fri, 06 Jun 2025 15:10:00 GMT",
       "sentiment": 0.11249999999999999
+    },
+    {
+      "title": "How the U.S. Government Borrows to Fund Its Massive Budget Shortfall",
+      "link": "https://www.wsj.com/finance/federal-government-debt-deficit-charts-3289eff8?mod=rss_markets_main",
+      "published": "Wed, 11 Jun 2025 09:30:00 GMT",
+      "sentiment": 0.0
     }
   ]
 }

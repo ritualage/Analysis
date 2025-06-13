@@ -1,6 +1,132 @@
 {
   "entries": [
     {
+      "title": "Albertsons, Kroger workers authorize strike, protesting unfair labor practices",
+      "link": "https://www.latimes.com/business/story/2025-06-12/albertsons-kroger-workers-authorize-to-strike-protesting",
+      "published": "Fri, 13 Jun 2025 00:25:49 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "AI toys and games? Barbie maker Mattel teams up with OpenAI to create new products",
+      "link": "https://www.latimes.com/business/story/2025-06-12/ai-toys-and-games-barbie-maker-mattel-teams-up-openai-to-create-new-products",
+      "published": "Thu, 12 Jun 2025 22:36:29 GMT",
+      "sentiment": 0.14659090909090908
+    },
+    {
+      "title": "State regulators launch inquiry into State Farm's handling of fire claims",
+      "link": "https://www.latimes.com/business/story/2025-06-12/state-regulators-launch-inquiry-into-state-farms-handling-of-fire-claims-la-widlfires",
+      "published": "Thu, 12 Jun 2025 20:05:25 GMT",
+      "sentiment": 0.02500000000000001
+    },
+    {
+      "title": "Canadian Asian grocery chain T&T Supermarket continues expansion in SoCal",
+      "link": "https://www.latimes.com/business/story/2025-06-12/canadian-asian-grocery-chain-t-t-supermarkets-continues-expansion-in-socal",
+      "published": "Thu, 12 Jun 2025 19:00:06 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Hiltzik: Forget tariffs — GOP proposals on student loans will crack the economy",
+      "link": "https://www.latimes.com/business/story/2025-06-12/forget-inflation-the-gops-policies-on-student-loans-will-crack-the-economy",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Frito-Lay closes plant in Rancho Cucamonga",
+      "link": "https://www.latimes.com/business/story/2025-06-11/frito-lay-closes-plant-in-rancho-cucamonga",
+      "published": "Wed, 11 Jun 2025 22:54:15 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "David Murdock, billionaire king of fruit and vegetables, dies at 102",
+      "link": "https://www.latimes.com/obituaries/story/2025-06-11/la-me-david-murdock-2050",
+      "published": "Wed, 11 Jun 2025 22:35:27 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'They are grabbing people.' L.A. and Orange County car wash workers targeted by federal immigration raids",
+      "link": "https://www.latimes.com/business/story/2025-06-11/l-a-orange-county-car-washes-hit-by-ice-raids",
+      "published": "Wed, 11 Jun 2025 21:35:46 GMT",
+      "sentiment": 0.09333333333333335
+    },
+    {
+      "title": "States sue to block the sale of genetic data collected by DNA testing company 23andMe",
+      "link": "https://www.latimes.com/business/story/2025-06-11/23andme-bankruptcy-follow",
+      "published": "Wed, 11 Jun 2025 20:49:44 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "L.A. Chamber calls out federal enforcement actions",
+      "link": "https://www.latimes.com/business/story/2025-06-10/la-chamber-for-comprehensive-immigration-reform-that-reflects-reality-of-todays-workforce",
+      "published": "Wed, 11 Jun 2025 00:19:27 GMT",
+      "sentiment": 0.55
+    },
+    {
+      "title": "Wearing a computer on your face? Snap looks to take on rivals with new augmented reality glasses",
+      "link": "https://www.latimes.com/business/story/2025-06-10/snap-to-release-ar-glasses-in-2026-taking-on-apple-google-and-meta",
+      "published": "Tue, 10 Jun 2025 17:10:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Paramount lays off several hundred employees amid linear TV declines and 'dynamic macro-environment'",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-10/paramount-lays-off-several-hundred-employees",
+      "published": "Tue, 10 Jun 2025 16:31:06 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "How the federal immigration raids could disrupt California's economy",
+      "link": "https://www.latimes.com/business/story/2025-06-10/how-the-federal-immigration-raids-could-disrupt-californias-economy",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "At a troubled fashion company, workers found community. Then ICE came",
+      "link": "https://www.latimes.com/california/story/2025-06-10/los-angeles-ambiance-apparel-workers-ice-raid",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Hiltzik: Can Newsom block tax payments to the U.S. government? No, but we do give more than we get back",
+      "link": "https://www.latimes.com/business/story/2025-06-10/can-newsom-block-tax-payments-to-the-us-government-no-but-we-do-give-more-than-we-get-back",
+      "published": "Tue, 10 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "SAG-AFTRA video game strike officially suspended after tentative deal reached",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-09/video-game-strike-over-sag-aftra-deal",
+      "published": "Tue, 10 Jun 2025 05:40:02 GMT",
+      "sentiment": -0.36000000000000004
+    },
+    {
+      "title": "Waymo halts service in downtown Los Angeles amid ICE protests",
+      "link": "https://www.latimes.com/business/story/2025-06-09/waymo-halts-service-in-downtown-los-angeles-amid-ice-protests",
+      "published": "Mon, 9 Jun 2025 22:33:28 GMT",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Disney finally owns all of Hulu, ending long tug-of-war with Comcast",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-09/disney-finalizes-hulu-pays-comcast-for-remaining-stake",
+      "published": "Mon, 9 Jun 2025 21:57:28 GMT",
+      "sentiment": 0.008333333333333331
+    },
+    {
+      "title": "Home Depot caught in the crosshairs of L.A. immigrations raids",
+      "link": "https://www.latimes.com/business/story/2025-06-09/home-depot-in-the-crosshairs-of-immigrations-raids",
+      "published": "Mon, 9 Jun 2025 20:45:01 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Warner Bros. Discovery will split into two separate companies",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-09/warner-bros-discovery-will-split-into-two-companies",
+      "published": "Mon, 9 Jun 2025 13:19:28 GMT",
+      "sentiment": 0.2142857142857143
+    },
+    {
+      "title": "Hiltzik: Trump's NASA cuts would destroy decades of science and wipe out its future",
+      "link": "https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future",
+      "published": "Mon, 9 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.17500000000000002
+    },
+    {
       "title": "Sharing an inherited house with your siblings? It can get complicated",
       "link": "https://www.latimes.com/business/story/2025-06-08/owning-real-estate-with-other-people-can-be-difficult-even-when-the-individuals-get-along",
       "published": "Sun, 8 Jun 2025 10:00:00 GMT",
@@ -10,7 +136,7 @@
       "title": "Jobs at the Port of Los Angeles are down by half, executive director says",
       "link": "https://www.latimes.com/business/story/2025-06-07/port-of-los-angeles-job-orders-down-by-half",
       "published": "Sat, 7 Jun 2025 10:00:00 GMT",
-      "sentiment": -0.04646464646464646
+      "sentiment": -0.04646464646464647
     },
     {
       "title": "Prominent lawyers join press freedom fight to thwart Paramount settlement with Trump",
@@ -160,7 +286,7 @@
       "title": "L.A. wildfire victims uncertain about returning to their burned neighborhoods",
       "link": "https://www.latimes.com/business/story/2025-05-31/la-wildfire-victims-uncertain-about-returning-to-their-burned-neighborhoods-rebuild-altadena-palisades",
       "published": "Sat, 31 May 2025 10:00:00 GMT",
-      "sentiment": 0.18409090909090908
+      "sentiment": 0.24545454545454545
     },
     {
       "title": "LinkedIn cuts 281 workers in California as tech layoffs continue",
@@ -262,7 +388,7 @@
       "title": "AI is changing shopping. Will consumers buy in?",
       "link": "https://www.latimes.com/business/story/2025-05-24/google-openai-and-perplexity-want-you-to-use-ai-to-shop-will-consumers-buy-in",
       "published": "Sat, 24 May 2025 10:00:00 GMT",
-      "sentiment": -0.018518518518518517
+      "sentiment": -0.07777777777777779
     },
     {
       "title": "After 103 years, this L.A. prop maker finds new success freeze-drying dead pets",
@@ -394,7 +520,7 @@
       "title": "In a state with a dire affordable housing shortage, does the Coachella Valley offer hope?",
       "link": "https://www.latimes.com/california/story/2025-05-19/in-state-with-dire-affordable-housing-shortage-coachella-valley-offers-hope",
       "published": "Mon, 19 May 2025 10:00:00 GMT",
-      "sentiment": 0.2857142857142857
+      "sentiment": 0.0
     },
     {
       "title": "Call centers replaced many doctors'  receptionists. Now, AI is coming for call centers",
@@ -466,132 +592,6 @@
       "title": "LA28's plan for a car-free Olympics now includes air taxis the price of a high-end Uber",
       "link": "https://www.latimes.com/business/story/2025-05-15/la28-electric-air-taxis-car-free-olympics",
       "published": "Thu, 15 May 2025 12:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tariffs give 157-year-old chocolate maker Guittard a bitter taste",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-15/tariffs-put-a-bitter-taste-on-guittard-the-157-year-old-chocolate-maker",
-      "published": "Thu, 15 May 2025 10:00:00 GMT",
-      "sentiment": 0.030000000000000006
-    },
-    {
-      "title": "Hiltzik: Crypto was already in bad odor before jumping into bed with Trump. Now it smells worse",
-      "link": "https://www.latimes.com/business/story/2025-05-15/crypto-was-already-in-bad-odor-before-jumping-into-bed-with-trump-now-it-smells-worse",
-      "published": "Thu, 15 May 2025 10:00:00 GMT",
-      "sentiment": -0.27499999999999997
-    },
-    {
-      "title": "Riverside wants to become 'the new Detroit.' Can this self-driving electric bus get it there?",
-      "link": "https://www.latimes.com/california/story/2025-05-15/riverside-self-driving-buses",
-      "published": "Thu, 15 May 2025 10:00:00 GMT",
-      "sentiment": 0.19545454545454546
-    },
-    {
-      "title": "L.A. council backs $30 minimum wage for hotels, despite warnings from tourism industry",
-      "link": "https://www.latimes.com/california/story/2025-05-14/council-hikes-hotel-minimum-wage-despite-warnings-from-tourism-companies",
-      "published": "Wed, 14 May 2025 22:30:46 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "AMC is introducing huge Wednesday ticket discounts. Will it increase attendance?",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-14/amcs-discount-wednesday",
-      "published": "Wed, 14 May 2025 21:28:26 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Waymo recalls more than 1,200 automated vehicles after minor crashes",
-      "link": "https://www.latimes.com/business/story/2025-05-14/waymo-recalls-more-than-1-200-automated-vehicles-after-minor-crashes",
-      "published": "Wed, 14 May 2025 20:30:15 GMT",
-      "sentiment": 0.08750000000000001
-    },
-    {
-      "title": "Disney parks boss Josh D'Amaro touts Mouse House bona fides as succession chatter rages",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-14/disney-josh-damaro-bob-iger-ceo-succession",
-      "published": "Wed, 14 May 2025 19:11:24 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "This Southland boat company wants to electrify the Port of Los Angeles",
-      "link": "https://www.latimes.com/business/story/2025-05-14/arc-electric-boats-at-port-of-la",
-      "published": "Wed, 14 May 2025 10:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Google settles lawsuit alleging bias against Black employees",
-      "link": "https://www.latimes.com/business/story/2025-05-13/google-settles-lawsuit-alleging-bias-against-black-employees",
-      "published": "Tue, 13 May 2025 20:59:49 GMT",
-      "sentiment": -0.1111111111111111
-    },
-    {
-      "title": "Pete Rose, 'Shoeless' Joe Jackson reinstated by Major League Baseball, making Hall of Fame election possible",
-      "link": "https://www.latimes.com/sports/story/2025-05-13/pete-rose-reinstated-lifetime-ban-lifted-mlb-rob-manfred-hall-of-fame-donald-trump",
-      "published": "Tue, 13 May 2025 20:02:33 GMT",
-      "sentiment": 0.2525
-    },
-    {
-      "title": "California to ask federal judge for sweeping pause to Trump's tariffs",
-      "link": "https://www.latimes.com/politics/story/2025-05-13/california-to-ask-federal-judge-for-a-sweeping-pause-to-trumps-tariffs",
-      "published": "Tue, 13 May 2025 19:07:19 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "Jamie Lee Curtis just wanted an AI ad removed, not to become the 'poster child of internet fakery'",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-13/jamie-lee-curtis-explains-why-she-pushed-back-against-fake-ai-instagram-ad",
-      "published": "Tue, 13 May 2025 17:33:41 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Insurance commissioner grants State Farm 17% emergency rate hike after L.A. fires",
-      "link": "https://www.latimes.com/business/story/2025-05-13/administrative-law-judge-approves-denies-revises-state-farms-request-for-a-17-emergency-rate-hike-la-wildfires",
-      "published": "Tue, 13 May 2025 17:10:00 GMT",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Olympics broadcast center and movie studio coming to Hollywood Park",
-      "link": "https://www.latimes.com/business/story/2025-05-13/movie-studios-coming-to-hollywood-park",
-      "published": "Tue, 13 May 2025 15:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Hiltzik: Confused about Trump's tariff policy? Join the club.",
-      "link": "https://www.latimes.com/business/story/2025-05-13/trumps-uk-china-deals-leave-tariff-policy-more-confused-than-ever",
-      "published": "Tue, 13 May 2025 10:00:00 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Faced with a $30 minimum wage, hotel investors start looking outside L.A.",
-      "link": "https://www.latimes.com/california/story/2025-05-13/la-me-hotel-minimum-wage-universal-city",
-      "published": "Tue, 13 May 2025 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Insurers seek to surcharge California homeowners for L.A. County fire costs",
-      "link": "https://www.latimes.com/business/story/2025-05-13/insurers-seeking-to-surcharge-california-homeowners-for-l-a-county-fire-costs",
-      "published": "Tue, 13 May 2025 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Jon Voight, Sylvester Stallone and entertainment groups lobby Trump for tax provisions",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-12/jon-voight-sylvester-stallone-and-entertainment-groups-lobby-trump-for-tax-provisions",
-      "published": "Mon, 12 May 2025 21:28:26 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Palisades fire victims seek court order forcing FAIR Plan to turn over claims documents",
-      "link": "https://www.latimes.com/business/story/2025-05-12/more-lawsuits-filed-against-fair-plan-by-los-angeles-county-fire-victims",
-      "published": "Mon, 12 May 2025 20:52:06 GMT",
-      "sentiment": 0.4666666666666666
-    },
-    {
-      "title": "Amazon says 130 million U.S. customers are watching Prime Video with ads",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-12/amazon-prime-video-has-130-million-ad-supported-customers-in-the-u-s",
-      "published": "Mon, 12 May 2025 19:04:06 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trade truce with China is hailed, but it may not be enough to stop shortages",
-      "link": "https://www.latimes.com/politics/story/2025-05-12/trade-truce-with-china-is-hailed-but-challenges-lie-ahead",
-      "published": "Mon, 12 May 2025 20:59:20 GMT",
       "sentiment": 0.0
     }
   ]

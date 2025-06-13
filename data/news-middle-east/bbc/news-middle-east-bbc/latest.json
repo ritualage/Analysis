@@ -1,100 +1,100 @@
 {
   "entries": [
     {
+      "title": "Global watchdog finds Iran failing to meet nuclear obligations",
+      "link": "https://www.bbc.com/news/articles/ce3v6w2qr12o",
+      "published": "Thu, 12 Jun 2025 18:09:12 GMT",
+      "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "Hamas faces leadership vacuum at critical time with demise of Gaza 'War Council'",
+      "link": "https://www.bbc.com/news/articles/c7v7p9p0rn7o",
+      "published": "Thu, 12 Jun 2025 16:59:33 GMT",
+      "sentiment": -0.004166666666666667
+    },
+    {
+      "title": "A frail cry and relief: Malnourished baby Siwar evacuated from Gaza",
+      "link": "https://www.bbc.com/news/articles/cn0g45z792do",
+      "published": "Wed, 11 Jun 2025 23:43:11 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Six Gaza aid boat activists deported from Israel after three days in detention",
+      "link": "https://www.bbc.com/news/articles/cx273w1032yo",
+      "published": "Thu, 12 Jun 2025 15:46:56 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US-backed aid group says Hamas killed at least eight Palestinian staff in bus attack",
+      "link": "https://www.bbc.com/news/articles/c4gr1rk5nvxo",
+      "published": "Thu, 12 Jun 2025 13:35:06 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "CIA analyst who leaked Israel strike plan sentenced to three years",
+      "link": "https://www.bbc.com/news/articles/cdxv3ledlvyo",
+      "published": "Thu, 12 Jun 2025 01:12:53 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "US to partially evacuate embassy in Iraq as Iran tensions rise",
+      "link": "https://www.bbc.com/news/articles/c629yk5z07vo",
+      "published": "Thu, 12 Jun 2025 10:40:07 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Dozens of Palestinians killed while seeking aid in Gaza, hospitals say",
+      "link": "https://www.bbc.com/news/articles/c1mg4ld5951o",
+      "published": "Thu, 12 Jun 2025 00:06:21 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "Video shows crowds in Gaza scale fence to rush for aid",
+      "link": "https://www.bbc.com/news/videos/c14k60lzv00o",
+      "published": "Wed, 11 Jun 2025 16:47:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israeli forces recover bodies of two hostages in Gaza, PM says",
+      "link": "https://www.bbc.com/news/articles/cm263j1g2rmo",
+      "published": "Wed, 11 Jun 2025 21:11:28 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Gaza doctor whose nine children were killed in Israeli strike evacuated with son",
+      "link": "https://www.bbc.com/news/articles/cgmj09ggdnro",
+      "published": "Wed, 11 Jun 2025 17:31:21 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Syria government says women must wear burkinis at public beaches",
+      "link": "https://www.bbc.com/news/articles/ckgq7d9qdego",
+      "published": "Wed, 11 Jun 2025 17:41:16 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran executes man over 2022 anti-government protests",
+      "link": "https://www.bbc.com/news/articles/cj42jrjw8n1o",
+      "published": "Wed, 11 Jun 2025 10:53:59 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UK sanctions far-right Israeli ministers for 'inciting violence' against Palestinians",
+      "link": "https://www.bbc.com/news/articles/c8xgk1ek19lo",
+      "published": "Tue, 10 Jun 2025 21:56:25 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Syria former prison guard – 'I showed them no mercy'",
+      "link": "https://www.bbc.com/news/videos/c78034xn2jpo",
+      "published": "Tue, 10 Jun 2025 09:43:19 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Bowen: Israel is accused of the gravest war crimes - how governments respond could haunt them for years",
       "link": "https://www.bbc.com/news/articles/c0r1xl5wgnko",
       "published": "Sun, 08 Jun 2025 04:31:59 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Gaza health workers say four killed by Israeli gunfire near aid centre",
-      "link": "https://www.bbc.com/news/articles/c5y5wpz49xlo",
-      "published": "Sun, 08 Jun 2025 14:03:33 GMT",
-      "sentiment": 0.1416666666666667
-    },
-    {
-      "title": "Body of Thai hostage recovered from Gaza, Israel says",
-      "link": "https://www.bbc.com/news/articles/cev4l7kxdllo",
-      "published": "Sat, 07 Jun 2025 14:22:44 GMT",
-      "sentiment": 0.009999999999999998
-    },
-    {
-      "title": "Six killed by Israeli gunfire near Gaza aid site, Hamas officials say",
-      "link": "https://www.bbc.com/news/articles/cy5evz4xdklo",
-      "published": "Sat, 07 Jun 2025 20:47:02 GMT",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "Israel strikes southern Beirut on eve of religious holiday",
-      "link": "https://www.bbc.com/news/articles/c3v52241eyvo",
-      "published": "Fri, 06 Jun 2025 14:28:45 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Netanyahu confirms Israel arming clans opposed to Hamas in Gaza",
-      "link": "https://www.bbc.com/news/articles/cwyn2m9yk0vo",
-      "published": "Thu, 05 Jun 2025 23:24:19 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "UN human rights chief calls on US to withdraw sanctions on ICC judges",
-      "link": "https://www.bbc.com/news/articles/ce80pl1xrllo",
-      "published": "Fri, 06 Jun 2025 10:28:03 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Three journalists among five killed in Israeli strike on Gaza hospital",
-      "link": "https://www.bbc.com/news/articles/ckgnp154eeko",
-      "published": "Thu, 05 Jun 2025 17:47:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Israeli military recovers two hostages' bodies in southern Gaza",
-      "link": "https://www.bbc.com/news/articles/c989rl23zzno",
-      "published": "Thu, 05 Jun 2025 18:07:44 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Held at gunpoint: BBC team detained by Israeli forces in southern Syria",
-      "link": "https://www.bbc.com/news/articles/c4grldkeyv5o",
-      "published": "Thu, 05 Jun 2025 09:03:44 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Gaza now worse than hell on earth, humanitarian chief tells BBC",
-      "link": "https://www.bbc.com/news/articles/cvgq0gy82wjo",
-      "published": "Wed, 04 Jun 2025 17:10:17 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Israeli army admits to Gaza strike after BBC Verify investigation",
-      "link": "https://www.bbc.com/news/articles/cr7zplv35l1o",
-      "published": "Fri, 06 Jun 2025 10:59:03 GMT",
-      "sentiment": -0.25
-    },
-    {
-      "title": "US vetoes UN call for unconditional Gaza ceasefire",
-      "link": "https://www.bbc.com/news/articles/c4g60p1xgdlo",
-      "published": "Wed, 04 Jun 2025 21:59:31 GMT",
-      "sentiment": -0.5
-    },
-    {
-      "title": "IDF says roads to Gaza aid centres are 'combat zones' as sites close for day",
-      "link": "https://www.bbc.com/news/articles/cnv18gp4rdzo",
-      "published": "Tue, 03 Jun 2025 23:20:21 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Iran's supreme leader criticises US proposal for nuclear agreement",
-      "link": "https://www.bbc.com/news/articles/c4g2xnkrd4eo",
-      "published": "Wed, 04 Jun 2025 21:11:23 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Saudi Arabia seeks to prevent heat deaths as Hajj pilgrimage begins",
-      "link": "https://www.bbc.com/news/articles/cn05p1369eeo",
-      "published": "Wed, 04 Jun 2025 19:54:24 GMT",
-      "sentiment": -0.07777777777777778
     },
     {
       "title": "'I begged for help, but only God answered': Growing dangers of pregnancy and childbirth in Gaza",
@@ -175,46 +175,28 @@
       "sentiment": -0.0625
     },
     {
-      "title": "How controversial US-Israeli backed Gaza aid plan turned to chaos",
-      "link": "https://www.bbc.com/news/articles/cn4g0xmem2lo",
-      "published": "Sat, 31 May 2025 00:43:31 GMT",
-      "sentiment": 0.2590909090909091
-    },
-    {
-      "title": "World has responsibility to get aid into Gaza, UN official tells BBC",
-      "link": "https://www.bbc.com/news/videos/c2d5z24dnngo",
-      "published": "Thu, 29 May 2025 23:11:53 GMT",
-      "sentiment": -0.30000000000000004
-    },
-    {
-      "title": "BBC given rare access to search for Hezbollah positions with UN troops in Lebanon",
-      "link": "https://www.bbc.com/news/videos/cgj8vqng4vvo",
-      "published": "Tue, 27 May 2025 05:50:11 GMT",
-      "sentiment": 0.23333333333333334
-    },
-    {
-      "title": "Young girl escapes burning Gaza school after Israeli attack",
-      "link": "https://www.bbc.com/news/videos/c4g39x87q0go",
-      "published": "Mon, 26 May 2025 16:46:12 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "BBC sees Gaza aid going through inspection area at Israeli crossing",
-      "link": "https://www.bbc.com/news/videos/cvgd8vgj58mo",
-      "published": "Thu, 22 May 2025 16:19:49 GMT",
+      "title": "Video shows crowds in Gaza scale fence to rush for aid",
+      "link": "https://www.bbc.com/news/videos/c14k60lzv00o",
+      "published": "Wed, 11 Jun 2025 16:47:52 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Witnesses who saw shooter inside Jewish museum speak to BBC",
-      "link": "https://www.bbc.com/news/videos/c1mgznnrjrro",
-      "published": "Thu, 22 May 2025 06:32:32 GMT",
-      "sentiment": 0.2
+      "title": "BBC Verify examines tunnels footage after IDF says Hamas leader body found",
+      "link": "https://www.bbc.com/news/videos/cql2wvnn7zgo",
+      "published": "Mon, 09 Jun 2025 20:40:35 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
-      "title": "British surgeon's 'high anxiety' operating in Gaza",
-      "link": "https://www.bbc.com/news/videos/c0577700gjdo",
-      "published": "Tue, 20 May 2025 17:12:10 GMT",
-      "sentiment": 0.25333333333333335
+      "title": "Watch: Moment Israeli forces board Gaza aid boat",
+      "link": "https://www.bbc.com/news/videos/c629elwn1dgo",
+      "published": "Mon, 09 Jun 2025 21:14:12 GMT",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Act now to save lives in Gaza, ICRC head urges world leaders",
+      "link": "https://www.bbc.com/news/videos/c62v52z73vdo",
+      "published": "Wed, 04 Jun 2025 13:05:20 GMT",
+      "sentiment": 0.0
     }
   ]
 }

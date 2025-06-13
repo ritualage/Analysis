@@ -1,13 +1,241 @@
 {
   "entries": [
     {
+      "title": "Children's Hospital Los Angeles halts transgender care under pressure from Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-12/childrens-hospital-of-los-angeles-transgender-care",
+      "published": "Thu, 12 Jun 2025 22:36:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'We need to find these people': L.A. immigration raids a sign of what's to come, officials say",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/we-need-to-find-these-people-l-a-immigration-raids-a-sign-of-whats-to-come-officials-say",
+      "published": "Thu, 12 Jun 2025 22:18:55 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Photographer captures Sen. Alex Padilla's takedown at Homeland Security press conference",
+      "link": "https://www.latimes.com/california/story/2025-06-12/photos-capture-sen-alex-padilla-takedown-homeland-security-press-conference",
+      "published": "Thu, 12 Jun 2025 21:00:24 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump broke the law and must return control of National Guard to Newsom, court rules",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/federal-court-california-challenge-trump-marines-national-guard-deployment",
+      "published": "Thu, 12 Jun 2025 20:36:24 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: First they came for the immigrants. Then they took down our Latino senator",
+      "link": "https://www.latimes.com/california/story/2025-06-12/chabria-column-alex-padilla-forcibly-removed-kristi-noem-immigrants-ice-raids-la",
+      "published": "Thu, 12 Jun 2025 19:56:56 GMT",
+      "sentiment": 0.03148148148148147
+    },
+    {
+      "title": "Sen. Alex Padilla handcuffed by federal agents at immigration news conference",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/sen-alex-padilla-handcuffed-by-federal-agents-at-immigration-press-conference",
+      "published": "Thu, 12 Jun 2025 19:52:35 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Eerie silence hangs over Central Coast farm fields in wake of ICE raids",
+      "link": "https://www.latimes.com/california/story/2025-06-12/eerie-silence-hangs-over-central-coast-farm-fields-in-wake-of-this-weeks-ice-raids",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.26666666666666666
+    },
+    {
+      "title": "A repeat of Rodney King? Local leaders say L.A.'s latest unrest is nothing like 1992",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/rodney-king-los-angeles-protest-history",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.12152777777777778
+    },
+    {
+      "title": "Barabak: Trump could help feed hungry people. Instead he's throwing a vanity parade",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/trump-military-parade-slashing-social-safety-net-white-pony-express-food-rescue",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Contributor: That 'Big Beautiful Bill' is hardly pro-growth. But it could be",
+      "link": "https://www.latimes.com/opinion/story/2025-06-12/one-big-beautiful-bill-act-growth-forecast-gross-domestic-product",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.13958333333333334
+    },
+    {
+      "title": "Hegseth refuses to commit to following possible court order on Marine deployment",
+      "link": "https://www.latimes.com/politics/story/2025-06-12/california-congress-members-defense-sect-hespeth-immigration-raids-los-angeles",
+      "published": "Thu, 12 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: Newsom's 'Democracy is under assault' speech could turn the tables on Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-11/chabria-column-newsom-address-trump-ice-raids-national-guard-marines",
+      "published": "Wed, 11 Jun 2025 22:37:01 GMT",
+      "sentiment": -0.0638888888888889
+    },
+    {
+      "title": "After images of unrest comes the political spin, distorting the reality on the ground in L.A.",
+      "link": "https://www.latimes.com/california/story/2025-06-11/ice-protests-images-los-angeles-distort-reality",
+      "published": "Wed, 11 Jun 2025 20:51:22 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump lawyers call California effort to block L.A. military deployment a dangerous 'stunt'",
+      "link": "https://www.latimes.com/politics/story/2025-06-11/trump-administration-defends-military-deployments",
+      "published": "Wed, 11 Jun 2025 20:35:06 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
+      "title": "330 immigrants detained in Southern California since Friday, White House spokesperson says",
+      "link": "https://www.latimes.com/politics/story/2025-06-11/330-immigrants-detained-in-l-a-since-friday-white-house-spokeswoman-says",
+      "published": "Wed, 11 Jun 2025 19:54:09 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: Trump detests the very thing we love about L.A.",
+      "link": "https://www.latimes.com/california/story/2025-06-11/chabria-column-trump-downtown-la-little-tokyo-immigrants-ice-raids",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Why L.A.'s food and yard waste is being dumped in the Antelope Valley",
+      "link": "https://www.latimes.com/environment/story/2025-06-11/is-the-states-compost-law-killing-the-antelope-valley-desert-ecosystem",
+      "published": "Wed, 11 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Newsom, in California address, says Trump purposely 'fanned the flames' of L.A. protests",
+      "link": "https://www.latimes.com/california/story/2025-06-10/newsom-says-about-immigration-l-a-raids",
+      "published": "Wed, 11 Jun 2025 01:47:43 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "ICE expands immigration raids into California's agricultural heartland",
+      "link": "https://www.latimes.com/california/story/2025-06-10/ice-expands-immigration-raids-into-californias-agricultural-heartland",
+      "published": "Wed, 11 Jun 2025 00:50:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "As Marines arrive in L.A., military experts raise concerns: 'This could spiral out of control'",
+      "link": "https://www.latimes.com/california/story/2025-06-10/marines-in-streets-of-l-a-bring-peril",
+      "published": "Tue, 10 Jun 2025 23:50:58 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Terry Moran fired from ABC News over social media posts on Trump and Stephen Miller",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-10/terry-moran-fired-from-abc-news-over-social-media-posts-on-trump-and-stephen-miller",
+      "published": "Tue, 10 Jun 2025 22:12:42 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "California's senators push Pentagon for answers on deployment of hundreds of Marines to L.A.",
+      "link": "https://www.latimes.com/politics/story/2025-06-10/schiff-demands-answers-on-unjustifiable-irresponsibly-rushed-deplyoment-of-marines-in-l-a",
+      "published": "Tue, 10 Jun 2025 21:00:02 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "California asks court for restraining order to block Guard, U.S. Marine deployments in L.A.",
+      "link": "https://www.latimes.com/politics/story/2025-06-10/california-asks-court-for-temporary-restraining-order-to-block-marine-deployment-in-l-a",
+      "published": "Tue, 10 Jun 2025 18:52:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: Why this overheated invasion of L.A. looks so ugly and feels so personal",
+      "link": "https://www.latimes.com/california/story/2025-06-09/insurrectionists-freed-protesters-condemned-what-california-knows-that-trump-doesnt",
+      "published": "Tue, 10 Jun 2025 03:27:51 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Democrats pick first woman of color to be next state Senate president",
+      "link": "https://www.latimes.com/california/story/2025-06-09/state-senate-democrats-oust-mcguire-choose-limon-as-president",
+      "published": "Tue, 10 Jun 2025 02:15:23 GMT",
+      "sentiment": 0.2625
+    },
+    {
+      "title": "L.A. immigration raids draw California Gov. Gavin Newsom back into the fight with Trump",
+      "link": "https://www.latimes.com/california/story/2025-06-09/ice-raids-in-la-draw-newsom-back-into-the-fight-with-trump",
+      "published": "Mon, 9 Jun 2025 22:49:51 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Barabak: Putting the bully in bully pulpit, Trump escalates in L.A. rather than seeking calm",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/trump-los-angeles-protests-national-guard-immigration-raids",
+      "published": "Mon, 9 Jun 2025 22:37:30 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "No, Dr. Phil wasn't present at L.A. ICE raids, but he taped interview with Trump's border advisor",
+      "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-06-09/dr-phil-ice-raids-border-czar-interview-tom-homan",
+      "published": "Mon, 9 Jun 2025 22:06:26 GMT",
+      "sentiment": -0.05555555555555555
+    },
+    {
+      "title": "California sues Justice Dept. over demand that school districts ban trans athletes",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/california-sues-justice-dept-over-demand-that-school-districts-ban-trans-athletes",
+      "published": "Mon, 9 Jun 2025 21:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Downtown Los Angeles vandalized after protests. 'It's kind of the usual,' residents say",
+      "link": "https://www.latimes.com/california/story/2025-06-09/smashed-windows-graffiti-in-downtown-los-angeles-after-ice-protests",
+      "published": "Mon, 9 Jun 2025 20:56:08 GMT",
+      "sentiment": 0.090625
+    },
+    {
+      "title": "Breakdown between Trump and Newsom deepens as L.A. crisis intensifies",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/trump-newsom-arrest-national-guard-los-angeles-unrest-ice-raids",
+      "published": "Mon, 9 Jun 2025 18:28:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: Trump wants L.A. to set itself on fire. Let's rebel smarter",
+      "link": "https://www.latimes.com/california/story/2025-06-09/trump-is-goading-us-into-setting-ourselves-on-fire-lets-rebel-smarter",
+      "published": "Mon, 9 Jun 2025 18:15:17 GMT",
+      "sentiment": 0.275
+    },
+    {
+      "title": "California sues Trump over 'unlawful, unprecedented' National Guard deployment",
+      "link": "https://www.latimes.com/politics/story/2025-06-09/california-newsom-sue-trump-say-he-overstepped-with-national-guard-mobilization-in-l-a",
+      "published": "Mon, 9 Jun 2025 18:12:57 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Contributor: California's long history of National Guard overreaction to peaceful protesters",
+      "link": "https://www.latimes.com/opinion/story/2025-06-09/california-national-guard-history-railroad-strike",
+      "published": "Mon, 9 Jun 2025 17:30:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
+      "title": "National Guard arrives in Los Angeles as fallout from immigration raids continues",
+      "link": "https://www.latimes.com/california/story/2025-06-08/national-guard-arrives-l-a-immigration-raids",
+      "published": "Sun, 8 Jun 2025 22:06:05 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: The insurrection that wasn't, and other Trump fantasies",
+      "link": "https://www.latimes.com/california/story/2025-06-08/the-insurrection-that-wasnt-and-other-trump-fantasies",
+      "published": "Sun, 8 Jun 2025 18:57:22 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "ABC News correspondent suspended after tweet calling Trump and Stephen Miller 'world class' haters",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-08/abc-news-correspondent-suspended-after-tweet-critical-of-trump-white-house",
+      "published": "Sun, 8 Jun 2025 18:07:04 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "News Analysis: A political lesson for L.A. from an unrestrained president",
+      "link": "https://www.latimes.com/politics/story/2025-06-08/la-ice-protests-analysis-trump-national-guard",
+      "published": "Sun, 8 Jun 2025 17:32:01 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Abcarian: Did the MyPillow guy, clinging to the Big Lie, defame a Dominion exec?",
       "link": "https://www.latimes.com/opinion/story/2025-06-08/pillow-guy-mike-lindell-defamation-dominion-voting",
       "published": "Sun, 8 Jun 2025 10:00:00 GMT",
       "sentiment": 0.125
     },
     {
-      "title": "Chabria: Democrats are busy bashing themselves. Is it needed, or just needy?",
+      "title": "Commentary: Democrats are busy bashing themselves. Is it needed, or just needy?",
       "link": "https://www.latimes.com/politics/story/2025-06-08/democrats-are-busy-bashing-themselves-barabak-chabria",
       "published": "Sun, 8 Jun 2025 10:00:00 GMT",
       "sentiment": 0.24545454545454545
@@ -40,7 +268,7 @@
       "title": "Trump's bill is floundering in the Senate as Musk attacks intensify",
       "link": "https://www.latimes.com/politics/story/2025-06-06/trumps-bill-is-floundering-in-the-senate-as-musk-attacks-intensify",
       "published": "Fri, 6 Jun 2025 18:13:34 GMT",
-      "sentiment": 0.43333333333333335
+      "sentiment": 0.4333333333333333
     },
     {
       "title": "Prominent lawyers join press freedom fight to thwart Paramount settlement with Trump",
@@ -82,13 +310,19 @@
       "title": "California asks FDA to undo limits on abortion pill mifepristone amid RFK Jr. scrutiny",
       "link": "https://www.latimes.com/politics/story/2025-06-05/california-petitions-fda-to-ease-rfk-jr-s-new-restrictions-on-abortion-pill-mifepristone",
       "published": "Thu, 5 Jun 2025 15:40:38 GMT",
-      "sentiment": 0.15416666666666667
+      "sentiment": 0.15416666666666665
     },
     {
       "title": "Supreme Court throws out Mexico's suit against U.S. gun makers in a unanimous decision",
       "link": "https://www.latimes.com/politics/story/2025-06-05/supreme-court-throws-out-mexicos-suit-against-u-s-gunmakers-unanimous-decision",
       "published": "Thu, 5 Jun 2025 15:26:41 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Candidates for California governor face off about affordability, high cost of living in first bipartisan clash",
+      "link": "https://www.latimes.com/politics/story/2025-06-05/candidates-governor-affordability-first-bipartisan-clash",
+      "published": "Thu, 5 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.22
     },
     {
       "title": "Contributor: Every shooting reflects our culture of violence, which the president cheers",
@@ -101,12 +335,6 @@
       "link": "https://www.latimes.com/politics/story/2025-06-05/marin-county-first-black-supervisor-brian-colbert-trump-anti-diversity-equity-inclusion",
       "published": "Thu, 5 Jun 2025 10:00:00 GMT",
       "sentiment": -0.05555555555555555
-    },
-    {
-      "title": "Candidates for California governor face off about affordability, high cost of living in first bipartisan clash",
-      "link": "https://www.latimes.com/politics/story/2025-06-05/candidates-governor-affordability-first-bipartisan-clash",
-      "published": "Thu, 5 Jun 2025 10:00:00 GMT",
-      "sentiment": 0.22
     },
     {
       "title": "State lawmakers considering policy changes after L.A. wildfires",
@@ -229,16 +457,16 @@
       "sentiment": 0.15333333333333332
     },
     {
-      "title": "Chabria: Even tough-on-crime district attorneys know prison reform is smart",
-      "link": "https://www.latimes.com/california/story/2025-05-31/chabria-column-district-attorneys-san-quentin-inmates-prison-reform",
-      "published": "Sat, 31 May 2025 10:00:00 GMT",
-      "sentiment": 0.10714285714285714
-    },
-    {
       "title": "Lopez: If people taking care of our elders get deported, will anyone take their place?",
       "link": "https://www.latimes.com/california/story/2025-05-31/if-people-taking-care-of-our-elders-get-deported-will-anyone-take-their-place",
       "published": "Sat, 31 May 2025 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Chabria: Even tough-on-crime district attorneys know prison reform is smart",
+      "link": "https://www.latimes.com/california/story/2025-05-31/chabria-column-district-attorneys-san-quentin-inmates-prison-reform",
+      "published": "Sat, 31 May 2025 10:00:00 GMT",
+      "sentiment": 0.10714285714285714
     },
     {
       "title": "California contests Trump administration claim that the state obstructs immigration law",
@@ -313,14 +541,14 @@
       "sentiment": 0.5
     },
     {
-      "title": "Contributor: A Trump deregulator may set us up for a sequel to the 2008 crisis",
-      "link": "https://www.latimes.com/opinion/story/2025-05-29/trump-conservatorship-fannie-mae-freddie-mac",
+      "title": "How a pair of Palos Verdes altar boys grew up to be Soviet spies",
+      "link": "https://www.latimes.com/california/story/2025-05-29/how-palos-verdes-altar-boys-grew-up-to-be-soviet-spies-falcon-snowman",
       "published": "Thu, 29 May 2025 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "How a pair of Palos Verdes altar boys grew up to be Soviet spies",
-      "link": "https://www.latimes.com/california/story/2025-05-29/how-palos-verdes-altar-boys-grew-up-to-be-soviet-spies-falcon-snowman",
+      "title": "Contributor: A Trump deregulator may set us up for a sequel to the 2008 crisis",
+      "link": "https://www.latimes.com/opinion/story/2025-05-29/trump-conservatorship-fannie-mae-freddie-mac",
       "published": "Thu, 29 May 2025 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -371,222 +599,6 @@
       "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-27/npr-and-public-radio-stations-are-suing-trump-white-house-over-executive-order",
       "published": "Tue, 27 May 2025 14:03:44 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "4-year-old Bakersfield girl facing deportation could die within days of losing medical care",
-      "link": "https://www.latimes.com/california/story/2025-05-27/deportation-trump-healthcare-immigration-humanitarian",
-      "published": "Tue, 27 May 2025 10:00:00 GMT",
-      "sentiment": 0.03409090909090909
-    },
-    {
-      "title": "Barabak: A celebration — and wake — for a political time gone by",
-      "link": "https://www.latimes.com/politics/story/2025-05-27/stuart-spencer-memorial-donald-trump-ronald-reagan",
-      "published": "Tue, 27 May 2025 10:00:00 GMT",
-      "sentiment": -0.02291666666666666
-    },
-    {
-      "title": "Trump's FCC delays multilingual emergency alerts for natural disasters, sparking concern in L.A.",
-      "link": "https://www.latimes.com/california/story/2025-05-26/multilingual-emergency-alerts-for-natural-disasters-have-been-delayed-la-lawmaker-demands-answers",
-      "published": "Mon, 26 May 2025 22:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Villaraigosa, despite climate credentials, pivots toward oil industry in run for governor",
-      "link": "https://www.latimes.com/politics/story/2025-05-26/oil-villaraigosa-fossil-fuel-governors-race",
-      "published": "Mon, 26 May 2025 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Health clinics that service immigrants are making house calls on patients too afraid to leave home",
-      "link": "https://www.latimes.com/california/story/2025-05-24/health-clinics-that-service-immigrants-making-house-calls-on-patients-afraid-to-leave-home",
-      "published": "Sat, 24 May 2025 10:00:00 GMT",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Father ripped from family as agents target immigration courts, arresting people after cases dismissed",
-      "link": "https://www.latimes.com/california/story/2025-05-24/ice-agents-swarm-immigration-courts-arresting-people-after-cases-dismissed",
-      "published": "Sat, 24 May 2025 10:00:00 GMT",
-      "sentiment": 0.27499999999999997
-    },
-    {
-      "title": "Trump attack to block Harvard international students raises fears at California campuses",
-      "link": "https://www.latimes.com/politics/story/2025-05-23/judge-blocks-trump-plan-to-bar-foreign-students-at-harvard",
-      "published": "Fri, 23 May 2025 22:57:56 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump cuts will cause a spike in HIV cases in L.A. and across the country, warn Democrats and public health advocates",
-      "link": "https://www.latimes.com/science/story/2025-05-23/la-county-braces-for-aids-funding-to-dry-up-at-end-of-month",
-      "published": "Fri, 23 May 2025 20:47:07 GMT",
-      "sentiment": 0.05333333333333334
-    },
-    {
-      "title": "Contributor: The Israeli Embassy killings and the ominous turn in political violence",
-      "link": "https://www.latimes.com/opinion/story/2025-05-23/political-violence-antisemitic-israeli-embassy-jewish-museum-shootings",
-      "published": "Fri, 23 May 2025 20:24:00 GMT",
-      "sentiment": 0.05555555555555555
-    },
-    {
-      "title": "Barabak: Antonio Villaraigosa is dying to run against Kamala Harris for governor. Here's why",
-      "link": "https://www.latimes.com/politics/story/2025-05-23/kamala-harris-antonio-villaraigosa-california-governor-race-2026",
-      "published": "Fri, 23 May 2025 19:01:40 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "If you want to understand Trump's environmental policy, read Project 2025",
-      "link": "https://www.latimes.com/environment/story/2025-05-23/trump-environmental-policy-project-2025",
-      "published": "Fri, 23 May 2025 16:15:20 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Contributor: We all saw Biden's decline in real time. The scandal is how few people cared",
-      "link": "https://www.latimes.com/opinion/story/2025-05-23/biden-age-decline-media",
-      "published": "Fri, 23 May 2025 10:00:00 GMT",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "Arellano: Back in the news, Albert 'Little Al' Robles still has a lot of bones to pick",
-      "link": "https://www.latimes.com/california/story/2025-05-23/albert-robles-carson-attorney-mayor",
-      "published": "Fri, 23 May 2025 10:00:00 GMT",
-      "sentiment": 0.10781249999999999
-    },
-    {
-      "title": "Orange County D.A. says his workplace was a miserable 'lions' den,' in court testimony",
-      "link": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2025-05-22/orange-county-da-calls-workplace-miserable-lions-den",
-      "published": "Fri, 23 May 2025 02:17:21 GMT",
-      "sentiment": -0.55
-    },
-    {
-      "title": "Supreme Court upholds for now Trump's firing of two independent agency officials",
-      "link": "https://www.latimes.com/politics/story/2025-05-22/supreme-court-upholds-trumps-firing-of-two-agency-officials",
-      "published": "Fri, 23 May 2025 00:10:17 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "'Act of terror': Israeli Embassy workers killed in D.C. were at Gaza aid event",
-      "link": "https://www.latimes.com/world-nation/story/2025-05-22/israeli-embassy-workers-sarah-milgrim-yaron-lischinsky-killed-jewish-museum",
-      "published": "Thu, 22 May 2025 20:54:04 GMT",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Senate Republicans vow changes to Trump megabill",
-      "link": "https://www.latimes.com/politics/story/2025-05-22/trump-megabill-now-heads-to-the-senate",
-      "published": "Thu, 22 May 2025 19:28:16 GMT",
-      "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Senate votes to overturn California's landmark ban on new gas-only car sales",
-      "link": "https://www.latimes.com/environment/story/2025-05-22/senate-votes-in-bid-to-overturn-california-gas-only-car-ban",
-      "published": "Thu, 22 May 2025 15:23:56 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Supreme Court splits 4-4, blocking first religious charter school in Oklahoma",
-      "link": "https://www.latimes.com/politics/story/2025-05-22/supreme-court-splits-4-4-blocking-religious-charter-school-in-oklahoma",
-      "published": "Thu, 22 May 2025 15:01:54 GMT",
-      "sentiment": 0.07727272727272727
-    },
-    {
-      "title": "CalRecycle drafts revised plastic recycling rules that are more friendly to industry",
-      "link": "https://www.latimes.com/environment/story/2025-05-22/calrecycle-introduces-revised-and-a-little-more-corporate-friendly-landmark-waste-law-regulations",
-      "published": "Thu, 22 May 2025 14:33:43 GMT",
-      "sentiment": 0.17477272727272727
-    },
-    {
-      "title": "Orange County D.A. says his workplace was a miserable 'lions' den,' in court testimony",
-      "link": "https://www.latimes.com/california/story/2025-05-22/orange-county-da-calls-workplace-miserable-lions-den",
-      "published": "Thu, 22 May 2025 13:48:37 GMT",
-      "sentiment": -0.55
-    },
-    {
-      "title": "How South Korea's next president wants to deal with Trump and his tariffs",
-      "link": "https://www.latimes.com/world-nation/story/2025-05-22/how-south-koreas-next-president-wants-to-deal-with-trump-and-his-tariffs",
-      "published": "Thu, 22 May 2025 10:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Taiwan is worried about spying threats. That may mean deporting thousands of Chinese",
-      "link": "https://www.latimes.com/world-nation/story/2025-05-22/chinese-taiwanese-national-security-crackdown-deportation",
-      "published": "Thu, 22 May 2025 10:00:00 GMT",
-      "sentiment": -0.10416666666666667
-    },
-    {
-      "title": "Contributor: The U.S. credit downgrade is not the problem. Our reckless spending is",
-      "link": "https://www.latimes.com/opinion/story/2025-05-22/united-states-credit-rating-moodys-downgrade",
-      "published": "Thu, 22 May 2025 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Calmes: The 'One Big Beautiful Bill' is a big, ugly mess",
-      "link": "https://www.latimes.com/opinion/story/2025-05-21/big-beautiful-bill-congress-budget-mike-johnson-donald-trump",
-      "published": "Wed, 21 May 2025 21:00:00 GMT",
-      "sentiment": -0.006249999999999999
-    },
-    {
-      "title": "Contributor: Why is the GOP resisting Chinese investment in the U.S.?",
-      "link": "https://www.latimes.com/opinion/story/2025-05-21/china-battery-factories-michigan-illinois-gotion-catl",
-      "published": "Wed, 21 May 2025 16:41:14 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Contributor: Does American soft power have a future?",
-      "link": "https://www.latimes.com/opinion/story/2025-05-21/donald-trump-china-soft-power-foreign-policy",
-      "published": "Wed, 21 May 2025 10:00:00 GMT",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Barabak: It's not just Biden. There's a history of presidential health cover-ups",
-      "link": "https://www.latimes.com/politics/story/2025-05-21/biden-health-cancer-diagnosis-original-sin-book-presidential-history",
-      "published": "Wed, 21 May 2025 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Edison executives made false statements on wildfire risks, lawsuit claims",
-      "link": "https://www.latimes.com/environment/story/2025-05-21/edison-sued-for-making-misleading-statements-on-wildfires",
-      "published": "Wed, 21 May 2025 10:00:00 GMT",
-      "sentiment": -0.46666666666666673
-    },
-    {
-      "title": "Villaraigosa blasts Harris and Becerra for not speaking out about Biden's decline",
-      "link": "https://www.latimes.com/politics/story/2025-05-20/villaraigosa-harris-becerra-biden",
-      "published": "Tue, 20 May 2025 21:54:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "6 doctors on Biden's cancer diagnosis, how it may have arisen and his treatment options",
-      "link": "https://www.latimes.com/politics/story/2025-05-20/6-doctors-on-bidens-cancer-diagnosis-how-it-may-have-arisen-and-his-treatment-options",
-      "published": "Tue, 20 May 2025 19:29:44 GMT",
-      "sentiment": -0.10416666666666667
-    },
-    {
-      "title": "Contributor: Californians insist — immigrants deserve a path to citizenship",
-      "link": "https://www.latimes.com/opinion/story/2025-05-20/california-immigration-citizenship-undocumented",
-      "published": "Tue, 20 May 2025 10:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Jake Tapper says the media didn't cover up Biden's 'Original Sin': 'We were just lied to'",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-05-20/jake-tapper-defends-original-sin-biden-cover-up-media-role",
-      "published": "Tue, 20 May 2025 10:00:00 GMT",
-      "sentiment": 0.018750000000000003
-    },
-    {
-      "title": "Contributor: Ending birthright citizenship will mostly affect U.S. citizens",
-      "link": "https://www.latimes.com/opinion/story/2025-05-20/birthright-citizenship-order-paperwork-adjudication",
-      "published": "Tue, 20 May 2025 10:00:00 GMT",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Cancer diagnosis and a new book fuel questions about Biden's decision to run in 2024",
-      "link": "https://www.latimes.com/politics/story/2025-05-19/biden-cancer-diagnosis-original-sin-book",
-      "published": "Mon, 19 May 2025 22:31:20 GMT",
-      "sentiment": 0.03409090909090909
-    },
-    {
-      "title": "Judge, prosecutor spar over plan to give lenient deal to L.A. deputy after conviction",
-      "link": "https://www.latimes.com/california/story/2025-05-19/trevor-kirk-plea-deal-sentencing",
-      "published": "Mon, 19 May 2025 22:18:07 GMT",
-      "sentiment": 0.125
     }
   ]
 }

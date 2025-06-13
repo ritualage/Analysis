@@ -1,10 +1,10 @@
 ---
 layout: default
-title: bbc - BBC News Business Video & Audio
+title: bbc - BBC News Business
 date: 
 ---
 
-## bbc - BBC News Business Video & Audio
+## bbc - BBC News Business
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

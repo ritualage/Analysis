@@ -1,64 +1,442 @@
 {
   "entries": [
     {
-      "title": "A powerful, opaque al-Qaeda affiliate is rampaging across West Africa",
-      "link": "https://www.washingtonpost.com/world/2025/06/08/jnim-militants-west-africa-sahel-terrorism/",
-      "published": "Sun, 08 Jun 2025 10:00:14 +0000",
-      "sentiment": 0.4
+      "title": "Israel strikes Iran, as Trump officials say no U.S. military support",
+      "link": "https://www.washingtonpost.com/national-security/2025/06/12/iran-israel-nuclear-us-trump/",
+      "published": "Fri, 13 Jun 2025 03:05:05 +0000",
+      "sentiment": -0.05
     },
     {
-      "title": "American students in China face a barrage of questions about Trump",
-      "link": "https://www.washingtonpost.com/world/2025/06/08/american-students-in-china/",
-      "published": "Sun, 08 Jun 2025 09:00:46 +0000",
-      "sentiment": 0.3
+      "title": "Israeli Defense Minister Israel Katz told the Israel Defense Forces General Staff Forum before the strikes...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:51:04 +0000",
+      "sentiment": 0.05000000000000002
     },
     {
-      "title": "Ukraine’s previous president says he knows how to win over Trump",
-      "link": "https://www.washingtonpost.com/world/2025/06/08/poroshenko-ukraine-trump-elections/",
-      "published": "Sun, 08 Jun 2025 07:26:46 +0000",
-      "sentiment": 0.12666666666666668
+      "title": "Live updates: Israel strikes Iran; head of Revolutionary Guard killed in Tehran",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/israel-attacks-iran-tehran-explosions/",
+      "published": "Fri, 13 Jun 2025 02:51:04 +0000",
+      "sentiment": -0.05454545454545456
     },
     {
-      "title": "Colombian presidential hopeful shot at campaign event in capital",
-      "link": "https://www.washingtonpost.com/world/2025/06/07/miguel-uribe-turbay-attack-colombia/",
-      "published": "Sun, 08 Jun 2025 03:15:53 +0000",
-      "sentiment": -0.09999999999999999
+      "title": "President Donald Trump will convene his top security officials for a meeting of the U.S. National...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:41:17 +0000",
+      "sentiment": 0.5
     },
     {
-      "title": "Body of Thai national returned from Gaza, Israeli authorities say",
-      "link": "https://www.washingtonpost.com/world/2025/06/07/thai-hostage-body-return-gaza/",
-      "published": "Sat, 07 Jun 2025 21:02:41 +0000",
-      "sentiment": -0.1
+      "title": "Tel Aviv, Israel’s commercial capital, was busy preparing for its annual Pride parade, with clubs and...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:24:32 +0000",
+      "sentiment": -0.049999999999999996
     },
     {
-      "title": "After outcry, 4-year-old girl can stay in U.S. for lifesaving care",
-      "link": "https://www.washingtonpost.com/immigration/2025/06/07/immigration-mexico-girl-humanitarian-parole/",
-      "published": "Sat, 07 Jun 2025 10:00:41 +0000",
-      "sentiment": -0.03125
+      "title": "Israel’s national airline, El Al, said it was suspending flights to and from the country due...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:22:30 +0000",
+      "sentiment": -0.125
     },
     {
-      "title": "Trump travel ban targets nations mired in civil wars or armed conflicts",
-      "link": "https://www.washingtonpost.com/world/2025/06/07/trump-travel-ban-civil-wars/",
-      "published": "Sat, 07 Jun 2025 10:00:07 +0000",
-      "sentiment": -0.1416666666666667
+      "title": "Damage to a building in Tehran following Israeli strikes early Friday.",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:18:12 +0000",
+      "sentiment": 0.05
     },
     {
-      "title": "Trump’s travel ban triggers fear and uncertainty in affected countries",
-      "link": "https://www.washingtonpost.com/world/2025/06/05/trump-travel-ban-afghanistan-venezuela-reaction/",
-      "published": "Sat, 07 Jun 2025 09:19:53 +0000",
-      "sentiment": 0.2
+      "title": "Iran’s Press TV aired initial reports that the Israeli strikes in and around Tehran have resulted...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:01:54 +0000",
+      "sentiment": 0.05
     },
     {
-      "title": "Brazilian comedian sentenced to 8 years in prison for ‘bigoted’ jokes",
-      "link": "https://www.washingtonpost.com/world/2025/06/07/brazil-comedian-leo-lins-free-speech/",
-      "published": "Sat, 07 Jun 2025 08:00:32 +0000",
+      "title": "The sounds of explosions and booms have been heard in the skies over Baghdad and several...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 02:01:12 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Boston Consulting Group CEO apologizes for Israeli-backed Gaza aid project",
-      "link": "https://www.washingtonpost.com/national-security/2025/06/06/gaza-aid-ghf-bcg-israel/",
-      "published": "Sat, 07 Jun 2025 02:21:40 +0000",
+      "title": "Israel’s military says it struck dozens of targets in Iran",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:44:56 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Mohammad, who lives near the Shahid Mahallati neighborhood in east Tehran, was at home when he...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:40:35 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Netanyahu says Israel targeted Iran’s leading nuclear scientists",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:33:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Explosions could be heard in the Iranian capital, Tehran, from about 3:20 a.m., according to a...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:24:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Where Israel’s military struck across Iran",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:22:30 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Israel Defense Forces spokesperson Effie Defrin said in a recorded statement that intelligence in recent months...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:21:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mahtab, a woman in northern Tehran, said she saw the sky turn red early Friday before...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:16:43 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Israelis gather in a shelter following sirens in Tel Aviv early Friday.",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:10:19 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "“This operation will continue for as many days as it takes to remove this threat,” Israeli...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:01:04 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Rubio says U.S. forces not involved in Iran strikes, warns Iran not to target U.S.",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 01:00:05 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "There was no U.S. involvement or assistance in the strikes, according to a U.S. official who...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Fri, 13 Jun 2025 00:50:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Air India crash: One survivor, 241 passengers dead on the London-bound plane",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/air-india-ai171-crash-ahmedabad-london/",
+      "published": "Thu, 12 Jun 2025 23:11:10 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Here’s what to know about the Air India Flight 171 crash",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 22:03:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "More than 240 dead in India’s deadliest plane crash in decades",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/air-india-plane-crash-ahmedabad-airport/",
+      "published": "Thu, 12 Jun 2025 19:57:02 +0000",
+      "sentiment": 0.0361111111111111
+    },
+    {
+      "title": "Family members desperate for answers congregate at hospital",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 19:42:50 +0000",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Crash comes amid massive corporate transformation for Air India",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 19:21:41 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Position of landing gear and flaps could be clues to crash’s cause",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:54:49 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A surprise visit to relatives ends in disaster",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:43:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. lawmakers offer prayers for crash victims, first responders",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:40:28 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Pakistani Prime Minister Shehbaz Sharif offered condolences to the victims of the crash on social media....",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:39:14 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Shyam Gohil, 21, a final-year medical student at B.J. Medical College, where the crash took place,...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:27:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Boeing CEO offers condolences, pledges full support of investigation",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 18:26:59 +0000",
+      "sentiment": 0.22499999999999998
+    },
+    {
+      "title": "President Donald Trump said the crash was “terrible” and “horrific” in remarks delivered during a White...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 17:53:22 +0000",
+      "sentiment": -0.6666666666666666
+    },
+    {
+      "title": "At least one survivor emerged from the plane crash, Home Minister Amit Shah told reporters.",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 17:36:52 +0000",
+      "sentiment": -0.3
+    },
+    {
+      "title": "In a statement to local press, Water Resources Minister C.R. Patil confirmed the death of the...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 17:12:15 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Closed-circuit television footage shared on social media and verified by The Washington Post shows the flight...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 17:07:21 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Chairman of airline owner Tata Group offers money to victims’ families",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:46:18 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "B.J. Medical College, the site of the plane’s crash, was established in 1871 and is one...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:41:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Reuters and AP reported early in the evening India time that all 242 people aboard the...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:39:59 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Videos show Air India flight crashed just after takeoff",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:27:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ahmedabad, the largest city in the western state of Gujarat, is located around 300 miles from...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:03:21 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "This crash marks the first fatal accident to involve a Boeing 787 dreamliner, according to a...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 16:01:54 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "‘I have never seen this many dead bodies,’ witness says at site",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 15:45:57 +0000",
       "sentiment": 0.15
+    },
+    {
+      "title": "Fury grows in Kenya after death of blogger in police custody",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/kenya-blogger-protests-alfred-ojwang/",
+      "published": "Thu, 12 Jun 2025 15:42:30 +0000",
+      "sentiment": -0.7
+    },
+    {
+      "title": "The Boeing 787 Dreamliner involved in Thursday’s crash was 11½ years old and was delivered to...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 15:10:53 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Videos show Air India flight crashed just after takeoff",
+      "link": "https://www.washingtonpost.com/world/interactive/2025/airindia-crash-photos-videos/",
+      "published": "Thu, 12 Jun 2025 15:10:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "At scene of crash, charred frames and mangled metal",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 15:00:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran not complying with nuclear obligations, U.N. watchdog says",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/iran-nuclear-breach-iaea-un-watchdog/",
+      "published": "Thu, 12 Jun 2025 14:18:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In photos: Demining Syria, the ‘most land mine-affected place in the world’",
+      "link": "https://www.washingtonpost.com/world/2025/06/12/syria-landmines-uxo-assad-demining/",
+      "published": "Thu, 12 Jun 2025 13:53:05 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "The National Transportation Safety Board will lead a team of U.S. investigators assisting Indian authorities with...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 13:42:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Air India flight crashed into a dorm for medical students at Ahmedabad’s B.J. Medical College,...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 13:11:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In a post on X, the Federal Aviation Administration said that while the National Transportation Safety...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 12:53:27 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In a statement, Gatwick Airport said the Boeing 787-8 aircraft that crashed after departing Ahmedabad Airport...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 12:50:45 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Images from Air India crash site show death and destruction",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 12:11:40 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Air India has experienced deadly crashes before",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 12:09:24 +0000",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "In an interview with local media, Jaipal Singh Rathore, the joint commissioner of police, said the...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 11:59:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In a statement, Boeing, which manufactured the 787 jet involved in the Air India crash said:...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 11:42:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Canada’s high commission to India has issued a statement expressing “deepest condolences following the tragic plane...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 11:14:40 +0000",
+      "sentiment": -0.19666666666666666
+    },
+    {
+      "title": "Indian Prime Minister Narendra Modi described the Air India crash as a tragedy. “It is heartbreaking...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:52:54 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In a brief statement, Indian Health Minister J.P. Nadda said “many people” were killed in the...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:41:40 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Photos show smoke rising, large amounts of debris from crash site",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:39:44 +0000",
+      "sentiment": 0.21428571428571427
+    },
+    {
+      "title": "British Prime Minister Keir Starmer described the scenes emerging from the London-bound crashed flight as devastating....",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:36:37 +0000",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Ahmedabad’s Sardar Vallabhbhai Patel International Airport said in a social media post that Flight AI171 crashed...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:32:17 +0000",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "In a statement on X, Air India said that 242 passengers and crew members were aboard...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:09:48 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Aircraft lost signal at altitude of 625 feet, Flightradar24 says",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:02:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Photographs from the scene of the crash showed smoldering debris strewn along the streets of a...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:02:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The plane crashed into Meghani Nagar, a residential area next to Sardar Vallabhbhai Patel International Airport,...",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 10:02:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gaza Humanitarian Foundation says five workers killed in attack",
+      "link": "https://www.washingtonpost.com/world/2025/06/11/gaza-ghf-hamas-attack-killed/",
+      "published": "Thu, 12 Jun 2025 02:46:04 +0000",
+      "sentiment": -0.03749999999999999
+    },
+    {
+      "title": "U.S. shrinks presence in Middle East amid fears of Israeli strike on Iran",
+      "link": "https://www.washingtonpost.com/national-security/2025/06/11/us-israel-iran-attack-fears/",
+      "published": "Wed, 11 Jun 2025 21:37:27 +0000",
+      "sentiment": 0.015
+    },
+    {
+      "title": "Hegseth resists when pushed to explain Trump’s Air Force One deal",
+      "link": "https://www.washingtonpost.com/national-security/2025/06/11/hegseth-trump-air-force-one-qatar/",
+      "published": "Wed, 11 Jun 2025 20:07:48 +0000",
+      "sentiment": -0.1875
+    },
+    {
+      "title": "Anti-immigrant riots follow sex assault arrests in Northern Ireland",
+      "link": "https://www.washingtonpost.com/world/2025/06/11/northern-ireland-violent-riots-immigrants/",
+      "published": "Wed, 11 Jun 2025 15:45:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump to ramp up transfers to Guantánamo, including citizens of allies",
+      "link": "https://www.washingtonpost.com/national-security/2025/06/10/trump-guantanamo-deportations/",
+      "published": "Wed, 11 Jun 2025 13:37:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "K-pop supergroup BTS nears reunion as two more members end military service",
+      "link": "https://www.washingtonpost.com/world/2025/06/11/bts-discharge-military-south-korea/",
+      "published": "Wed, 11 Jun 2025 07:27:39 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "After new China trade deal, U.S. still might have a losing hand",
+      "link": "https://www.washingtonpost.com/world/2025/06/11/china-trump-trade-tariffs-standoff/",
+      "published": "Wed, 11 Jun 2025 04:00:00 +0000",
+      "sentiment": 0.3340909090909091
     }
   ]
 }

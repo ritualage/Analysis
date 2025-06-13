@@ -1,10 +1,10 @@
 ---
 layout: default
-title: bbc - BBC News Politics Video & Audio
+title: bbc - BBC News Politics
 date: 
 ---
 
-## bbc - BBC News Politics Video & Audio
+## bbc - BBC News Politics
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

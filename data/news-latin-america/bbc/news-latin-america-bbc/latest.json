@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "At least seven dead in Colombia attacks, local media reports",
+      "link": "https://www.bbc.com/news/articles/cdd2vn0j3gvo",
+      "published": "Tue, 10 Jun 2025 22:30:03 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Colombia presidential hopeful shot in head at rally",
       "link": "https://www.bbc.com/news/articles/c9dq8yxxy8zo",
       "published": "Sun, 08 Jun 2025 14:59:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.bbc.com/news/articles/c14k56dmxx7o",
       "published": "Wed, 04 Jun 2025 10:53:56 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Mexican police arrest suspect in killing of five band members",
-      "link": "https://www.bbc.com/news/articles/clygr1v6z2mo",
-      "published": "Tue, 03 Jun 2025 09:31:43 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Trump's 50% tariffs on metals come into effect",
@@ -100,7 +100,7 @@
       "title": "Watch: Massive waterspout spotted in the Gulf of California",
       "link": "https://www.bbc.com/news/videos/c24q48nrn3jo",
       "published": "Wed, 07 May 2025 15:49:34 GMT",
-      "sentiment": 0.13333333333333333
+      "sentiment": 0.13333333333333336
     },
     {
       "title": "Watch: How Lady Gaga's record-breaking concert almost ended in disaster",

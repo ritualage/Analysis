@@ -1,9 +1,111 @@
 {
   "entries": [
     {
+      "title": "What We Know About the L.A. Protests So Far",
+      "link": "https://www.nytimes.com/video/world/americas/100000010221397/what-we-know-about-the-la-protests-so-far.html",
+      "published": "Fri, 13 Jun 2025 03:06:36 +0000",
+      "sentiment": 0.07159090909090908
+    },
+    {
+      "title": "Owner of Dominican Club Whose Roof Collapsed Is Charged With Involuntary Homicide",
+      "link": "https://www.nytimes.com/2025/06/12/world/americas/dominican-nightclub-roof-collapse-owner-arrest.html",
+      "published": "Thu, 12 Jun 2025 23:40:34 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Defense Lawyers for Kilmar Abrego Garcia Ask Judge to Release Him Pretrial",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/abrego-garcia-release-pretrial.html",
+      "published": "Thu, 12 Jun 2025 00:55:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.N. Report Says We’re Missing the Real Fertility Crisis",
+      "link": "https://www.nytimes.com/2025/06/11/world/fertility-crisis-un-report.html",
+      "published": "Wed, 11 Jun 2025 21:02:31 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Trump Is Pushing Allies Away and Closer to Each Other",
+      "link": "https://www.nytimes.com/2025/06/11/world/canada/g7-trump-us-allies-world-order.html",
+      "published": "Thu, 12 Jun 2025 02:44:12 +0000",
+      "sentiment": 0.1375
+    },
+    {
+      "title": "A Murdered Journalist’s Unfinished Book About the Amazon Gets Completed and Published",
+      "link": "https://www.nytimes.com/2025/06/11/books/review/dom-phillips-how-to-save-the-amazon.html",
+      "published": "Wed, 11 Jun 2025 14:25:47 +0000",
+      "sentiment": -0.20000000000000004
+    },
+    {
+      "title": "Niede Guidon, 92, Archaeologist Who Preserved Prehistoric Rock Art, Dies",
+      "link": "https://www.nytimes.com/2025/06/10/science/niede-guidon-dead.html",
+      "published": "Wed, 11 Jun 2025 02:14:27 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Appeals Court Pauses Order to Give Deported Venezuelans Due Process",
+      "link": "https://www.nytimes.com/2025/06/10/us/politics/trump-venezuelans-deportations-el-salvador-boasberg.html",
+      "published": "Wed, 11 Jun 2025 02:45:04 +0000",
+      "sentiment": -0.012499999999999997
+    },
+    {
+      "title": "Argentina’s Supreme Court Upholds Cristina Fernández de Kirchner’s Prison Sentence",
+      "link": "https://www.nytimes.com/2025/06/10/world/americas/argentina-cristina-kirchner-sentence.html",
+      "published": "Wed, 11 Jun 2025 00:53:04 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "3 Lessons From International Protests Amid the L.A. Unrest",
+      "link": "https://www.nytimes.com/2025/06/10/world/lessons-international-protests-la-unrest.html",
+      "published": "Thu, 12 Jun 2025 13:13:40 +0000",
+      "sentiment": 0.0475
+    },
+    {
+      "title": "Khaby Lame, World’s Most Popular TikToker, Is Forced to Leave U.S.",
+      "link": "https://www.nytimes.com/2025/06/10/world/europe/khaby-lame-detained-immigration.html",
+      "published": "Tue, 10 Jun 2025 16:37:51 +0000",
+      "sentiment": -0.03333333333333335
+    },
+    {
+      "title": "U.K., Canada and Others Impose Sanctions on Far-Right Israeli Ministers",
+      "link": "https://www.nytimes.com/2025/06/10/world/canada/uk-canada-sanctions-israel-smotrich-ben-gvir.html",
+      "published": "Tue, 10 Jun 2025 21:12:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gang Violence Grips Peru as Extortions and Killings Rise",
+      "link": "https://www.nytimes.com/2025/06/10/world/americas/peru-gang-violence-extortions.html",
+      "published": "Wed, 11 Jun 2025 15:10:25 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "A Killer Within Easy Reach",
+      "link": "https://www.nytimes.com/2025/06/10/health/paraquat-pesticides-suicide-suriname.html",
+      "published": "Wed, 11 Jun 2025 21:52:46 +0000",
+      "sentiment": 0.006666666666666665
+    },
+    {
+      "title": "Canada Commits Billions in Defense Spending to Meet NATO Target, Mark Carney Says",
+      "link": "https://www.nytimes.com/2025/06/09/world/canada/carney-canada-nato-military-spending.html",
+      "published": "Mon, 09 Jun 2025 22:49:55 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Extremely Lifelike Dolls Cause a Frenzy in Brazil",
+      "link": "https://www.nytimes.com/2025/06/09/world/americas/reborn-baby-dolls-brazil.html",
+      "published": "Tue, 10 Jun 2025 10:23:32 +0000",
+      "sentiment": 0.09642857142857142
+    },
+    {
+      "title": "Attack on Colombia Senator, Miguel Uribe Turbay, Caught on Video",
+      "link": "https://www.nytimes.com/2025/06/08/world/americas/colombia-uribe-turbay-shooting.html",
+      "published": "Mon, 09 Jun 2025 00:57:23 +0000",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Soccer Fans Fear Being Targets of U.S. Immigration Raids",
       "link": "https://www.nytimes.com/2025/06/08/world/americas/world-cup-soccer-trump-immigration.html",
-      "published": "Sun, 08 Jun 2025 09:02:05 +0000",
+      "published": "Sun, 08 Jun 2025 20:12:24 +0000",
       "sentiment": 0.0
     },
     {
@@ -15,7 +117,7 @@
     {
       "title": "A Colombian Senator, Miguel Uribe, Is Shot at a Campaign Event",
       "link": "https://www.nytimes.com/2025/06/07/world/americas/colombia-senator-shot.html",
-      "published": "Sun, 08 Jun 2025 15:11:18 +0000",
+      "published": "Mon, 09 Jun 2025 02:27:06 +0000",
       "sentiment": -0.08333333333333333
     },
     {
@@ -31,106 +133,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "Interpol Arrests 20 Over Network That Distributed Child Sex Abuse Material",
+      "title": "20 Arrested Over Network That Distributed Child Sex Abuse Material, Interpol Says",
       "link": "https://www.nytimes.com/2025/06/06/world/europe/interpol-child-sex-abuse-arrests.html",
-      "published": "Fri, 06 Jun 2025 14:57:43 +0000",
+      "published": "Wed, 11 Jun 2025 07:28:25 +0000",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76",
-      "link": "https://www.nytimes.com/2025/06/05/world/canada/mark-garneau-canadian-astronaut-dead.html",
-      "published": "Sat, 07 Jun 2025 05:28:55 +0000",
-      "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "Trump’s Travel Ban Could Shake Up International Sporting Events",
-      "link": "https://www.nytimes.com/2025/06/05/world/americas/trump-travel-ban-sports.html",
-      "published": "Thu, 05 Jun 2025 19:25:42 +0000",
-      "sentiment": 0.03125
-    },
-    {
-      "title": "Supreme Court Blocks Mexico’s Suit Against U.S. Gun Makers",
-      "link": "https://www.nytimes.com/2025/06/05/us/politics/supreme-court-mexico-gunmakers.html",
-      "published": "Thu, 05 Jun 2025 20:00:43 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cargo Ship Carrying Electric Vehicles Burns Off Alaska",
-      "link": "https://www.nytimes.com/2025/06/05/us/alaska-fire-ship-electric-vehicles.html",
-      "published": "Fri, 06 Jun 2025 11:27:53 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Travel Order Bans People From 12 Countries From Entering U.S.",
-      "link": "https://www.nytimes.com/2025/06/04/us/politics/trump-travel-ban.html",
-      "published": "Thu, 05 Jun 2025 20:27:59 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "U.S. Brings Back Guatemalan Wrongly Deported to Mexico",
-      "link": "https://www.nytimes.com/2025/06/04/us/politics/guatemalan-deported-mexico-trump.html",
-      "published": "Thu, 05 Jun 2025 03:04:09 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Rosana Paulino, a Brazilian Artist Who Wields Poetry and Persistence",
-      "link": "https://www.nytimes.com/2025/06/04/arts/design/rosana-paulino-brazil-studio.html",
-      "published": "Wed, 04 Jun 2025 18:53:32 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Jury in El Salvador Convicts 3 Ex-Officers in 1982 Killings of Dutch Journalists",
-      "link": "https://www.nytimes.com/2025/06/04/world/americas/el-salvador-killings-dutch-journalists-1982.html",
-      "published": "Wed, 04 Jun 2025 14:01:42 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "In Puerto Rico, a Struggle for Power Comes to Light",
-      "link": "https://www.nytimes.com/2025/06/04/insider/puerto-rico-power-outage.html",
-      "published": "Wed, 04 Jun 2025 13:00:06 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "As Trump’s Tariffs Nudge Canada Toward Free Interprovincial Trade, Gerard Comeau Gets His Revenge",
-      "link": "https://www.nytimes.com/2025/06/04/world/canada/trump-canada-province-trade-beer.html",
-      "published": "Wed, 04 Jun 2025 12:55:54 +0000",
-      "sentiment": 0.35000000000000003
-    },
-    {
-      "title": "Meet Rachel Hauck, the Set Designer Behind the Tony-Nominated Ship From ‘Swept Away’",
-      "link": "https://www.nytimes.com/2025/06/04/arts/rachel-hauck-swept-away-set-design-tonys-2025.html",
-      "published": "Wed, 04 Jun 2025 13:01:50 +0000",
-      "sentiment": 0.062499999999999986
-    },
-    {
-      "title": "Mexico’s Supreme Court Likely to Be Dominated by the Governing Morena",
-      "link": "https://www.nytimes.com/2025/06/03/world/americas/mexico-election-results.html",
-      "published": "Tue, 03 Jun 2025 21:27:20 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Smoke From Canadian Wildfires Approaches the Northeast",
-      "link": "https://www.nytimes.com/2025/06/03/weather/canada-wildfires-smoke-us-air-quality.html",
-      "published": "Wed, 04 Jun 2025 08:46:39 +0000",
-      "sentiment": 0.012121212121212116
-    },
-    {
-      "title": "Canadian National Parks Offer Alternatives to U.S. Parks",
-      "link": "https://www.nytimes.com/2025/06/03/travel/canada-national-parks.html",
-      "published": "Wed, 04 Jun 2025 19:41:01 +0000",
-      "sentiment": 1.0
-    },
-    {
-      "title": "Low Turnout in Mexico’s Judicial Election Fuels Legitimacy Concerns",
-      "link": "https://www.nytimes.com/2025/06/02/world/americas/mexico-judicial-election-low-turnout.html",
-      "published": "Mon, 02 Jun 2025 22:26:22 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Mexico Votes in Sprawling, First-Ever Judiciary Election",
-      "link": "https://www.nytimes.com/2025/06/01/world/americas/mexico-judiciary-election-supreme-court.html",
-      "published": "Mon, 02 Jun 2025 00:47:59 +0000",
-      "sentiment": 0.1875
     }
   ]
 }

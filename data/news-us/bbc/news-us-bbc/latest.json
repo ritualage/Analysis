@@ -1,184 +1,166 @@
 {
   "entries": [
     {
-      "title": "Trump says relationship with Musk is over",
-      "link": "https://www.bbc.com/news/articles/c9wg240q0plo",
-      "published": "Sat, 07 Jun 2025 19:59:28 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "How Trump and Musk are still linked - despite falling out",
-      "link": "https://www.bbc.com/news/articles/c3e5y4g5qxno",
-      "published": "Fri, 06 Jun 2025 21:00:10 GMT",
-      "sentiment": -0.10416666666666667
-    },
-    {
-      "title": "US brings back El Salvador deportee to face charges",
-      "link": "https://www.bbc.com/news/articles/c7v7ynv98r8o",
-      "published": "Sat, 07 Jun 2025 16:14:07 GMT",
+      "title": "Trump administration blocked from  deploying National Guard to LA",
+      "link": "https://www.bbc.com/news/articles/cd62d8jp046o",
+      "published": "Fri, 13 Jun 2025 01:26:10 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Riot police and protesters clash after LA immigration raids",
-      "link": "https://www.bbc.com/news/videos/c7v7yql5r86o",
-      "published": "Sat, 07 Jun 2025 11:03:13 GMT",
+      "title": "US senator dragged out of LA immigration news conference",
+      "link": "https://www.bbc.com/news/articles/c5ygn48djrko",
+      "published": "Thu, 12 Jun 2025 22:05:22 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Watch: Did Trump win the election because of Musk?",
-      "link": "https://www.bbc.com/news/videos/clyq9jeyzllo",
-      "published": "Sat, 07 Jun 2025 00:01:42 GMT",
-      "sentiment": 0.30000000000000004
+      "title": "What does the Air India crash mean for Boeing?",
+      "link": "https://www.bbc.com/news/articles/cje7542k0gno",
+      "published": "Thu, 12 Jun 2025 22:59:27 GMT",
+      "sentiment": -0.53125
     },
     {
-      "title": "Schwarzenegger: Hey, stop whining, do something on climate change",
-      "link": "https://www.bbc.com/news/videos/ce80kyxd05wo",
-      "published": "Sat, 07 Jun 2025 04:58:40 GMT",
+      "title": "Watch: 'I'm all for it' - What Americans make of Trump's military parade",
+      "link": "https://www.bbc.com/news/videos/c2e39wjw8lro",
+      "published": "Thu, 12 Jun 2025 23:26:13 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
+      "title": "Watch: Hegseth suggests Pentagon has 'contingency' plans to take Greenland by force",
+      "link": "https://www.bbc.com/news/videos/cy0krz2jyw3o",
+      "published": "Thu, 12 Jun 2025 21:49:30 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "RFK Jr appoints new US vaccine advisers after sacking committee",
+      "link": "https://www.bbc.com/news/articles/cr4zyp26xn2o",
+      "published": "Thu, 12 Jun 2025 16:49:15 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Mistrial declared on rape charge in Weinstein case after juror won't return to jury room",
+      "link": "https://www.bbc.com/news/articles/cpqegx8jx59o",
+      "published": "Thu, 12 Jun 2025 18:34:34 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Proud Boys sue US government for $100m over Jan 6 prosecutions",
-      "link": "https://www.bbc.com/news/articles/cr4z7zyl0gwo",
-      "published": "Fri, 06 Jun 2025 23:12:43 GMT",
-      "sentiment": 0.4
+      "title": "What to expect at Trump's military parade and 'No Kings' protests",
+      "link": "https://www.bbc.com/news/articles/c9dqz4jdzy2o",
+      "published": "Thu, 12 Jun 2025 16:25:21 GMT",
+      "sentiment": -0.04999999999999999
     },
     {
-      "title": "Carney invites Modi to G7, signalling thaw in relations",
-      "link": "https://www.bbc.com/news/articles/cgkd6g4g018o",
-      "published": "Fri, 06 Jun 2025 21:12:04 GMT",
-      "sentiment": -0.4
+      "title": "Downtown LA under curfew for second night after days of protests",
+      "link": "https://www.bbc.com/news/articles/cn7z45pyrvvo",
+      "published": "Thu, 12 Jun 2025 07:09:16 GMT",
+      "sentiment": -0.07500000000000001
     },
     {
-      "title": "Police search for US man accused of killing his 3 daughters",
-      "link": "https://www.bbc.com/news/articles/czdyeld2m2yo",
-      "published": "Fri, 06 Jun 2025 18:16:35 GMT",
-      "sentiment": -0.1
+      "title": "Brian Wilson: iconic images of a Beach Boy's life",
+      "link": "https://www.bbc.com/news/articles/c0j70748z4po",
+      "published": "Thu, 12 Jun 2025 03:38:12 GMT",
+      "sentiment": 0.4666666666666666
     },
     {
-      "title": "Watch: What's happening with Trump's Tesla parked at White House?",
-      "link": "https://www.bbc.com/news/videos/cly373y03p7o",
-      "published": "Fri, 06 Jun 2025 21:43:14 GMT",
-      "sentiment": 0.0
+      "title": "US reviewing Aukus submarine pact as part of 'America First' agenda",
+      "link": "https://www.bbc.com/news/articles/cy8d3d5l9l1o",
+      "published": "Thu, 12 Jun 2025 01:43:24 GMT",
+      "sentiment": 0.049999999999999996
     },
     {
-      "title": "Ex-police chief who escaped Arkansas prison is re-captured",
-      "link": "https://www.bbc.com/news/articles/cvgqd47drj7o",
-      "published": "Sat, 07 Jun 2025 15:12:07 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Diddy's ex-girlfriend testifies about pressure to participate in 'hotel nights'",
-      "link": "https://www.bbc.com/news/articles/c79eye4n93no",
-      "published": "Sat, 07 Jun 2025 00:24:36 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "'We have a geriatric problem' - Democrats wrestle with age-old issue",
-      "link": "https://www.bbc.com/news/articles/cpw7p2pjn11o",
-      "published": "Fri, 06 Jun 2025 05:04:27 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What will Trump travel ban mean for sport?",
-      "link": "https://www.bbc.com/sport/olympics/articles/ce397891knzo",
-      "published": "Fri, 06 Jun 2025 09:41:05 GMT",
-      "sentiment": -0.3125
-    },
-    {
-      "title": "The long wait for answers over the Lockerbie bombing grows longer",
-      "link": "https://www.bbc.com/news/articles/c3v52yw335xo",
-      "published": "Thu, 05 Jun 2025 21:49:59 GMT",
+      "title": "US to partially evacuate embassy in Iraq as Iran tensions rise",
+      "link": "https://www.bbc.com/news/articles/c629yk5z07vo",
+      "published": "Thu, 12 Jun 2025 10:40:07 GMT",
       "sentiment": -0.05
     },
     {
-      "title": "UN human rights chief calls on US to withdraw sanctions on ICC judges",
-      "link": "https://www.bbc.com/news/articles/ce80pl1xrllo",
-      "published": "Fri, 06 Jun 2025 10:28:03 GMT",
-      "sentiment": 0.0
+      "title": "Watch: Fountains of molten lava arc into the air as Kilauea erupts",
+      "link": "https://www.bbc.com/news/videos/c9wgzqgxx5go",
+      "published": "Thu, 12 Jun 2025 13:54:34 GMT",
+      "sentiment": 0.18333333333333335
     },
     {
-      "title": "Judge threatens to remove Diddy from courtroom",
-      "link": "https://www.bbc.com/news/articles/ckgqp4pg3jwo",
-      "published": "Thu, 05 Jun 2025 22:43:44 GMT",
-      "sentiment": 0.2
+      "title": "Watch: Moment crowd boos and cheers Trump at Kennedy Center",
+      "link": "https://www.bbc.com/news/videos/cy8nlrmvnexo",
+      "published": "Thu, 12 Jun 2025 05:46:29 GMT",
+      "sentiment": -0.05
     },
     {
-      "title": "Tesla shares tumble as Trump-Musk feud erupts",
-      "link": "https://www.bbc.com/news/articles/cy902rv7q8do",
-      "published": "Thu, 05 Jun 2025 21:46:09 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Judge temporarily blocks Trump's ban on foreign Harvard students",
-      "link": "https://www.bbc.com/news/articles/c991lz2zd0ko",
-      "published": "Fri, 06 Jun 2025 03:15:01 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Watch: Federal agents use tear gas, flash grenades to disperse LA protesters",
-      "link": "https://www.bbc.com/news/videos/clygjlgzll3o",
-      "published": "Sun, 08 Jun 2025 07:34:23 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Riot police and protesters clash after LA immigration raids",
-      "link": "https://www.bbc.com/news/videos/c7v7yql5r86o",
-      "published": "Sat, 07 Jun 2025 11:03:13 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "'Very disappointed' and 'such ingratitude': How Trump-Musk feud played out",
-      "link": "https://www.bbc.com/news/videos/czel2j71n49o",
-      "published": "Thu, 05 Jun 2025 22:59:02 GMT",
-      "sentiment": -0.325
-    },
-    {
-      "title": "Building housing indigenous art burns down in Canada's wildfires",
-      "link": "https://www.bbc.com/news/videos/c20125j447xo",
-      "published": "Thu, 05 Jun 2025 14:48:20 GMT",
-      "sentiment": -0.036111111111111115
-    },
-    {
-      "title": "Trump: 'I'm very disappointed in Elon'",
-      "link": "https://www.bbc.com/news/videos/cn9jpeylp88o",
-      "published": "Thu, 05 Jun 2025 16:35:39 GMT",
-      "sentiment": -0.09166666666666672
-    },
-    {
-      "title": "Trump and Musk: The 10 days that unravelled their relationship",
-      "link": "https://www.bbc.com/news/articles/clyr7v79q4yo",
-      "published": "Fri, 06 Jun 2025 15:18:46 GMT",
-      "sentiment": -0.6
-    },
-    {
-      "title": "How bitter Trump-Musk feud escalated - and what happens next",
-      "link": "https://www.bbc.com/news/articles/c3wd2215q08o",
-      "published": "Fri, 06 Jun 2025 05:56:04 GMT",
-      "sentiment": 0.13999999999999999
-    },
-    {
-      "title": "Why are these 12 countries on Trump's travel-ban list?",
-      "link": "https://www.bbc.com/news/articles/cz6329yvwdvo",
-      "published": "Thu, 05 Jun 2025 10:39:35 GMT",
-      "sentiment": 0.1340909090909091
-    },
-    {
-      "title": "Trump's new ban dodges pitfalls faced by last attempt, experts say",
-      "link": "https://www.bbc.com/news/articles/cd7gp8l1241o",
-      "published": "Thu, 05 Jun 2025 19:26:54 GMT",
-      "sentiment": -0.007575757575757576
-    },
-    {
-      "title": "How countries responded to Trump's travel ban",
-      "link": "https://www.bbc.com/news/articles/cwy325dx504o",
-      "published": "Thu, 05 Jun 2025 16:15:01 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What we know about Trump's latest travel ban",
-      "link": "https://www.bbc.com/news/articles/cx271g270v7o",
-      "published": "Thu, 05 Jun 2025 18:45:51 GMT",
+      "title": "How Trump's immigration raids sparked protests and unrest",
+      "link": "https://www.bbc.com/news/videos/c626y7d1zlxo",
+      "published": "Wed, 11 Jun 2025 19:06:50 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "'Playing piano and singing takes me to another world' - Brian Wilson",
+      "link": "https://www.bbc.com/news/videos/cr7zye35gmlo",
+      "published": "Wed, 11 Jun 2025 18:32:20 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "National Guard trains for crowd control as LA protests continue",
+      "link": "https://www.bbc.com/news/videos/cjdzm2ykgmeo",
+      "published": "Thu, 12 Jun 2025 01:07:07 GMT",
+      "sentiment": 0.325
+    },
+    {
+      "title": "'For the sake of truth': A Weinstein victim's decision to take the stand again",
+      "link": "https://www.bbc.com/news/articles/cwyw8z2e5ljo",
+      "published": "Thu, 12 Jun 2025 16:04:10 GMT",
+      "sentiment": 0.18
+    },
+    {
+      "title": "Jesús polished luxury vehicles at an LA car wash for years. Then ICE showed up",
+      "link": "https://www.bbc.com/news/articles/czxylvq392xo",
+      "published": "Thu, 12 Jun 2025 02:19:16 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Brian Wilson obituary: Troubled genius who wrote most of The Beach Boys' hits",
+      "link": "https://www.bbc.com/news/articles/crmkyn981zvo",
+      "published": "Wed, 11 Jun 2025 16:59:49 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Newsom v Trump holds promise and peril for California governor",
+      "link": "https://www.bbc.com/news/articles/c1ld3pzg2n2o",
+      "published": "Wed, 11 Jun 2025 22:39:20 GMT",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Who has been arrested by ICE under Trump?",
+      "link": "https://www.bbc.com/news/articles/c86p821p660o",
+      "published": "Wed, 11 Jun 2025 13:36:51 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What is Aukus, the submarine deal between Australia, the UK and US?",
+      "link": "https://www.bbc.com/news/articles/cgr589k5yleo",
+      "published": "Thu, 12 Jun 2025 06:03:55 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Which other US cities have joined LA's protests over immigration raids?",
+      "link": "https://www.bbc.com/news/articles/cj09604yrpzo",
+      "published": "Wed, 11 Jun 2025 20:39:57 GMT",
+      "sentiment": 0.005681818181818177
+    },
+    {
+      "title": "Who is Mahmoud Khalil, Palestinian student activist facing US deportation?",
+      "link": "https://www.bbc.com/news/articles/cgj5nlxz44yo",
+      "published": "Wed, 11 Jun 2025 22:33:26 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "'Un-American' or 'necessary'? Voters divided on Trump's LA protest crackdown",
+      "link": "https://www.bbc.com/news/articles/cj93x2egd0jo",
+      "published": "Wed, 11 Jun 2025 03:41:14 GMT",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Gangster tells BBC why India's biggest hip-hop star was murdered",
+      "link": "https://www.bbc.com/news/articles/c87j5v4xjxqo",
+      "published": "Wed, 11 Jun 2025 05:23:51 GMT",
+      "sentiment": 0.0
     }
   ]
 }

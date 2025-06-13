@@ -1,10 +1,10 @@
 ---
 layout: default
-title: bbc - BBC News World Video & Audio
+title: bbc - BBC News World
 date: 
 ---
 
-## bbc - BBC News World Video & Audio
+## bbc - BBC News World
 
 <div id="data-chart"></div>
 <div id="data-table"></div>

@@ -1,10 +1,46 @@
 {
   "entries": [
     {
-      "title": "Live updates: House approves DOGE-inspired cuts to foreign aid, PBS, NPR",
+      "title": "Trump plans broader use of National Guard in immigration enforcement",
+      "link": "https://www.washingtonpost.com/politics/2025/06/12/trump-miller-national-guard-ice/",
+      "published": "Fri, 13 Jun 2025 02:04:32 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Democratic senator forcibly removed from DHS news conference as tensions flare",
+      "link": "https://www.washingtonpost.com/politics/2025/06/12/alex-pandilla-noem-press-conference-removed/",
+      "published": "Fri, 13 Jun 2025 00:53:40 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "House approves DOGE-inspired cuts to foreign aid, PBS, NPR",
       "link": "https://www.washingtonpost.com/politics/2025/06/12/trump-presidency-news/",
-      "published": "Thu, 12 Jun 2025 22:44:43 +0000",
-      "sentiment": 0.10227272727272727
+      "published": "Fri, 13 Jun 2025 00:01:24 +0000",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "Judge says Trump cannot swiftly deport family of Boulder attack suspect",
+      "link": "https://www.washingtonpost.com/politics/2025/06/12/boulder-attack-suspect-mohamed-sabry-soliman/",
+      "published": "Fri, 13 Jun 2025 00:00:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump plans broader use of National Guard in immigration enforcement",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 23:56:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Republicans are keen on college sports legislation. Democrats are not.",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 23:31:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "DOJ tells nation’s prosecutors to be on standby ahead of protests",
+      "link": "https://www.washingtonpost.com",
+      "published": "Thu, 12 Jun 2025 23:10:23 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "House votes to nullify D.C.’s ‘sanctuary city’ law",
@@ -59,12 +95,6 @@
       "link": "https://www.washingtonpost.com",
       "published": "Thu, 12 Jun 2025 20:27:58 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Sen. Alex Padilla of California forcibly removed from DHS news conference",
-      "link": "https://www.washingtonpost.com/politics/2025/06/12/alex-pandilla-noem-press-conference-removed/",
-      "published": "Thu, 12 Jun 2025 20:21:24 +0000",
-      "sentiment": 0.06666666666666665
     },
     {
       "title": "House approves Trump plan to cancel $9.4 billion for NPR, PBS and global health",
@@ -569,36 +599,6 @@
       "link": "https://www.washingtonpost.com",
       "published": "Wed, 11 Jun 2025 15:32:15 +0000",
       "sentiment": 0.2
-    },
-    {
-      "title": "Hegseth acknowledges Ukraine has been attacked, but doesn’t back the country",
-      "link": "https://www.washingtonpost.com",
-      "published": "Wed, 11 Jun 2025 15:28:32 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Sen. Chris Coons describes ‘chaos and poor judgement’ under Hegseth",
-      "link": "https://www.washingtonpost.com",
-      "published": "Wed, 11 Jun 2025 14:55:13 +0000",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Defense Secretary Pete Hegseth’s opening statement at Wednesday’s Senate budget hearing echoed his remarks Tuesday before...",
-      "link": "https://www.washingtonpost.com",
-      "published": "Wed, 11 Jun 2025 14:33:39 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "McConnell expresses concern that defense budget request falls short",
-      "link": "https://www.washingtonpost.com",
-      "published": "Wed, 11 Jun 2025 14:30:13 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Sen. Mitch McConnell (R-Kentucky) pressed Defense Secretary Pete Hegseth on Wednesday to justify the lack of...",
-      "link": "https://www.washingtonpost.com",
-      "published": "Wed, 11 Jun 2025 14:22:28 +0000",
-      "sentiment": 0.0
     }
   ]
 }
