@@ -1,0 +1,346 @@
+{
+  "entries": [
+    {
+      "title": "Over 260 Dead After Air India Crash, Official Says, With One Survivor",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad",
+      "published": "Fri, 13 Jun 2025 02:28:34 +0000",
+      "sentiment": 0.00888888888888888
+    },
+    {
+      "title": "Anti-Migrant Rioters in Northern Ireland Set Homes, and Then a Refuge Site, Ablaze",
+      "link": "https://www.nytimes.com/2025/06/12/world/europe/northern-ireland-violence-police-ballymena.html",
+      "published": "Thu, 12 Jun 2025 18:49:23 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran.html",
+      "published": "Thu, 12 Jun 2025 22:27:18 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "The Art of the Stall: China’s Strategy for Dealing With Trump",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/trump-china-trade-deal.html",
+      "published": "Thu, 12 Jun 2025 10:11:23 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Deadly Air India Plane Crash: Photos and Video",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/air-india-crash-photos.html",
+      "published": "Thu, 12 Jun 2025 20:41:08 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "What We Know About the Plane Crash in Ahmedabad, India",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/india-plane-crash-what-to-know.html",
+      "published": "Fri, 13 Jun 2025 02:14:54 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "The Dalai Lama at 90: His Nation Faces a Moment of Truth",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/dalai-lama-age-birthday-tibet.html",
+      "published": "Thu, 12 Jun 2025 09:02:26 +0000",
+      "sentiment": 0.2125
+    },
+    {
+      "title": "Suspect in Austrian School Shooting Was a Loner Rejected by Army, Officials Say",
+      "link": "https://www.nytimes.com/2025/06/12/world/europe/austria-school-shooting-gunman.html",
+      "published": "Thu, 12 Jun 2025 16:22:43 +0000",
+      "sentiment": -0.0638888888888889
+    },
+    {
+      "title": "U.N. Watchdog Rules That Iran Is Not Complying With Nuclear Obligations",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/un-iaea-iran-nuclear-program.html",
+      "published": "Thu, 12 Jun 2025 18:54:08 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Austria Has Lots of Guns, Little Gun Violence, and New Questions",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/austria-guns-school-shooting-graz.html",
+      "published": "Wed, 11 Jun 2025 12:41:50 +0000",
+      "sentiment": -0.017045454545454548
+    },
+    {
+      "title": "Trump Is Pushing Allies Away and Closer to Each Other",
+      "link": "https://www.nytimes.com/2025/06/11/world/canada/g7-trump-us-allies-world-order.html",
+      "published": "Thu, 12 Jun 2025 02:44:12 +0000",
+      "sentiment": 0.1375
+    },
+    {
+      "title": "New China Trade ‘Deal’ Takes U.S. Back to Where It Started",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/us-china-trade-deal-trump.html",
+      "published": "Thu, 12 Jun 2025 06:55:34 +0000",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "A Syrian Committee for Civil Peace Angers Those Demanding Justice",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/syria-peace-committee-assad.html",
+      "published": "Wed, 11 Jun 2025 19:58:01 +0000",
+      "sentiment": -0.22121212121212122
+    },
+    {
+      "title": "China Labor Bulletin, a Rights Group in Hong Kong, Shuts Down",
+      "link": "https://www.nytimes.com/2025/06/12/business/hong-kong-labor-rights-nonprofit-closes.html",
+      "published": "Fri, 13 Jun 2025 03:09:20 +0000",
+      "sentiment": -0.07777777777777779
+    },
+    {
+      "title": "Israeli Strikes Kill IRGC Leader and Major Nuclear Scientists",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/irgc-iran-israel-strikes-nuclear.html",
+      "published": "Fri, 13 Jun 2025 03:11:04 +0000",
+      "sentiment": 0.0975
+    },
+    {
+      "title": "What We Know About the L.A. Protests So Far",
+      "link": "https://www.nytimes.com/video/world/americas/100000010221397/what-we-know-about-the-la-protests-so-far.html",
+      "published": "Fri, 13 Jun 2025 03:06:36 +0000",
+      "sentiment": 0.07159090909090908
+    },
+    {
+      "title": "U.S. Was Not Involved in Israeli Strikes on Iran, Rubio Says",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/trump-rubio-israel-iran-strikes.html",
+      "published": "Fri, 13 Jun 2025 03:06:08 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Netanyahu says fighting with Iran will continue as long as Israel deems necessary.",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/netanyahu-says-fighting-with-iran-will-continue-as-long-as-israel-deems-necessary.html",
+      "published": "Fri, 13 Jun 2025 02:33:10 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "What to Know About Israel’s Strikes on Iran’s Nuclear Program",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html",
+      "published": "Fri, 13 Jun 2025 03:01:02 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "After striking Iran, Israel braces for retaliation.",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/israel-iran-us-nuclear/after-striking-iran-israel-braces-for-retaliation",
+      "published": "Fri, 13 Jun 2025 01:09:54 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/israel-iran-us-nuclear/israel-strikes-iran",
+      "published": "Fri, 13 Jun 2025 02:06:03 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Owner of Dominican Club Whose Roof Collapsed Is Charged With Involuntary Homicide",
+      "link": "https://www.nytimes.com/2025/06/12/world/americas/dominican-nightclub-roof-collapse-owner-arrest.html",
+      "published": "Thu, 12 Jun 2025 23:40:34 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Air India Crash Survivor: ‘I Don’t Know How I Am Alive’",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/viswash-kumar-ramesh-air-india-survivor.html",
+      "published": "Fri, 13 Jun 2025 00:44:17 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Friday Briefing: Air India Crash Killed More Than 260 People",
+      "link": "https://www.nytimes.com/2025/06/12/briefing/india-plane-crash-israel-iran-los-angeles.html",
+      "published": "Thu, 12 Jun 2025 21:26:58 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Hundreds Dead in Air India Plane Crash",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/india-plane-crash.html",
+      "published": "Thu, 12 Jun 2025 21:23:20 +0000",
+      "sentiment": 0.036111111111111094
+    },
+    {
+      "title": "A whistle-blower’s lawyers call on the F.A.A. to release a report on the 787 Dreamliner.",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad/whistle-blowers-lawyer-calls-on-faa-to-release-report-on-787-dreamliner",
+      "published": "Thu, 12 Jun 2025 21:31:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How the Air India Crash Compares With Other Deadly Plane Disasters",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/deadliest-plane-crashes-air-india.html",
+      "published": "Thu, 12 Jun 2025 20:36:56 +0000",
+      "sentiment": -0.38125
+    },
+    {
+      "title": "For recovery and investigation of Air India crash, authorities contend with the risk of struck sites collapsing.",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/air-india-recovery-workers-will-need-to-sift-through-ruins-without-toppling-buildings.html",
+      "published": "Thu, 12 Jun 2025 19:12:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A G.O.P. Plan to Sell Public Land Is Back. This Time, It’s Millions of Acres.",
+      "link": "https://www.nytimes.com/2025/06/12/climate/senate-gop-public-land-sale.html",
+      "published": "Thu, 12 Jun 2025 19:19:39 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Why Israel May Be Considering an Attack on Iran",
+      "link": "https://www.nytimes.com/article/israel-iran-attack-why.html",
+      "published": "Fri, 13 Jun 2025 00:54:06 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Chaos at Site of Air India Plane Crash",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/air-india-plane-crash-site.html",
+      "published": "Thu, 12 Jun 2025 23:46:04 +0000",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Air India’s New Owners, the Tata Group, Have Been Trying to Upgrade and Expand the Carrier",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/air-india-plane-crash-safety-tata-group.html",
+      "published": "Thu, 12 Jun 2025 14:28:54 +0000",
+      "sentiment": 0.4681818181818182
+    },
+    {
+      "title": "Japan Says Chinese Fighter Jet Flew Too Close to Its Military Plane",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/japan-china-fighter-jet.html",
+      "published": "Thu, 12 Jun 2025 10:23:16 +0000",
+      "sentiment": -0.02
+    },
+    {
+      "title": "Air India Plane Crashes in Ahmedabad",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad/india-plane-crash-ahmedabad",
+      "published": "Thu, 12 Jun 2025 20:59:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Climate Change Could Complicate Anti-Submarine Warfare",
+      "link": "https://www.nytimes.com/2025/06/12/climate/climate-change-submarines-sonar.html",
+      "published": "Thu, 12 Jun 2025 09:02:35 +0000",
+      "sentiment": 0.27999999999999997
+    },
+    {
+      "title": "Early Humans Settled in Cities. Bedbugs Followed Them.",
+      "link": "https://www.nytimes.com/2025/06/12/science/bedbugs-humans-urbanization-study.html",
+      "published": "Thu, 12 Jun 2025 09:02:08 +0000",
+      "sentiment": 0.29727272727272724
+    },
+    {
+      "title": "Thursday Briefing",
+      "link": "https://www.nytimes.com/2025/06/12/briefing/china-trade-israel-iran.html",
+      "published": "Thu, 12 Jun 2025 13:25:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gaza Aid Group Says Hamas Attacked Its Palestinian Workers",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/gaza-aid-hamas-attack.html",
+      "published": "Thu, 12 Jun 2025 03:26:48 +0000",
+      "sentiment": -0.20833333333333334
+    },
+    {
+      "title": "U.S. Reviewing Aukus Submarine Deal With Australia, Britain",
+      "link": "https://www.nytimes.com/2025/06/11/world/asia/australia-nuclear-submarines-trump.html",
+      "published": "Thu, 12 Jun 2025 14:56:12 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Israel Says It Recovered the Remains of Two Hostages in Gaza",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/israel-hostages-remains-gaza.html",
+      "published": "Wed, 11 Jun 2025 22:45:26 +0000",
+      "sentiment": -0.075
+    },
+    {
+      "title": "Thursday Briefing: A Look at the U.S.-China Trade Deal",
+      "link": "https://www.nytimes.com/2025/06/11/briefing/us-china-deal-la-protest.html",
+      "published": "Thu, 12 Jun 2025 13:21:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.N. Report Says We’re Missing the Real Fertility Crisis",
+      "link": "https://www.nytimes.com/2025/06/11/world/fertility-crisis-un-report.html",
+      "published": "Wed, 11 Jun 2025 21:02:31 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Israel Appears Ready to Attack Iran",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/iran-us-iraq-diplomats-middle-east.html",
+      "published": "Fri, 13 Jun 2025 02:25:49 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "School Bus Swept Away as Floods in South Africa Kill at Least 49",
+      "link": "https://www.nytimes.com/2025/06/11/world/africa/south-africa-flooding-kills-dozens.html",
+      "published": "Wed, 11 Jun 2025 21:05:08 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "World Bank Ends Its Ban on Funding Nuclear Power Projects",
+      "link": "https://www.nytimes.com/2025/06/11/climate/world-bank-nuclear-power-funding-ban.html",
+      "published": "Wed, 11 Jun 2025 20:15:05 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Tusk Government Wins Confidence Vote in Poland",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/poland-confidence-vote-tusk.html",
+      "published": "Wed, 11 Jun 2025 16:05:00 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Fulbright Board Quits, Accusing Trump Administration of Political Interference",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/fulbright-board-resign-trump.html",
+      "published": "Thu, 12 Jun 2025 04:44:12 +0000",
+      "sentiment": -0.010714285714285711
+    },
+    {
+      "title": "This Elusive Antarctic Squid Was Seen for the First Time",
+      "link": "https://www.nytimes.com/2025/06/11/science/antarctic-gonate-squid-rare-sighting-video.html",
+      "published": "Wed, 11 Jun 2025 17:33:05 +0000",
+      "sentiment": 0.1375
+    },
+    {
+      "title": "Mike Huckabee, U.S. Ambassador to Israel, Questions Palestinian State Policy",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/mike-huckabee-israel-palestinian-state.html",
+      "published": "Wed, 11 Jun 2025 16:31:56 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Anti-Immigrant Riots Set Northern Irish Town on Edge",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/ballymena-riot-northern-ireland-disorder.html",
+      "published": "Wed, 11 Jun 2025 23:00:32 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Netanyahu Survives a Vote to Dissolve Parliament but Emerges Weakened",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/israel-knesset-vote-orthodox-draft-law.html",
+      "published": "Thu, 12 Jun 2025 13:12:34 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "South Korea Turns Off Speakers Blasting K-Pop Into North Korea",
+      "link": "https://www.nytimes.com/2025/06/11/world/asia/korea-speakers-propaganda.html",
+      "published": "Thu, 12 Jun 2025 01:37:32 +0000",
+      "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "Hong Kong Bans Taiwanese Video Game for Promoting ‘Armed Revolution’",
+      "link": "https://www.nytimes.com/2025/06/11/world/asia/hong-kong-bans-taiwan-game.html",
+      "published": "Wed, 11 Jun 2025 15:32:15 +0000",
+      "sentiment": -0.30833333333333335
+    },
+    {
+      "title": "Amid Russian Strikes, a Remote Corner of Ukraine Beckons",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/russia-ukraine-transcarpathia.html",
+      "published": "Fri, 13 Jun 2025 00:57:06 +0000",
+      "sentiment": -0.10694444444444445
+    },
+    {
+      "title": "Russian Drone Barrage Kills 3 in Kharkiv",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/russia-ukraine-drones-attack-kharkiv.html",
+      "published": "Wed, 11 Jun 2025 11:24:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Want More Excitement From the N.B.A.? Try the Korean Broadcast.",
+      "link": "https://www.nytimes.com/2025/06/11/style/nba-finals-korea-broadcast.html",
+      "published": "Wed, 11 Jun 2025 09:02:33 +0000",
+      "sentiment": 0.011111111111111112
+    },
+    {
+      "title": "In Hajj on Horseback Project, Pilgrims Ride All the Way From Spain",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/hajj-horses-spain-mecca.html",
+      "published": "Wed, 11 Jun 2025 09:02:29 +0000",
+      "sentiment": 0.016666666666666666
+    }
+  ]
+}

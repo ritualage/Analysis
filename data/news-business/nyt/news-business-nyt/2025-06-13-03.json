@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "title": "China Labor Bulletin, a Rights Group in Hong Kong, Shuts Down",
+      "link": "https://www.nytimes.com/2025/06/12/business/hong-kong-labor-rights-nonprofit-closes.html",
+      "published": "Fri, 13 Jun 2025 03:09:20 +0000",
+      "sentiment": -0.07777777777777779
+    },
+    {
+      "title": "Oil Prices Surge and Stock Markets Stumble After Israel Strikes Iran",
+      "link": "https://www.nytimes.com/2025/06/12/business/energy-environment/israel-iran-oil-stock-markets.html",
+      "published": "Fri, 13 Jun 2025 03:04:41 +0000",
+      "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "Meta Invests $14.3 Billion in Scale AI to Kick-Start Superintelligence Lab",
+      "link": "https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html",
+      "published": "Fri, 13 Jun 2025 01:21:00 +0000",
+      "sentiment": -0.07749999999999999
+    },
+    {
+      "title": "F.A.A. Further Restricts Area Around Reagan Airport to Helicopters",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/faa-reagan-airport.html",
+      "published": "Thu, 12 Jun 2025 20:40:39 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "David H. Murdock, a Fierce Rags-to-Riches Corporate Raider, Dies at 102",
+      "link": "https://www.nytimes.com/2025/06/12/business/dealbook/david-h-murdock-dead.html",
+      "published": "Thu, 12 Jun 2025 20:58:33 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Do Californians Really Pay Trump’s Bills?",
+      "link": "https://www.nytimes.com/2025/06/12/upshot/trump-california-donor-states.html",
+      "published": "Thu, 12 Jun 2025 21:05:35 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Elon Musk’s xAI Could Be Getting $250 Million in Investments",
+      "link": "https://www.nytimes.com/2025/06/12/business/xai-elon-musk-investors.html",
+      "published": "Thu, 12 Jun 2025 22:37:27 +0000",
+      "sentiment": -0.23055555555555554
+    },
+    {
+      "title": "G.O.P. Senators Want Fewer Cuts to Food Aid, Teeing Up a Fight with the House",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/republican-senators-food-aid.html",
+      "published": "Thu, 12 Jun 2025 20:39:52 +0000",
+      "sentiment": 0.4000000000000001
+    },
+    {
+      "title": "FTC May Impose Political Bias Rule on Omnicom and Interpublic Merger",
+      "link": "https://www.nytimes.com/2025/06/12/business/ftc-omnicom-interpublic-merger.html",
+      "published": "Thu, 12 Jun 2025 18:47:40 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What Caused the Air India Plane Crash?",
+      "link": "https://www.nytimes.com/2025/06/12/business/india-plane-crash-causes.html",
+      "published": "Thu, 12 Jun 2025 22:38:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Boeing’s 787 Dreamliner Raised Safety Concerns But Had Never Crashed Before",
+      "link": "https://www.nytimes.com/2025/06/12/business/india-plane-crash-boeing-787-dreamliner-safety.html",
+      "published": "Thu, 12 Jun 2025 14:38:21 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "How Companies Are Bracing for Trump’s Immigration Crackdown",
+      "link": "https://www.nytimes.com/2025/06/12/business/dealbook/companies-trump-immigration-crackdown.html",
+      "published": "Thu, 12 Jun 2025 15:29:32 +0000",
+      "sentiment": 0.16
+    },
+    {
+      "title": "Meter, Networking Start-Up, Raises $170 Million",
+      "link": "https://www.nytimes.com/2025/06/12/business/dealbook/meter-networking-fundraise.html",
+      "published": "Thu, 12 Jun 2025 12:03:04 +0000",
+      "sentiment": -0.1962121212121212
+    },
+    {
+      "title": "Boeing 787 Crash in India Brings Fresh Scrutiny to Plane Maker’s Safety Record",
+      "link": "https://www.nytimes.com/2025/06/12/business/boeing-787-dreamliner-crash-safety-record.html",
+      "published": "Thu, 12 Jun 2025 19:31:37 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "The Art of the Stall: China’s Strategy for Dealing With Trump",
+      "link": "https://www.nytimes.com/2025/06/12/world/asia/trump-china-trade-deal.html",
+      "published": "Thu, 12 Jun 2025 10:11:23 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Traveling to Europe? Here’s What to Expect From Tourism Protests on June 15.",
+      "link": "https://www.nytimes.com/2025/06/12/travel/europe-tourism-protests.html",
+      "published": "Thu, 12 Jun 2025 14:30:25 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Charging Your EV May Be Getting Easier, Even if It’s Not a Tesla",
+      "link": "https://www.nytimes.com/2025/06/12/business/electric-vehicle-charging-tesla.html",
+      "published": "Thu, 12 Jun 2025 09:02:26 +0000",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "How Washington Has Tried to Control China’s Tech",
+      "link": "https://www.nytimes.com/2025/06/12/business/washington-china-export-controls-tech-huawei.html",
+      "published": "Thu, 12 Jun 2025 06:58:05 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "New China Trade ‘Deal’ Takes U.S. Back to Where It Started",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/us-china-trade-deal-trump.html",
+      "published": "Thu, 12 Jun 2025 06:55:34 +0000",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "Washington Post Names Adam O’Neal as Opinion Editor",
+      "link": "https://www.nytimes.com/2025/06/11/business/media/washington-post-opinion-editor-adam-oneal.html",
+      "published": "Wed, 11 Jun 2025 20:27:41 +0000",
+      "sentiment": 0.1787878787878788
+    },
+    {
+      "title": "How Labor Unions Came to Define the L.A. Immigration Protests",
+      "link": "https://www.nytimes.com/2025/06/11/business/economy/la-protests-immigrants-unions.html",
+      "published": "Thu, 12 Jun 2025 17:15:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The House’s Policy Bill Would Lose Money. Could Trump’s Tariffs Replace It?",
+      "link": "https://www.nytimes.com/2025/06/11/business/trump-tariffs-tax-bill.html",
+      "published": "Thu, 12 Jun 2025 16:34:06 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Senate Republicans Want to Trim Some of Trump’s Tax Cuts in Domestic Policy Bill",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/republicans-trump-populist-tax-cuts.html",
+      "published": "Wed, 11 Jun 2025 19:13:16 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Musk Called Trump Privately Before Posting Message of ‘Regret’",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/musk-trump.html",
+      "published": "Wed, 11 Jun 2025 23:16:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Midea Recalls AC Units Over Mold Risk, Leaving Customers Frustrated",
+      "link": "https://www.nytimes.com/2025/06/11/style/midea-air-conditioners-mold-recall-reaction.html",
+      "published": "Thu, 12 Jun 2025 16:12:23 +0000",
+      "sentiment": -0.75
+    },
+    {
+      "title": "Richard Beattie, Early Engineer of Private Equity Takeovers, Dies at 86",
+      "link": "https://www.nytimes.com/2025/06/11/business/dealbook/richard-beattie-dead.html",
+      "published": "Wed, 11 Jun 2025 17:43:44 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "How the UK Plans to Boost Its Economy",
+      "link": "https://www.nytimes.com/2025/06/11/business/uk-spending-economy.html",
+      "published": "Wed, 11 Jun 2025 18:11:19 +0000",
+      "sentiment": 0.048888888888888885
+    },
+    {
+      "title": "Disney and Universal Sue A.I. Firm Midjourney for Copyright Infringement",
+      "link": "https://www.nytimes.com/2025/06/11/business/media/disney-universal-midjourney-ai.html",
+      "published": "Wed, 11 Jun 2025 19:17:17 +0000",
+      "sentiment": 0.028124999999999997
+    },
+    {
+      "title": "New York Times Names Ligaya Mishan and Tejal Rao as Co-Chief Restaurant Critics",
+      "link": "https://www.nytimes.com/2025/06/11/business/media/nyt-restaurant-critics-announced.html",
+      "published": "Wed, 11 Jun 2025 13:20:43 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "CPI Shows U.S. Inflation Remains Muted as Tariff Impact Is Limited",
+      "link": "https://www.nytimes.com/2025/06/11/business/cpi-may-inflation-tariffs.html",
+      "published": "Wed, 11 Jun 2025 18:17:24 +0000",
+      "sentiment": 0.10571428571428572
+    },
+    {
+      "title": "What’s Next as the Latest U.S.-China Trade Talks Conclude",
+      "link": "https://www.nytimes.com/2025/06/11/business/dealbook/us-china-trade-talks.html",
+      "published": "Wed, 11 Jun 2025 13:23:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China Walks a Line in U.S. Trade Talks, Trying Not to Overplay Its Hand",
+      "link": "https://www.nytimes.com/2025/06/11/business/china-rare-earths.html",
+      "published": "Wed, 11 Jun 2025 18:07:16 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Trump’s Pick for F.A.A. Leader Is Grilled Over Views on Pilot Training and Safety",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/bryan-bedford-faa-senate.html",
+      "published": "Wed, 11 Jun 2025 21:12:13 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Rubio Is Pressing to Open Sanctions Investigation Into Harvard",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/rubio-harvard-sanctions-investigation.html",
+      "published": "Wed, 11 Jun 2025 19:07:08 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Elon Musk Says His Trump Criticisms ‘Went Too Far’",
+      "link": "https://www.nytimes.com/2025/06/11/business/elon-musk-trump-feud.html",
+      "published": "Wed, 11 Jun 2025 19:15:17 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Germany Embraces LNG as It Weans Itself Off Russian Gas",
+      "link": "https://www.nytimes.com/2025/06/11/business/russia-germany-gas-lng.html",
+      "published": "Thu, 12 Jun 2025 00:31:42 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "U.S. Court Agrees to Keep Trump Tariffs Intact as Appeal Gets Underway",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/trump-tariffs-court.html",
+      "published": "Wed, 11 Jun 2025 01:24:21 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Trump Hails Progress With China, but Details Are Sketchy",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/us-china-trade-deal.html",
+      "published": "Wed, 11 Jun 2025 18:57:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "ABC Says Terry Moran, Suspended for Social Media Posts, Will Not Return",
+      "link": "https://www.nytimes.com/2025/06/10/business/media/terry-moran-abc-news.html",
+      "published": "Tue, 10 Jun 2025 22:52:42 +0000",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "A Familiar On-Air Face Amid the L.A. Protests: Dr. Phil",
+      "link": "https://www.nytimes.com/2025/06/10/business/media/la-protests-dr-phil.html",
+      "published": "Tue, 10 Jun 2025 20:08:22 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "23andMe Customers Did Not Expect Their DNA Data Would Be Sold, Lawsuit Claims",
+      "link": "https://www.nytimes.com/2025/06/10/business/23andme-data-lawsuit.html",
+      "published": "Tue, 10 Jun 2025 20:57:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Barbara Holdridge, Whose Record Label Foretold Audiobooks, Dies at 95",
+      "link": "https://www.nytimes.com/2025/06/10/books/barbara-holdridge-dead.html",
+      "published": "Tue, 10 Jun 2025 19:03:09 +0000",
+      "sentiment": 0.075
+    },
+    {
+      "title": "Who Will Replace Elon Musk as the Leader of DOGE?",
+      "link": "https://www.nytimes.com/2025/06/10/us/politics/airbnb-gebbia-musk-doge.html",
+      "published": "Tue, 10 Jun 2025 18:25:09 +0000",
+      "sentiment": -0.175
+    },
+    {
+      "title": "Yale’s Endowment Selling Private Equity Stakes as Trump Targets Ivies",
+      "link": "https://www.nytimes.com/2025/06/10/business/yale-endowment-private-equity-trump.html",
+      "published": "Tue, 10 Jun 2025 21:45:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vanity Fair Names Mark Guiducci as Its Top Editor",
+      "link": "https://www.nytimes.com/2025/06/10/business/media/vanity-fair-editor-mark-guiducci.html",
+      "published": "Tue, 10 Jun 2025 18:11:50 +0000",
+      "sentiment": 0.39999999999999997
+    },
+    {
+      "title": "F.D.A. to Use A.I. in Drug Approvals to ‘Radically Increase Efficiency’",
+      "link": "https://www.nytimes.com/2025/06/10/health/fda-drug-approvals-artificial-intelligence.html",
+      "published": "Tue, 10 Jun 2025 18:30:11 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "European Union Unveils Fresh Sanctions on Russia, Including a Nord Stream Ban",
+      "link": "https://www.nytimes.com/2025/06/10/world/europe/european-union-sanctions-russia.html",
+      "published": "Tue, 10 Jun 2025 18:24:28 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "As Energy Costs Surge, Eastern Governors Blame a Grid Manager",
+      "link": "https://www.nytimes.com/2025/06/10/business/energy-environment/pjm-electrical-grid.html",
+      "published": "Thu, 12 Jun 2025 04:22:10 +0000",
+      "sentiment": -0.7
+    },
+    {
+      "title": "World Bank Forecast Underscores Cost of U.S. Trade War",
+      "link": "https://www.nytimes.com/2025/06/10/business/trump-trade-war-global-economy.html",
+      "published": "Tue, 10 Jun 2025 13:30:05 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Should Apple Do a Big Deal to Catch Up on AI?",
+      "link": "https://www.nytimes.com/2025/06/10/business/dealbook/apple-ai-meta-deals.html",
+      "published": "Tue, 10 Jun 2025 11:55:57 +0000",
+      "sentiment": 0.08727272727272728
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "entries": [
+    {
+      "title": "In L.A., the Divide Between Peace and Violence Is in the Eye of the Beholder",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/los-angeles-protests-peace-violence.html",
+      "published": "Fri, 13 Jun 2025 03:00:20 +0000",
+      "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "Senate G.O.P. Includes Expanded Fund for Radiation Victims in Policy Bill",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/senate-republicans-radiation-victims-hawley.html",
+      "published": "Fri, 13 Jun 2025 02:06:20 +0000",
+      "sentiment": -0.09444444444444444
+    },
+    {
+      "title": "State Dept. Official Posts, Then Deletes, Attack on Colleague About NATO",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/state-department-feud-landau-whitaker.html",
+      "published": "Fri, 13 Jun 2025 02:04:38 +0000",
+      "sentiment": -0.04583333333333334
+    },
+    {
+      "title": "Trump Withdraws From Agreement With Tribes to Protect Salmon",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-withdraws-from-agreement-with-tribes-to-protect-salmon.html",
+      "published": "Fri, 13 Jun 2025 01:22:17 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Protesters in Chicago return to the streets.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/protesters-in-chicago-return-to-the-streets",
+      "published": "Fri, 13 Jun 2025 00:36:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "At least 22 states join California in its effort to block Trump’s troop deployment.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/at-least-22-states-join-california-in-its-effort-to-block-trumps-troop-deployment",
+      "published": "Fri, 13 Jun 2025 00:15:04 +0000",
+      "sentiment": -0.033333333333333326
+    },
+    {
+      "title": "How many people have been arrested in the nationwide anti-ICE protests?",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/how-many-people-have-been-arrested-in-the-nationwide-anti-ice-protests",
+      "published": "Thu, 12 Jun 2025 23:27:13 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Missouri joins Texas in assembling National Guard troops.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/missouri-joins-texas-in-assembling-national-guard-troops",
+      "published": "Thu, 12 Jun 2025 23:44:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Judge Blocks Trump’s Use of National Guard to Deal With Protesters",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/california-trump-lawsuit-protests.html",
+      "published": "Fri, 13 Jun 2025 02:34:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "After Abrego Garcia’s Deportation, a Maryland Pastor Regrets Supporting Trump",
+      "link": "https://www.nytimes.com/2025/06/12/us/abrego-garcia-maryland-pastor.html",
+      "published": "Thu, 12 Jun 2025 23:14:04 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Curfews Have Calmed Some Immigration Protests, but They Can Have Mixed Results",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/curfew-protests-la-spokane.html",
+      "published": "Thu, 12 Jun 2025 23:07:09 +0000",
+      "sentiment": 0.0875
+    },
+    {
+      "title": "Trump Steel Tariffs Expand to Hit Home Appliances Like Refrigerators and Dishwashers",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-tariffs-steel-home-appliances.html",
+      "published": "Fri, 13 Jun 2025 00:51:20 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Protests Go Beyond Immigration to Include Array of Left-Wing Causes",
+      "link": "https://www.nytimes.com/2025/06/12/us/protests-immigration-palestinian.html",
+      "published": "Fri, 13 Jun 2025 01:49:09 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Trump Tells Farmers ‘Changes Are Coming’ to Immigration Crackdown",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-farmers-hotels-immigration.html",
+      "published": "Thu, 12 Jun 2025 22:31:24 +0000",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "Gov. Ron DeSantis Promises a Crackdown Against Unruly Protesters",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/florida-leaders-promise-a-crackdown-against-unruly-protesters",
+      "published": "Thu, 12 Jun 2025 23:18:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "One Soldier Killed, One Injured in Helicopter Training Mission at Fort Campbell",
+      "link": "https://www.nytimes.com/2025/06/12/us/soldier-killed-helicopter-fort-campbell.html",
+      "published": "Thu, 12 Jun 2025 22:21:48 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "California Democrats Express Outrage at Padilla’s Treatment",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/democrats-in-california-expressed-outrage-at-a-senators-treatment-by-law-enforcement-officers",
+      "published": "Thu, 12 Jun 2025 22:20:19 +0000",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "Padilla’s scuffle stirs painful memories of a childhood spent proving his worth.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/padillas-scuffle-stirs-painful-memories-of-a-childhood-spent-proving-his-worth",
+      "published": "Thu, 12 Jun 2025 22:11:11 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Federal agents, joined by Secretary Noem, descend on a California community.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/federal-agents-joined-by-secretary-noem-descend-on-a-california-community",
+      "published": "Thu, 12 Jun 2025 21:59:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democratic senators denounce the rough treatment of one of their own.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/democratic-senators-padilla-treatment",
+      "published": "Thu, 12 Jun 2025 22:50:52 +0000",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Trump Bristles at ‘No Kings’ Protests",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-no-kings-protests.html",
+      "published": "Thu, 12 Jun 2025 20:54:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "F.A.A. Further Restricts Area Around Reagan Airport to Helicopters",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/faa-reagan-airport.html",
+      "published": "Thu, 12 Jun 2025 20:40:39 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Trump’s Immigration P.R. Campaign Enters a New Militarized Phase",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-immigration-pr-campaign.html",
+      "published": "Fri, 13 Jun 2025 01:30:30 +0000",
+      "sentiment": 0.14545454545454548
+    },
+    {
+      "title": "House Approves $9 Billion in Funding Cuts Affecting NPR, PBS and Foreign Aid",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/house-foreign-aid-public-broadcasting-funds-trump.html",
+      "published": "Fri, 13 Jun 2025 00:05:17 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Another Dozen Migrants Are Transferred to Guantánamo",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/migrants-guantanamo-trump.html",
+      "published": "Thu, 12 Jun 2025 19:36:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Calif. Senator Forcibly Removed and Handcuffed After Interrupting Noem",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/senator-alex-padilla-handcuffed.html",
+      "published": "Fri, 13 Jun 2025 02:50:25 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "G.O.P. Senators Want Fewer Cuts to Food Aid, Teeing Up a Fight with the House",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/republican-senators-food-aid.html",
+      "published": "Thu, 12 Jun 2025 20:39:52 +0000",
+      "sentiment": 0.4000000000000001
+    },
+    {
+      "title": "Trump Acknowledges Israel Could Attack Iran Soon",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-israel-iran.html",
+      "published": "Fri, 13 Jun 2025 02:25:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Senate Confirms Billy Long to Lead I.R.S., Ignoring Troubled Tax Credit History",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/billy-long-irs-commissioner-confirmation.html",
+      "published": "Thu, 12 Jun 2025 17:24:40 +0000",
+      "sentiment": -0.1375
+    },
+    {
+      "title": "Flights Briefly Grounded at Boston’s Logan Airport After JetBlue Plane Rolls Off Runway",
+      "link": "https://www.nytimes.com/2025/06/12/us/jetblue-logan-airport-boston.html",
+      "published": "Thu, 12 Jun 2025 18:56:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Night Out for Trump at the Theater, With a Pocket of Dissent",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-les-miserables.html",
+      "published": "Thu, 12 Jun 2025 20:29:04 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Federal Judge Will Hear Arguments Over Trump’s Troop Deployment to L.A. Protests",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/la-protests-trump-hearing-marines-national-guard.html",
+      "published": "Thu, 12 Jun 2025 18:55:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Here’s where anti-Trump protests are expected on Thursday",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/where-are-immigration-protests-expected-on-thursday",
+      "published": "Thu, 12 Jun 2025 17:14:32 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Rich Gain and Poor Lose in Republican Policy Bill, Budget Office Finds",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/rich-poor-republican-bill.html",
+      "published": "Thu, 12 Jun 2025 17:03:55 +0000",
+      "sentiment": 0.15833333333333333
+    },
+    {
+      "title": "Trump Blocks California E.V. Rules in Latest Move to Rein In the State",
+      "link": "https://www.nytimes.com/2025/06/12/us/california-trump-electric-vehicle-waiver.html",
+      "published": "Thu, 12 Jun 2025 19:28:09 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "The Justice Dept. orders prosecutors around the country to be on standby ahead of weekend protests.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/the-justice-dept-orders-prosecutors-around-the-country-to-be-on-standby-ahead-of-weekend-protests",
+      "published": "Thu, 12 Jun 2025 15:51:48 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lawyers for Kilmar Abrego Garcia Seek Sanctions Against Trump Officials",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/abrego-garcia-sanctions.html",
+      "published": "Thu, 12 Jun 2025 15:33:43 +0000",
+      "sentiment": 0.02023809523809522
+    },
+    {
+      "title": "Supreme Court Sides With Teenager in School Disability Discrimination Case",
+      "link": "https://www.nytimes.com/2025/06/12/us/supreme-court-school-disability.html",
+      "published": "Thu, 12 Jun 2025 16:15:41 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court Revives Family’s Suit Over FBI Raid of Wrong House",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/supreme-court-fbi-raid.html",
+      "published": "Thu, 12 Jun 2025 16:26:42 +0000",
+      "sentiment": -0.5
+    },
+    {
+      "title": "How the 2020 George Floyd Protests Are Haunting Democrats in 2025",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/democrats-california-protests-trump.html",
+      "published": "Thu, 12 Jun 2025 19:21:33 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2025/06/12/us/la-protests-trump-marines-ice/heres-the-latest",
+      "published": "Fri, 13 Jun 2025 01:56:09 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "6 Takeaways From Gavin Newsom’s Appearance on ‘The Daily’",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/gavin-newsom-the-daily-takeaways.html",
+      "published": "Thu, 12 Jun 2025 19:22:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Black and Latino Leaders Condemn Trump’s Use of Military in L.A.",
+      "link": "https://www.nytimes.com/2025/06/12/us/trump-protests-la-immigrants-civil-rights-leaders.html",
+      "published": "Thu, 12 Jun 2025 14:09:17 +0000",
+      "sentiment": -0.055555555555555546
+    },
+    {
+      "title": "Republicans in Congress Grill Democratic Governors on Immigration",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/republicans-governors-hochul-walz-immigration.html",
+      "published": "Thu, 12 Jun 2025 23:07:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Police on foot and horseback disperse protesters in downtown Los Angeles.",
+      "link": "https://www.nytimes.com/live/2025/06/11/us/los-angeles-protests-trump-ice/police-on-foot-and-horseback-disperse-protesters-in-downtown-los-angeles",
+      "published": "Thu, 12 Jun 2025 05:53:16 +0000",
+      "sentiment": -0.20000000000000004
+    },
+    {
+      "title": "Oregon Wildfire Destroys Homes and Forces Evacuations",
+      "link": "https://www.nytimes.com/2025/06/12/us/oregon-rowena-fire-evacuation.html",
+      "published": "Thu, 12 Jun 2025 23:14:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Church Leaders Shaken After a Man Was Detained in Their Parking Lot",
+      "link": "https://www.nytimes.com/2025/06/11/us/la-protests-ice-raids-church-arrest.html",
+      "published": "Thu, 12 Jun 2025 03:59:54 +0000",
+      "sentiment": 0.0
+    }
+  ]
+}

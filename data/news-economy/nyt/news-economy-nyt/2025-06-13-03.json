@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "title": "Trump Steel Tariffs Expand to Hit Home Appliances Like Refrigerators and Dishwashers",
+      "link": "https://www.nytimes.com/2025/06/12/us/politics/trump-tariffs-steel-home-appliances.html",
+      "published": "Fri, 13 Jun 2025 00:51:20 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "New China Trade ‘Deal’ Takes U.S. Back to Where It Started",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/us-china-trade-deal-trump.html",
+      "published": "Thu, 12 Jun 2025 06:55:34 +0000",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "How Labor Unions Came to Define the L.A. Immigration Protests",
+      "link": "https://www.nytimes.com/2025/06/11/business/economy/la-protests-immigrants-unions.html",
+      "published": "Thu, 12 Jun 2025 17:15:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Court Agrees to Keep Trump Tariffs Intact as Appeal Gets Underway",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/trump-tariffs-court.html",
+      "published": "Wed, 11 Jun 2025 01:24:21 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Trump Hails Progress With China, but Details Are Sketchy",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/us-china-trade-deal.html",
+      "published": "Wed, 11 Jun 2025 18:57:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "European Union Unveils Fresh Sanctions on Russia, Including a Nord Stream Ban",
+      "link": "https://www.nytimes.com/2025/06/10/world/europe/european-union-sanctions-russia.html",
+      "published": "Tue, 10 Jun 2025 18:24:28 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Trump Administration Holds Trade Talks With China as Fight Over Rare Earths Escalates",
+      "link": "https://www.nytimes.com/2025/06/10/business/economy/china-us-trade-talks.html",
+      "published": "Tue, 10 Jun 2025 20:54:30 +0000",
+      "sentiment": -0.17499999999999996
+    },
+    {
+      "title": "Trump Aides Urge Court to Spare Tariffs as They Dismiss Worries in Public",
+      "link": "https://www.nytimes.com/2025/06/09/us/politics/trump-tariffs-appeals-court.html",
+      "published": "Tue, 10 Jun 2025 16:36:17 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Democrats Hate Trump’s Policy Bill, but Love Some of Its Tax Cuts",
+      "link": "https://www.nytimes.com/2025/06/09/us/politics/democrats-trump-tax-cuts.html",
+      "published": "Mon, 09 Jun 2025 09:01:59 +0000",
+      "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "U.S. and China to Hold Economic Talks in London",
+      "link": "https://www.nytimes.com/2025/06/06/us/politics/us-china-trade-talks-london.html",
+      "published": "Sat, 07 Jun 2025 08:34:59 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "As Trump’s Tariffs Reshape Trade, Businesses Struggle With Economic Uncertainty",
+      "link": "https://www.nytimes.com/2025/06/06/business/economy/trump-tariffs-economy-uncertainty.html",
+      "published": "Fri, 06 Jun 2025 13:01:59 +0000",
+      "sentiment": 0.09
+    },
+    {
+      "title": "Fired by DOGE, More Federal Workers Are Flooding the Job Market",
+      "link": "https://www.nytimes.com/2025/06/06/us/politics/federal-workers-job-market.html",
+      "published": "Fri, 06 Jun 2025 11:50:41 +0000",
+      "sentiment": 0.18
+    },
+    {
+      "title": "Marina von Neumann Whitman Dead: International Trade Expert Was 90",
+      "link": "https://www.nytimes.com/2025/06/05/business/economy/marina-von-neumann-whitman-dead.html",
+      "published": "Sat, 07 Jun 2025 05:11:49 +0000",
+      "sentiment": 0.042857142857142864
+    },
+    {
+      "title": "Imports Plummet in April as Trump’s Tariffs Weigh on Trade",
+      "link": "https://www.nytimes.com/2025/06/05/business/economy/us-trade-data-deficit.html",
+      "published": "Thu, 05 Jun 2025 18:11:39 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "How Higher Tariffs on Steel and Aluminum Will Affect Companies",
+      "link": "https://www.nytimes.com/2025/06/04/business/economy/trump-tariffs-steel-aluminum-companies.html",
+      "published": "Wed, 04 Jun 2025 20:00:34 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Trump’s 50% Tariffs on Steel and Aluminum Imports Go Into Effect",
+      "link": "https://www.nytimes.com/2025/06/04/business/economy/trump-tariffs-steel-aluminum.html",
+      "published": "Wed, 04 Jun 2025 17:48:04 +0000",
+      "sentiment": 0.011666666666666667
+    },
+    {
+      "title": "U.S.-China Trade War Morphs From Tariffs Into Fight Over Supply Chain",
+      "link": "https://www.nytimes.com/2025/06/03/business/economy/us-china-trade-supply-chains.html",
+      "published": "Wed, 04 Jun 2025 03:07:39 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Trump’s Tariffs Will Drag Down the Global Economy, OECD Says",
+      "link": "https://www.nytimes.com/2025/06/03/business/trump-tariffs-oecd.html",
+      "published": "Tue, 03 Jun 2025 18:03:57 +0000",
+      "sentiment": -0.02222222222222223
+    },
+    {
+      "title": "As Courts Call Tariffs Into Question, Trump Again Turns to His Favorite Tool",
+      "link": "https://www.nytimes.com/2025/06/02/business/economy/trump-tariffs-courts.html",
+      "published": "Mon, 02 Jun 2025 20:53:42 +0000",
+      "sentiment": 0.2916666666666667
+    },
+    {
+      "title": "Trump Officials Unveil Budget Cuts to Aid for Health, Housing and Research",
+      "link": "https://www.nytimes.com/2025/05/30/us/politics/white-house-budget-trump.html",
+      "published": "Sat, 31 May 2025 13:51:33 +0000",
+      "sentiment": 0.06818181818181818
+    }
+  ]
+}

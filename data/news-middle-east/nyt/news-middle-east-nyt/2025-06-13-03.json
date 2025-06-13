@@ -1,0 +1,208 @@
+{
+  "entries": [
+    {
+      "title": "Israeli Strikes Kill IRGC Leader and Major Nuclear Scientists",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/irgc-iran-israel-strikes-nuclear.html",
+      "published": "Fri, 13 Jun 2025 03:11:04 +0000",
+      "sentiment": 0.0975
+    },
+    {
+      "title": "Oil Prices Surge and Stock Markets Stumble After Israel Strikes Iran",
+      "link": "https://www.nytimes.com/2025/06/12/business/energy-environment/israel-iran-oil-stock-markets.html",
+      "published": "Fri, 13 Jun 2025 03:04:41 +0000",
+      "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "U.S. Was Not Involved in Israeli Strikes on Iran, Rubio Says",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/trump-rubio-israel-iran-strikes.html",
+      "published": "Fri, 13 Jun 2025 03:06:08 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Netanyahu says fighting with Iran will continue as long as Israel deems necessary.",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/netanyahu-says-fighting-with-iran-will-continue-as-long-as-israel-deems-necessary.html",
+      "published": "Fri, 13 Jun 2025 02:33:10 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "What to Know About Israel’s Strikes on Iran’s Nuclear Program",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html",
+      "published": "Fri, 13 Jun 2025 03:01:02 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "After striking Iran, Israel braces for retaliation.",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/israel-iran-us-nuclear/after-striking-iran-israel-braces-for-retaliation",
+      "published": "Fri, 13 Jun 2025 01:09:54 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2025/06/12/world/israel-iran-us-nuclear/israel-strikes-iran",
+      "published": "Fri, 13 Jun 2025 02:06:03 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Why Israel May Be Considering an Attack on Iran",
+      "link": "https://www.nytimes.com/article/israel-iran-attack-why.html",
+      "published": "Fri, 13 Jun 2025 00:54:06 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Gaza Aid Group Says 8 Local Workers Killed and 21 Wounded",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran.html",
+      "published": "Thu, 12 Jun 2025 22:27:18 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "U.N. Watchdog Rules That Iran Is Not Complying With Nuclear Obligations",
+      "link": "https://www.nytimes.com/2025/06/12/world/middleeast/un-iaea-iran-nuclear-program.html",
+      "published": "Thu, 12 Jun 2025 18:54:08 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Gaza Aid Group Says Hamas Attacked Its Palestinian Workers",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/gaza-aid-hamas-attack.html",
+      "published": "Thu, 12 Jun 2025 03:26:48 +0000",
+      "sentiment": -0.20833333333333334
+    },
+    {
+      "title": "Israel Says It Recovered the Remains of Two Hostages in Gaza",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/israel-hostages-remains-gaza.html",
+      "published": "Wed, 11 Jun 2025 22:45:26 +0000",
+      "sentiment": -0.075
+    },
+    {
+      "title": "U.N. Report Says We’re Missing the Real Fertility Crisis",
+      "link": "https://www.nytimes.com/2025/06/11/world/fertility-crisis-un-report.html",
+      "published": "Wed, 11 Jun 2025 21:02:31 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Israel Appears Ready to Attack Iran",
+      "link": "https://www.nytimes.com/2025/06/11/us/politics/iran-us-iraq-diplomats-middle-east.html",
+      "published": "Fri, 13 Jun 2025 02:25:49 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Mike Huckabee, U.S. Ambassador to Israel, Questions Palestinian State Policy",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/mike-huckabee-israel-palestinian-state.html",
+      "published": "Wed, 11 Jun 2025 16:31:56 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Netanyahu Survives a Vote to Dissolve Parliament but Emerges Weakened",
+      "link": "https://www.nytimes.com/2025/06/11/world/middleeast/israel-knesset-vote-orthodox-draft-law.html",
+      "published": "Thu, 12 Jun 2025 13:12:34 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "In Hajj on Horseback Project, Pilgrims Ride All the Way From Spain",
+      "link": "https://www.nytimes.com/2025/06/11/world/europe/hajj-horses-spain-mecca.html",
+      "published": "Wed, 11 Jun 2025 09:02:29 +0000",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "The Tough Choice Facing Trump in the Iran Nuclear Talks",
+      "link": "https://www.nytimes.com/2025/06/10/us/politics/trump-iran-nuclear-talks.html",
+      "published": "Wed, 11 Jun 2025 01:22:56 +0000",
+      "sentiment": -0.3888888888888889
+    },
+    {
+      "title": "Palestinian Authority President Says Hamas Must Exit Gaza",
+      "link": "https://www.nytimes.com/2025/06/10/world/middleeast/palestinian-authority-abbas-hamas-gaza.html",
+      "published": "Tue, 10 Jun 2025 18:08:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.K., Canada and Others Impose Sanctions on Far-Right Israeli Ministers",
+      "link": "https://www.nytimes.com/2025/06/10/world/canada/uk-canada-sanctions-israel-smotrich-ben-gvir.html",
+      "published": "Tue, 10 Jun 2025 21:12:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel Deports Greta Thunberg and Other Activists on Gaza Aid Boat",
+      "link": "https://www.nytimes.com/2025/06/10/world/middleeast/israel-greta-thunberg-deport-gaza-flotilla.html",
+      "published": "Tue, 10 Jun 2025 20:14:45 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Young Israeli Hostage Says Finding Faith Helped Him Survive Hamas Captivity",
+      "link": "https://www.nytimes.com/2025/06/10/world/middleeast/hostages-god-gaza-tunnels.html",
+      "published": "Tue, 10 Jun 2025 17:56:44 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Israel Intercepts Gaza Aid Ship Carrying Greta Thunberg: What to Know",
+      "link": "https://www.nytimes.com/2025/06/09/world/middleeast/gaza-aid-boat-seizure-greta-thunberg-israel.html",
+      "published": "Wed, 11 Jun 2025 16:42:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘Dog Walking Is a Clear Crime’: Iran’s Latest Morality Push",
+      "link": "https://www.nytimes.com/2025/06/09/world/middleeast/iran-dog-walking-bans.html",
+      "published": "Mon, 09 Jun 2025 20:33:38 +0000",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Group Accuses Hamas of Threatening Aid Workers in Gaza",
+      "link": "https://www.nytimes.com/2025/06/09/world/middleeast/chaos-gaza-aid.html",
+      "published": "Tue, 10 Jun 2025 01:35:02 +0000",
+      "sentiment": -0.6666666666666666
+    },
+    {
+      "title": "Touring a Tunnel in Gaza That Leads Underneath a Hospital",
+      "link": "https://www.nytimes.com/2025/06/08/world/middleeast/gaza-hospital-tunnel.html",
+      "published": "Sun, 08 Jun 2025 21:49:10 +0000",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Israel Intercepts Gaza-Bound Aid Ship With Greta Thunberg Aboard",
+      "link": "https://www.nytimes.com/2025/06/08/world/middleeast/gaza-flotilla-greta-thunberg-israel.html",
+      "published": "Tue, 10 Jun 2025 10:12:26 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "They Went to Syria to Fight With Rebels. Now Some Are Joining the New Army.",
+      "link": "https://www.nytimes.com/2025/06/08/world/middleeast/syria-foreign-fighters.html",
+      "published": "Sun, 08 Jun 2025 09:00:47 +0000",
+      "sentiment": 0.17045454545454544
+    },
+    {
+      "title": "Israel Recovers Body of Thai Farmworker in Gaza",
+      "link": "https://www.nytimes.com/2025/06/07/world/middleeast/israel-thai-hostage-body-gaza.html",
+      "published": "Sat, 07 Jun 2025 21:06:45 +0000",
+      "sentiment": -0.1375
+    },
+    {
+      "title": "Parents in Gaza Are Running Out of Ways to Feed Their Children",
+      "link": "https://www.nytimes.com/2025/06/07/world/middleeast/gaza-hunger-children-malnutrition.html",
+      "published": "Sat, 07 Jun 2025 09:01:08 +0000",
+      "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Who Is Yasser Abu Shabab, the Leader of the Israeli-Backed Militia in Gaza?",
+      "link": "https://www.nytimes.com/2025/06/06/world/middleeast/israel-gaza-palestinian-militia-hamas-abu-shabab.html",
+      "published": "Fri, 06 Jun 2025 14:20:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Desperate and Hungry Palestinians Recall Deadly Shooting Near Gaza Aid Site",
+      "link": "https://www.nytimes.com/2025/06/06/world/middleeast/gaza-aid-center-shooting.html",
+      "published": "Fri, 06 Jun 2025 09:39:27 +0000",
+      "sentiment": -0.1142857142857143
+    },
+    {
+      "title": "Videos Show Chaos Around Israeli-Backed Gaza Food Sites",
+      "link": "https://www.nytimes.com/2025/06/06/world/middleeast/gaza-aid-site-shooting.html",
+      "published": "Fri, 06 Jun 2025 16:58:04 +0000",
+      "sentiment": -0.039999999999999994
+    },
+    {
+      "title": "A Professor Was Fired for Her Politics. Is That the Future of Academia?",
+      "link": "https://www.nytimes.com/2025/06/06/magazine/academic-freedom-politics.html",
+      "published": "Mon, 09 Jun 2025 20:02:17 +0000",
+      "sentiment": 0.125
+    }
+  ]
+}
