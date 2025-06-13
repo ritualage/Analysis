@@ -52,11 +52,11 @@ news-europe,bbc,rss,news-europe-bbc,http://feeds.bbci.co.uk/news/world/europe/rs
 news-latin-america,bbc,rss,news-latin-america-bbc,http://feeds.bbci.co.uk/news/world/latin_america/rss.xml,,hourly,2025-06-08T09:39,BBC News Latin America,http://bbc.co.uk
 news-middle-east,bbc,rss,news-middle-east-bbc,http://feeds.bbci.co.uk/news/world/middle_east/rss.xml,,hourly,2025-06-08T09:39,BBC News Middle East,http://bbc.co.uk
 news-us,bbc,rss,news-us-bbc,http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml,,hourly,2025-06-08T09:39,BBC News US & Canada,http://bbc.co.uk
-news-world,bbc,rss,news-world-bbc,http://feeds.bbci.co.uk/news/video_and_audio/world/rss.xml,,hourly,,BBC News World Video & Audio,http://bbc.co.uk
-news-business,bbc,rss,news-business-bbc,http://feeds.bbci.co.uk/news/video_and_audio/business/rss.xml,,hourly,,BBC News Business Video & Audio,http://bbc.co.uk
-news-politics,bbc,rss,news-politics-bbc,http://feeds.bbci.co.uk/news/video_and_audio/politics/rss.xml,,hourly,,BBC News Politics Video & Audio,http://bbc.co.uk
-news-top,bbc,rss,news-top-dw,https://rss.dw.com/rdf/rss-en-all,,hourly,2025-06-08T09:39,Top News from Deutsche Welle,https://www.dw.com
-news-europe,bbc,rss,news-europe-dw,https://rss.dw.com/rdf/rss-en-eu,,hourly,2025-06-08T09:39,Europe News from Deutsche Welle,https://www.dw.com
-news-world,bbc,rss,news-world-dw,https://rss.dw.com/rdf/rss-en-world,,hourly,2025-06-08T09:39,World News from Deutsche Welle,https://www.dw.com
-news-business,bbc,rss,news-business-dw,https://rss.dw.com/rdf/rss-en-bus,,hourly,2025-06-08T09:39,Business News from Deutsche Welle,https://www.dw.com
-news-asia,bbc,rss,news-asia-dw,https://rss.dw.com/rdf/rss-en-asia,,hourly,2025-06-08T09:39,Asia News from Deutsche Welle,https://www.dw.com
+news-world,bbc,rss,news-world-bbc,https://feeds.bbci.co.uk/news/world/rss.xml,,hourly,,BBC News World,http://bbc.co.uk
+news-business,bbc,rss,news-business-bbc,https://feeds.bbci.co.uk/news/business/rss.xml,,hourly,,BBC News Business,http://bbc.co.uk
+news-politics,bbc,rss,news-politics-bbc,https://feeds.bbci.co.uk/news/politics/rss.xml,,hourly,,BBC News Politics,http://bbc.co.uk
+news-top,dw,rss,news-top-dw,https://rss.dw.com/rdf/rss-en-all,,hourly,2025-06-08T09:39,Top News from Deutsche Welle,https://www.dw.com
+news-europe,dw,rss,news-europe-dw,https://rss.dw.com/rdf/rss-en-eu,,hourly,2025-06-08T09:39,Europe News from Deutsche Welle,https://www.dw.com
+news-world,dw,rss,news-world-dw,https://rss.dw.com/rdf/rss-en-world,,hourly,2025-06-08T09:39,World News from Deutsche Welle,https://www.dw.com
+news-business,dw,rss,news-business-dw,https://rss.dw.com/rdf/rss-en-bus,,hourly,2025-06-08T09:39,Business News from Deutsche Welle,https://www.dw.com
+news-asia,dw,rss,news-asia-dw,https://rss.dw.com/rdf/rss-en-asia,,hourly,2025-06-08T09:39,Asia News from Deutsche Welle,https://www.dw.com
