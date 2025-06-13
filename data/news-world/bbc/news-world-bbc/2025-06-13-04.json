@@ -1,0 +1,238 @@
+{
+  "entries": [
+    {
+      "title": "Air India plane crash claims at least 241 lives as one passenger survives",
+      "link": "https://www.bbc.com/news/articles/clyzepxnd41o",
+      "published": "Thu, 12 Jun 2025 21:29:19 GMT",
+      "sentiment": -0.09999999999999999
+    },
+    {
+      "title": "British man is only passenger to survive India plane crash",
+      "link": "https://www.bbc.com/news/articles/ce3v6drp96zo",
+      "published": "Thu, 12 Jun 2025 21:29:13 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "What we know so far after Air India flight to London crashes in Ahmedabad",
+      "link": "https://www.bbc.com/news/articles/c5y5nq170z4o",
+      "published": "Thu, 12 Jun 2025 17:26:05 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "What could have caused Air India plane to crash in 30 seconds?",
+      "link": "https://www.bbc.com/news/articles/c626y121rxxo",
+      "published": "Thu, 12 Jun 2025 20:20:47 GMT",
+      "sentiment": -0.15833333333333335
+    },
+    {
+      "title": "Spanish PM sorry for corruption scandal as opposition demands resignation",
+      "link": "https://www.bbc.com/news/articles/c0r1l2x1jgvo",
+      "published": "Thu, 12 Jun 2025 17:51:01 GMT",
+      "sentiment": -0.21851851851851853
+    },
+    {
+      "title": "Watchdog finds Iran failing to meet nuclear obligations for first time in 20 years",
+      "link": "https://www.bbc.com/news/articles/ce3v6w2qr12o",
+      "published": "Thu, 12 Jun 2025 18:09:12 GMT",
+      "sentiment": 0.09659090909090909
+    },
+    {
+      "title": "Mistrial declared on Weinstein rape charge after juror refuses to return",
+      "link": "https://www.bbc.com/news/articles/cpqegx8jx59o",
+      "published": "Thu, 12 Jun 2025 18:34:34 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US reviewing Aukus submarine pact as part of 'America First' agenda",
+      "link": "https://www.bbc.com/news/articles/cy8d3d5l9l1o",
+      "published": "Thu, 12 Jun 2025 01:43:24 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "'A shining light': Paul McCartney leads tributes to Brian Wilson",
+      "link": "https://www.bbc.com/news/articles/cg71xrxrn8go",
+      "published": "Thu, 12 Jun 2025 10:02:01 GMT",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Pope names Chinese bishop as he keeps historic Vatican-Beijing accord",
+      "link": "https://www.bbc.com/news/articles/cn4g9dlnynmo",
+      "published": "Thu, 12 Jun 2025 14:27:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Six Gaza aid boat activists deported from Israel after three days in detention",
+      "link": "https://www.bbc.com/news/articles/cx273w1032yo",
+      "published": "Thu, 12 Jun 2025 15:46:56 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Who has been arrested by ICE under Trump?",
+      "link": "https://www.bbc.com/news/articles/c86p821p660o",
+      "published": "Wed, 11 Jun 2025 13:36:51 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New species of dinosaur discovered that 'rewrites' T.rex family tree",
+      "link": "https://www.bbc.com/news/articles/cy8dzv3vp5jo",
+      "published": "Thu, 12 Jun 2025 00:31:20 GMT",
+      "sentiment": 0.12323232323232325
+    },
+    {
+      "title": "CIA analyst who leaked Israel strike plan sentenced to three years",
+      "link": "https://www.bbc.com/news/articles/cdxv3ledlvyo",
+      "published": "Thu, 12 Jun 2025 01:12:53 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Harvey Weinstein guilty of sexual assault after New York retrial",
+      "link": "https://www.bbc.com/news/articles/cn7z3gezdjro",
+      "published": "Wed, 11 Jun 2025 19:14:10 GMT",
+      "sentiment": 0.17727272727272728
+    },
+    {
+      "title": "BTS fan attempts to break into band member's home",
+      "link": "https://www.bbc.com/news/articles/czdy60gd02eo",
+      "published": "Thu, 12 Jun 2025 03:57:32 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
+      "title": "Israeli forces recover bodies of two hostages in Gaza, PM says",
+      "link": "https://www.bbc.com/news/articles/cm263j1g2rmo",
+      "published": "Wed, 11 Jun 2025 21:11:28 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Syria government says women must wear burkinis at public beaches",
+      "link": "https://www.bbc.com/news/articles/ckgq7d9qdego",
+      "published": "Wed, 11 Jun 2025 17:41:16 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine collects 1,212 bodies in latest swap with Russia",
+      "link": "https://www.bbc.com/news/articles/ckg752y13meo",
+      "published": "Wed, 11 Jun 2025 16:50:02 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Bomb attack plans found at Austria school shooting gunman's home",
+      "link": "https://www.bbc.com/news/articles/cm2kdy74v7go",
+      "published": "Wed, 11 Jun 2025 17:16:35 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UK soldier accused of raping British woman in Kenya",
+      "link": "https://www.bbc.com/news/articles/ceqg3xjp4rgo",
+      "published": "Wed, 11 Jun 2025 17:14:48 GMT",
+      "sentiment": 0.030000000000000006
+    },
+    {
+      "title": "Trump says rare earths deal 'done' with China",
+      "link": "https://www.bbc.com/news/articles/c4gkmy26e2po",
+      "published": "Thu, 12 Jun 2025 01:38:40 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "French antiques fraudsters found guilty of Versailles chair scam",
+      "link": "https://www.bbc.com/news/articles/cr7zye2l2r1o",
+      "published": "Wed, 11 Jun 2025 19:33:36 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "Polish PM Donald Tusk wins confidence vote",
+      "link": "https://www.bbc.com/news/articles/cx2ez231mpdo",
+      "published": "Wed, 11 Jun 2025 14:56:17 GMT",
+      "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "Gaza doctor whose nine children were killed in Israeli strike evacuated with son",
+      "link": "https://www.bbc.com/news/articles/cgmj09ggdnro",
+      "published": "Wed, 11 Jun 2025 17:31:21 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Nearly 50 people killed in South Africa floods",
+      "link": "https://www.bbc.com/news/articles/ckgqwg9gej7o",
+      "published": "Wed, 11 Jun 2025 16:02:34 GMT",
+      "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Who are the victims of the Air India plane crash?",
+      "link": "https://www.bbc.com/news/articles/cdd28legnzvo",
+      "published": "Thu, 12 Jun 2025 22:07:12 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Trump vowed to make the world safer - has he?",
+      "link": "https://www.bbc.com/news/articles/cj4270jp19xo",
+      "published": "Thu, 12 Jun 2025 23:08:18 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A frail cry and relief: Malnourished baby Siwar evacuated from Gaza",
+      "link": "https://www.bbc.com/news/articles/cn0g45z792do",
+      "published": "Wed, 11 Jun 2025 23:43:11 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Starvation alert as children fill Kenya refugee ward after US aid cuts",
+      "link": "https://www.bbc.com/news/articles/c1dew7zyg49o",
+      "published": "Thu, 12 Jun 2025 04:53:29 GMT",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "'For the sake of truth': A Weinstein victim's decision to take the stand again",
+      "link": "https://www.bbc.com/news/articles/cwyw8z2e5ljo",
+      "published": "Thu, 12 Jun 2025 16:04:10 GMT",
+      "sentiment": 0.18
+    },
+    {
+      "title": "The Korean bakery chain that says croissants don't have to be French",
+      "link": "https://www.bbc.com/news/articles/c629q4v05pwo",
+      "published": "Wed, 11 Jun 2025 23:57:26 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Brian Wilson: iconic images of a Beach Boy's life",
+      "link": "https://www.bbc.com/news/articles/c0j70748z4po",
+      "published": "Thu, 12 Jun 2025 03:38:12 GMT",
+      "sentiment": 0.4666666666666666
+    },
+    {
+      "title": "Air India plane crash - how the day unfolded",
+      "link": "https://www.bbc.com/news/videos/cx2q3z716v9o",
+      "published": "Thu, 12 Jun 2025 20:29:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Watch: Moment crowd boos and cheers Trump at Kennedy Center",
+      "link": "https://www.bbc.com/news/videos/cy8nlrmvnexo",
+      "published": "Thu, 12 Jun 2025 05:46:29 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Watch: Large fire breaks out at motorcycle parking lot in China",
+      "link": "https://www.bbc.com/news/videos/cx2j9lyy1k4o",
+      "published": "Thu, 12 Jun 2025 06:10:44 GMT",
+      "sentiment": -0.042857142857142885
+    },
+    {
+      "title": "Video shows crowd of Palestinians climbing fence and rushing to aid site",
+      "link": "https://www.bbc.com/news/articles/c8xgzj5ln5do",
+      "published": "Wed, 11 Jun 2025 17:01:12 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'Playing piano and singing takes me to another world' - Brian Wilson",
+      "link": "https://www.bbc.com/news/videos/cr7zye35gmlo",
+      "published": "Wed, 11 Jun 2025 18:32:20 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Watch: At the scene of Austria's worst shooting in modern history",
+      "link": "https://www.bbc.com/news/videos/cvgnyv4q168o",
+      "published": "Tue, 10 Jun 2025 19:42:44 GMT",
+      "sentiment": -0.25
+    }
+  ]
+}
