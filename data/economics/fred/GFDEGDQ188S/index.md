@@ -1,7 +1,7 @@
 ---
 layout: default
 title: fred - US Federal Debt: Total Public Debt as Percent of Gross Domestic Product
-date: 2025-06-04
+date: 2025-06-18T13:15
 ---
 
 ## fred - US Federal Debt: Total Public Debt as Percent of Gross Domestic Product
@@ -18,3 +18,4 @@ document.addEventListener('DOMContentLoaded', function(){
 ## File Versions:
 1. [Latest version](./latest.json)
 2. [2025-06-04.json](./2025-06-04.json)
+3. [2025-06-18.json](./2025-06-18.json)

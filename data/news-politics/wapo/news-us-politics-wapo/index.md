@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wapo - US Politics News from the Washington Post
-date: 
+date: 2025-06-13T04:23
 ---
 
 ## wapo - US Politics News from the Washington Post

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: dw - Europe News from Deutsche Welle
-date: 2025-06-18T13:15
+title: census - California Zip Code Demographics by ZIP Code
+date: 2025-06-18
 ---
 
-## dw - Europe News from Deutsche Welle
+## census - California Zip Code Demographics by ZIP Code
 
 <div id="data-chart"></div>
 <div id="data-table"></div>
@@ -15,6 +15,4 @@ document.addEventListener('DOMContentLoaded', function(){
 </script>
 
 ## File Versions:
-1. [Latest version](./latest.json)
-2. [2025-06-13-04.json](./2025-06-13-04.json)
-3. [2025-06-18-13.json](./2025-06-18-13.json)
+1. [Latest version](./latest.csv)
