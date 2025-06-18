@@ -60,3 +60,4 @@ news-europe,dw,rss,news-europe-dw,https://rss.dw.com/rdf/rss-en-eu,,hourly,2025-
 news-world,dw,rss,news-world-dw,https://rss.dw.com/rdf/rss-en-world,,hourly,2025-06-13T04:23,World News from Deutsche Welle,https://www.dw.com
 news-business,dw,rss,news-business-dw,https://rss.dw.com/rdf/rss-en-bus,,hourly,2025-06-13T04:23,Business News from Deutsche Welle,https://www.dw.com
 news-asia,dw,rss,news-asia-dw,https://rss.dw.com/rdf/rss-en-asia,,hourly,2025-06-13T04:23,Asia News from Deutsche Welle,https://www.dw.com
+demographics,census,csv,zip-demo-ca,,,static,2025-06-18,California Zip Code Demographics by ZIP Code,https://www.census.gov
