@@ -6,6 +6,9 @@ on:
     # Run every hour, five minutes after the hour
     - cron: '5 * * * *'
 
+permissions:
+  content: write
+
 jobs:
   run-update:
     runs-on: ubuntu-latest
