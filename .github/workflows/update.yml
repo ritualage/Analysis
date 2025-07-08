@@ -32,9 +32,13 @@ jobs:
           jupyter nbconvert --to notebook --execute data/update.ipynb --output update.ipynb --output-dir data
 
       - name: Create pull request
+        id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: 'Automated data update'
           branch: data-refresh
           title: 'Automated data update'
           body: 'This PR contains results from running `data/update.ipynb`.'
+          delete-branch: true
+          merge: true
+          merge-method: squash
