@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Africa News from the New York Times
-date: 2025-07-07T16:29
+date: 2025-07-08T18:13
 ---
 
 ## nyt - Africa News from the New York Times
