@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Run every hour, five minutes after the hour
-    - cron: '55 * * * *'
+    - cron: '5 * * * *'
 
 jobs:
   run-update:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Execute update notebook
         run: |
-          jupyter nbconvert --to notebook --execute data/update.ipynb --output data/update.ipynb
+          jupyter nbconvert --to notebook --execute data/update.ipynb --output update.ipynb --output-dir data
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
