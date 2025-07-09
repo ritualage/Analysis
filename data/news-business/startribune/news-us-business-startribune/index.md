@@ -1,7 +1,7 @@
 ---
 layout: default
 title: startribune - Business News from the Star Tribune
-date: 2025-07-08T19:12
+date: 2025-07-08T23:56
 ---
 
 ## startribune - Business News from the Star Tribune
@@ -26,3 +26,4 @@ document.addEventListener('DOMContentLoaded', function(){
 9. [2025-07-07-16.json](./2025-07-07-16.json)
 10. [2025-07-08-18.json](./2025-07-08-18.json)
 11. [2025-07-08-19.json](./2025-07-08-19.json)
+12. [2025-07-08-23.json](./2025-07-08-23.json)

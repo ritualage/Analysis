@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India
-date: 2025-07-08T19:12
+date: 2025-07-08T23:56
 ---
 
 ## toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India
